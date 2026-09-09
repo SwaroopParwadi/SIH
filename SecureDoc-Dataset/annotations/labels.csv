@@ -1,0 +1,2001 @@
+image_path,label,manipulation_type,case_id,suspicious_region,split
+authentic/SD_00000_authentic.jpg,authentic,none,SD_00000,,validation
+manipulated/SD_00000_text_change.jpg,manipulated,text_change,SD_00000,"[205, 150, 650, 173]",validation
+authentic/SD_00001_authentic.jpg,authentic,none,SD_00001,,train
+manipulated/SD_00001_photo_change.jpg,manipulated,photo_change,SD_00001,"[45, 100, 165, 250]",train
+authentic/SD_00002_authentic.jpg,authentic,none,SD_00002,,train
+manipulated/SD_00002_number_change.jpg,manipulated,number_change,SD_00002,"[205, 188, 650, 211]",train
+authentic/SD_00003_authentic.jpg,authentic,none,SD_00003,,validation
+manipulated/SD_00003_date_change.jpg,manipulated,date_change,SD_00003,"[205, 264, 650, 287]",validation
+authentic/SD_00004_authentic.jpg,authentic,none,SD_00004,,train
+manipulated/SD_00004_copy_paste.jpg,manipulated,copy_paste,SD_00004,"[205, 140, 500, 175]",train
+authentic/SD_00005_authentic.jpg,authentic,none,SD_00005,,train
+manipulated/SD_00005_clone.jpg,manipulated,clone,SD_00005,"[430, 270, 580, 305]",train
+authentic/SD_00006_authentic.jpg,authentic,none,SD_00006,,test
+manipulated/SD_00006_compression.jpg,manipulated,compression,SD_00006,"[0, 0, 700, 455]",test
+authentic/SD_00007_authentic.jpg,authentic,none,SD_00007,,validation
+manipulated/SD_00007_mixed.jpg,manipulated,mixed,SD_00007,"[45, 100, 650, 250]",validation
+authentic/SD_00008_authentic.jpg,authentic,none,SD_00008,,train
+manipulated/SD_00008_text_change.jpg,manipulated,text_change,SD_00008,"[205, 150, 650, 173]",train
+authentic/SD_00009_authentic.jpg,authentic,none,SD_00009,,train
+manipulated/SD_00009_photo_change.jpg,manipulated,photo_change,SD_00009,"[45, 100, 165, 250]",train
+authentic/SD_00010_authentic.jpg,authentic,none,SD_00010,,train
+manipulated/SD_00010_number_change.jpg,manipulated,number_change,SD_00010,"[205, 188, 650, 211]",train
+authentic/SD_00011_authentic.jpg,authentic,none,SD_00011,,validation
+manipulated/SD_00011_date_change.jpg,manipulated,date_change,SD_00011,"[205, 264, 650, 287]",validation
+authentic/SD_00012_authentic.jpg,authentic,none,SD_00012,,train
+manipulated/SD_00012_copy_paste.jpg,manipulated,copy_paste,SD_00012,"[205, 140, 500, 175]",train
+authentic/SD_00013_authentic.jpg,authentic,none,SD_00013,,train
+manipulated/SD_00013_clone.jpg,manipulated,clone,SD_00013,"[430, 270, 580, 305]",train
+authentic/SD_00014_authentic.jpg,authentic,none,SD_00014,,train
+manipulated/SD_00014_compression.jpg,manipulated,compression,SD_00014,"[0, 0, 700, 455]",train
+authentic/SD_00015_authentic.jpg,authentic,none,SD_00015,,train
+manipulated/SD_00015_mixed.jpg,manipulated,mixed,SD_00015,"[45, 100, 650, 250]",train
+authentic/SD_00016_authentic.jpg,authentic,none,SD_00016,,train
+manipulated/SD_00016_text_change.jpg,manipulated,text_change,SD_00016,"[205, 150, 650, 173]",train
+authentic/SD_00017_authentic.jpg,authentic,none,SD_00017,,train
+manipulated/SD_00017_photo_change.jpg,manipulated,photo_change,SD_00017,"[45, 100, 165, 250]",train
+authentic/SD_00018_authentic.jpg,authentic,none,SD_00018,,train
+manipulated/SD_00018_number_change.jpg,manipulated,number_change,SD_00018,"[205, 188, 650, 211]",train
+authentic/SD_00019_authentic.jpg,authentic,none,SD_00019,,validation
+manipulated/SD_00019_date_change.jpg,manipulated,date_change,SD_00019,"[205, 264, 650, 287]",validation
+authentic/SD_00020_authentic.jpg,authentic,none,SD_00020,,train
+manipulated/SD_00020_copy_paste.jpg,manipulated,copy_paste,SD_00020,"[205, 140, 500, 175]",train
+authentic/SD_00021_authentic.jpg,authentic,none,SD_00021,,validation
+manipulated/SD_00021_clone.jpg,manipulated,clone,SD_00021,"[430, 270, 580, 305]",validation
+authentic/SD_00022_authentic.jpg,authentic,none,SD_00022,,train
+manipulated/SD_00022_compression.jpg,manipulated,compression,SD_00022,"[0, 0, 700, 455]",train
+authentic/SD_00023_authentic.jpg,authentic,none,SD_00023,,train
+manipulated/SD_00023_mixed.jpg,manipulated,mixed,SD_00023,"[45, 100, 650, 250]",train
+authentic/SD_00024_authentic.jpg,authentic,none,SD_00024,,train
+manipulated/SD_00024_text_change.jpg,manipulated,text_change,SD_00024,"[205, 150, 650, 173]",train
+authentic/SD_00025_authentic.jpg,authentic,none,SD_00025,,test
+manipulated/SD_00025_photo_change.jpg,manipulated,photo_change,SD_00025,"[45, 100, 165, 250]",test
+authentic/SD_00026_authentic.jpg,authentic,none,SD_00026,,train
+manipulated/SD_00026_number_change.jpg,manipulated,number_change,SD_00026,"[205, 188, 650, 211]",train
+authentic/SD_00027_authentic.jpg,authentic,none,SD_00027,,test
+manipulated/SD_00027_date_change.jpg,manipulated,date_change,SD_00027,"[205, 264, 650, 287]",test
+authentic/SD_00028_authentic.jpg,authentic,none,SD_00028,,train
+manipulated/SD_00028_copy_paste.jpg,manipulated,copy_paste,SD_00028,"[205, 140, 500, 175]",train
+authentic/SD_00029_authentic.jpg,authentic,none,SD_00029,,train
+manipulated/SD_00029_clone.jpg,manipulated,clone,SD_00029,"[430, 270, 580, 305]",train
+authentic/SD_00030_authentic.jpg,authentic,none,SD_00030,,test
+manipulated/SD_00030_compression.jpg,manipulated,compression,SD_00030,"[0, 0, 700, 455]",test
+authentic/SD_00031_authentic.jpg,authentic,none,SD_00031,,train
+manipulated/SD_00031_mixed.jpg,manipulated,mixed,SD_00031,"[45, 100, 650, 250]",train
+authentic/SD_00032_authentic.jpg,authentic,none,SD_00032,,test
+manipulated/SD_00032_text_change.jpg,manipulated,text_change,SD_00032,"[205, 150, 650, 173]",test
+authentic/SD_00033_authentic.jpg,authentic,none,SD_00033,,train
+manipulated/SD_00033_photo_change.jpg,manipulated,photo_change,SD_00033,"[45, 100, 165, 250]",train
+authentic/SD_00034_authentic.jpg,authentic,none,SD_00034,,train
+manipulated/SD_00034_number_change.jpg,manipulated,number_change,SD_00034,"[205, 188, 650, 211]",train
+authentic/SD_00035_authentic.jpg,authentic,none,SD_00035,,train
+manipulated/SD_00035_date_change.jpg,manipulated,date_change,SD_00035,"[205, 264, 650, 287]",train
+authentic/SD_00036_authentic.jpg,authentic,none,SD_00036,,train
+manipulated/SD_00036_copy_paste.jpg,manipulated,copy_paste,SD_00036,"[205, 140, 500, 175]",train
+authentic/SD_00037_authentic.jpg,authentic,none,SD_00037,,train
+manipulated/SD_00037_clone.jpg,manipulated,clone,SD_00037,"[430, 270, 580, 305]",train
+authentic/SD_00038_authentic.jpg,authentic,none,SD_00038,,train
+manipulated/SD_00038_compression.jpg,manipulated,compression,SD_00038,"[0, 0, 700, 455]",train
+authentic/SD_00039_authentic.jpg,authentic,none,SD_00039,,train
+manipulated/SD_00039_mixed.jpg,manipulated,mixed,SD_00039,"[45, 100, 650, 250]",train
+authentic/SD_00040_authentic.jpg,authentic,none,SD_00040,,train
+manipulated/SD_00040_text_change.jpg,manipulated,text_change,SD_00040,"[205, 150, 650, 173]",train
+authentic/SD_00041_authentic.jpg,authentic,none,SD_00041,,train
+manipulated/SD_00041_photo_change.jpg,manipulated,photo_change,SD_00041,"[45, 100, 165, 250]",train
+authentic/SD_00042_authentic.jpg,authentic,none,SD_00042,,train
+manipulated/SD_00042_number_change.jpg,manipulated,number_change,SD_00042,"[205, 188, 650, 211]",train
+authentic/SD_00043_authentic.jpg,authentic,none,SD_00043,,train
+manipulated/SD_00043_date_change.jpg,manipulated,date_change,SD_00043,"[205, 264, 650, 287]",train
+authentic/SD_00044_authentic.jpg,authentic,none,SD_00044,,test
+manipulated/SD_00044_copy_paste.jpg,manipulated,copy_paste,SD_00044,"[205, 140, 500, 175]",test
+authentic/SD_00045_authentic.jpg,authentic,none,SD_00045,,train
+manipulated/SD_00045_clone.jpg,manipulated,clone,SD_00045,"[430, 270, 580, 305]",train
+authentic/SD_00046_authentic.jpg,authentic,none,SD_00046,,test
+manipulated/SD_00046_compression.jpg,manipulated,compression,SD_00046,"[0, 0, 700, 455]",test
+authentic/SD_00047_authentic.jpg,authentic,none,SD_00047,,train
+manipulated/SD_00047_mixed.jpg,manipulated,mixed,SD_00047,"[45, 100, 650, 250]",train
+authentic/SD_00048_authentic.jpg,authentic,none,SD_00048,,validation
+manipulated/SD_00048_text_change.jpg,manipulated,text_change,SD_00048,"[205, 150, 650, 173]",validation
+authentic/SD_00049_authentic.jpg,authentic,none,SD_00049,,train
+manipulated/SD_00049_photo_change.jpg,manipulated,photo_change,SD_00049,"[45, 100, 165, 250]",train
+authentic/SD_00050_authentic.jpg,authentic,none,SD_00050,,train
+manipulated/SD_00050_number_change.jpg,manipulated,number_change,SD_00050,"[205, 188, 650, 211]",train
+authentic/SD_00051_authentic.jpg,authentic,none,SD_00051,,train
+manipulated/SD_00051_date_change.jpg,manipulated,date_change,SD_00051,"[205, 264, 650, 287]",train
+authentic/SD_00052_authentic.jpg,authentic,none,SD_00052,,train
+manipulated/SD_00052_copy_paste.jpg,manipulated,copy_paste,SD_00052,"[205, 140, 500, 175]",train
+authentic/SD_00053_authentic.jpg,authentic,none,SD_00053,,train
+manipulated/SD_00053_clone.jpg,manipulated,clone,SD_00053,"[430, 270, 580, 305]",train
+authentic/SD_00054_authentic.jpg,authentic,none,SD_00054,,train
+manipulated/SD_00054_compression.jpg,manipulated,compression,SD_00054,"[0, 0, 700, 455]",train
+authentic/SD_00055_authentic.jpg,authentic,none,SD_00055,,train
+manipulated/SD_00055_mixed.jpg,manipulated,mixed,SD_00055,"[45, 100, 650, 250]",train
+authentic/SD_00056_authentic.jpg,authentic,none,SD_00056,,train
+manipulated/SD_00056_text_change.jpg,manipulated,text_change,SD_00056,"[205, 150, 650, 173]",train
+authentic/SD_00057_authentic.jpg,authentic,none,SD_00057,,test
+manipulated/SD_00057_photo_change.jpg,manipulated,photo_change,SD_00057,"[45, 100, 165, 250]",test
+authentic/SD_00058_authentic.jpg,authentic,none,SD_00058,,train
+manipulated/SD_00058_number_change.jpg,manipulated,number_change,SD_00058,"[205, 188, 650, 211]",train
+authentic/SD_00059_authentic.jpg,authentic,none,SD_00059,,validation
+manipulated/SD_00059_date_change.jpg,manipulated,date_change,SD_00059,"[205, 264, 650, 287]",validation
+authentic/SD_00060_authentic.jpg,authentic,none,SD_00060,,validation
+manipulated/SD_00060_copy_paste.jpg,manipulated,copy_paste,SD_00060,"[205, 140, 500, 175]",validation
+authentic/SD_00061_authentic.jpg,authentic,none,SD_00061,,train
+manipulated/SD_00061_clone.jpg,manipulated,clone,SD_00061,"[430, 270, 580, 305]",train
+authentic/SD_00062_authentic.jpg,authentic,none,SD_00062,,train
+manipulated/SD_00062_compression.jpg,manipulated,compression,SD_00062,"[0, 0, 700, 455]",train
+authentic/SD_00063_authentic.jpg,authentic,none,SD_00063,,train
+manipulated/SD_00063_mixed.jpg,manipulated,mixed,SD_00063,"[45, 100, 650, 250]",train
+authentic/SD_00064_authentic.jpg,authentic,none,SD_00064,,train
+manipulated/SD_00064_text_change.jpg,manipulated,text_change,SD_00064,"[205, 150, 650, 173]",train
+authentic/SD_00065_authentic.jpg,authentic,none,SD_00065,,validation
+manipulated/SD_00065_photo_change.jpg,manipulated,photo_change,SD_00065,"[45, 100, 165, 250]",validation
+authentic/SD_00066_authentic.jpg,authentic,none,SD_00066,,train
+manipulated/SD_00066_number_change.jpg,manipulated,number_change,SD_00066,"[205, 188, 650, 211]",train
+authentic/SD_00067_authentic.jpg,authentic,none,SD_00067,,test
+manipulated/SD_00067_date_change.jpg,manipulated,date_change,SD_00067,"[205, 264, 650, 287]",test
+authentic/SD_00068_authentic.jpg,authentic,none,SD_00068,,train
+manipulated/SD_00068_copy_paste.jpg,manipulated,copy_paste,SD_00068,"[205, 140, 500, 175]",train
+authentic/SD_00069_authentic.jpg,authentic,none,SD_00069,,validation
+manipulated/SD_00069_clone.jpg,manipulated,clone,SD_00069,"[430, 270, 580, 305]",validation
+authentic/SD_00070_authentic.jpg,authentic,none,SD_00070,,validation
+manipulated/SD_00070_compression.jpg,manipulated,compression,SD_00070,"[0, 0, 700, 455]",validation
+authentic/SD_00071_authentic.jpg,authentic,none,SD_00071,,test
+manipulated/SD_00071_mixed.jpg,manipulated,mixed,SD_00071,"[45, 100, 650, 250]",test
+authentic/SD_00072_authentic.jpg,authentic,none,SD_00072,,validation
+manipulated/SD_00072_text_change.jpg,manipulated,text_change,SD_00072,"[205, 150, 650, 173]",validation
+authentic/SD_00073_authentic.jpg,authentic,none,SD_00073,,test
+manipulated/SD_00073_photo_change.jpg,manipulated,photo_change,SD_00073,"[45, 100, 165, 250]",test
+authentic/SD_00074_authentic.jpg,authentic,none,SD_00074,,train
+manipulated/SD_00074_number_change.jpg,manipulated,number_change,SD_00074,"[205, 188, 650, 211]",train
+authentic/SD_00075_authentic.jpg,authentic,none,SD_00075,,train
+manipulated/SD_00075_date_change.jpg,manipulated,date_change,SD_00075,"[205, 264, 650, 287]",train
+authentic/SD_00076_authentic.jpg,authentic,none,SD_00076,,train
+manipulated/SD_00076_copy_paste.jpg,manipulated,copy_paste,SD_00076,"[205, 140, 500, 175]",train
+authentic/SD_00077_authentic.jpg,authentic,none,SD_00077,,train
+manipulated/SD_00077_clone.jpg,manipulated,clone,SD_00077,"[430, 270, 580, 305]",train
+authentic/SD_00078_authentic.jpg,authentic,none,SD_00078,,train
+manipulated/SD_00078_compression.jpg,manipulated,compression,SD_00078,"[0, 0, 700, 455]",train
+authentic/SD_00079_authentic.jpg,authentic,none,SD_00079,,train
+manipulated/SD_00079_mixed.jpg,manipulated,mixed,SD_00079,"[45, 100, 650, 250]",train
+authentic/SD_00080_authentic.jpg,authentic,none,SD_00080,,test
+manipulated/SD_00080_text_change.jpg,manipulated,text_change,SD_00080,"[205, 150, 650, 173]",test
+authentic/SD_00081_authentic.jpg,authentic,none,SD_00081,,test
+manipulated/SD_00081_photo_change.jpg,manipulated,photo_change,SD_00081,"[45, 100, 165, 250]",test
+authentic/SD_00082_authentic.jpg,authentic,none,SD_00082,,train
+manipulated/SD_00082_number_change.jpg,manipulated,number_change,SD_00082,"[205, 188, 650, 211]",train
+authentic/SD_00083_authentic.jpg,authentic,none,SD_00083,,train
+manipulated/SD_00083_date_change.jpg,manipulated,date_change,SD_00083,"[205, 264, 650, 287]",train
+authentic/SD_00084_authentic.jpg,authentic,none,SD_00084,,train
+manipulated/SD_00084_copy_paste.jpg,manipulated,copy_paste,SD_00084,"[205, 140, 500, 175]",train
+authentic/SD_00085_authentic.jpg,authentic,none,SD_00085,,train
+manipulated/SD_00085_clone.jpg,manipulated,clone,SD_00085,"[430, 270, 580, 305]",train
+authentic/SD_00086_authentic.jpg,authentic,none,SD_00086,,train
+manipulated/SD_00086_compression.jpg,manipulated,compression,SD_00086,"[0, 0, 700, 455]",train
+authentic/SD_00087_authentic.jpg,authentic,none,SD_00087,,validation
+manipulated/SD_00087_mixed.jpg,manipulated,mixed,SD_00087,"[45, 100, 650, 250]",validation
+authentic/SD_00088_authentic.jpg,authentic,none,SD_00088,,train
+manipulated/SD_00088_text_change.jpg,manipulated,text_change,SD_00088,"[205, 150, 650, 173]",train
+authentic/SD_00089_authentic.jpg,authentic,none,SD_00089,,test
+manipulated/SD_00089_photo_change.jpg,manipulated,photo_change,SD_00089,"[45, 100, 165, 250]",test
+authentic/SD_00090_authentic.jpg,authentic,none,SD_00090,,train
+manipulated/SD_00090_number_change.jpg,manipulated,number_change,SD_00090,"[205, 188, 650, 211]",train
+authentic/SD_00091_authentic.jpg,authentic,none,SD_00091,,train
+manipulated/SD_00091_date_change.jpg,manipulated,date_change,SD_00091,"[205, 264, 650, 287]",train
+authentic/SD_00092_authentic.jpg,authentic,none,SD_00092,,train
+manipulated/SD_00092_copy_paste.jpg,manipulated,copy_paste,SD_00092,"[205, 140, 500, 175]",train
+authentic/SD_00093_authentic.jpg,authentic,none,SD_00093,,validation
+manipulated/SD_00093_clone.jpg,manipulated,clone,SD_00093,"[430, 270, 580, 305]",validation
+authentic/SD_00094_authentic.jpg,authentic,none,SD_00094,,test
+manipulated/SD_00094_compression.jpg,manipulated,compression,SD_00094,"[0, 0, 700, 455]",test
+authentic/SD_00095_authentic.jpg,authentic,none,SD_00095,,test
+manipulated/SD_00095_mixed.jpg,manipulated,mixed,SD_00095,"[45, 100, 650, 250]",test
+authentic/SD_00096_authentic.jpg,authentic,none,SD_00096,,validation
+manipulated/SD_00096_text_change.jpg,manipulated,text_change,SD_00096,"[205, 150, 650, 173]",validation
+authentic/SD_00097_authentic.jpg,authentic,none,SD_00097,,train
+manipulated/SD_00097_photo_change.jpg,manipulated,photo_change,SD_00097,"[45, 100, 165, 250]",train
+authentic/SD_00098_authentic.jpg,authentic,none,SD_00098,,train
+manipulated/SD_00098_number_change.jpg,manipulated,number_change,SD_00098,"[205, 188, 650, 211]",train
+authentic/SD_00099_authentic.jpg,authentic,none,SD_00099,,test
+manipulated/SD_00099_date_change.jpg,manipulated,date_change,SD_00099,"[205, 264, 650, 287]",test
+authentic/SD_00100_authentic.jpg,authentic,none,SD_00100,,train
+manipulated/SD_00100_copy_paste.jpg,manipulated,copy_paste,SD_00100,"[205, 140, 500, 175]",train
+authentic/SD_00101_authentic.jpg,authentic,none,SD_00101,,train
+manipulated/SD_00101_clone.jpg,manipulated,clone,SD_00101,"[430, 270, 580, 305]",train
+authentic/SD_00102_authentic.jpg,authentic,none,SD_00102,,train
+manipulated/SD_00102_compression.jpg,manipulated,compression,SD_00102,"[0, 0, 700, 455]",train
+authentic/SD_00103_authentic.jpg,authentic,none,SD_00103,,test
+manipulated/SD_00103_mixed.jpg,manipulated,mixed,SD_00103,"[45, 100, 650, 250]",test
+authentic/SD_00104_authentic.jpg,authentic,none,SD_00104,,test
+manipulated/SD_00104_text_change.jpg,manipulated,text_change,SD_00104,"[205, 150, 650, 173]",test
+authentic/SD_00105_authentic.jpg,authentic,none,SD_00105,,train
+manipulated/SD_00105_photo_change.jpg,manipulated,photo_change,SD_00105,"[45, 100, 165, 250]",train
+authentic/SD_00106_authentic.jpg,authentic,none,SD_00106,,train
+manipulated/SD_00106_number_change.jpg,manipulated,number_change,SD_00106,"[205, 188, 650, 211]",train
+authentic/SD_00107_authentic.jpg,authentic,none,SD_00107,,train
+manipulated/SD_00107_date_change.jpg,manipulated,date_change,SD_00107,"[205, 264, 650, 287]",train
+authentic/SD_00108_authentic.jpg,authentic,none,SD_00108,,validation
+manipulated/SD_00108_copy_paste.jpg,manipulated,copy_paste,SD_00108,"[205, 140, 500, 175]",validation
+authentic/SD_00109_authentic.jpg,authentic,none,SD_00109,,train
+manipulated/SD_00109_clone.jpg,manipulated,clone,SD_00109,"[430, 270, 580, 305]",train
+authentic/SD_00110_authentic.jpg,authentic,none,SD_00110,,train
+manipulated/SD_00110_compression.jpg,manipulated,compression,SD_00110,"[0, 0, 700, 455]",train
+authentic/SD_00111_authentic.jpg,authentic,none,SD_00111,,train
+manipulated/SD_00111_mixed.jpg,manipulated,mixed,SD_00111,"[45, 100, 650, 250]",train
+authentic/SD_00112_authentic.jpg,authentic,none,SD_00112,,validation
+manipulated/SD_00112_text_change.jpg,manipulated,text_change,SD_00112,"[205, 150, 650, 173]",validation
+authentic/SD_00113_authentic.jpg,authentic,none,SD_00113,,train
+manipulated/SD_00113_photo_change.jpg,manipulated,photo_change,SD_00113,"[45, 100, 165, 250]",train
+authentic/SD_00114_authentic.jpg,authentic,none,SD_00114,,test
+manipulated/SD_00114_number_change.jpg,manipulated,number_change,SD_00114,"[205, 188, 650, 211]",test
+authentic/SD_00115_authentic.jpg,authentic,none,SD_00115,,train
+manipulated/SD_00115_date_change.jpg,manipulated,date_change,SD_00115,"[205, 264, 650, 287]",train
+authentic/SD_00116_authentic.jpg,authentic,none,SD_00116,,train
+manipulated/SD_00116_copy_paste.jpg,manipulated,copy_paste,SD_00116,"[205, 140, 500, 175]",train
+authentic/SD_00117_authentic.jpg,authentic,none,SD_00117,,validation
+manipulated/SD_00117_clone.jpg,manipulated,clone,SD_00117,"[430, 270, 580, 305]",validation
+authentic/SD_00118_authentic.jpg,authentic,none,SD_00118,,train
+manipulated/SD_00118_compression.jpg,manipulated,compression,SD_00118,"[0, 0, 700, 455]",train
+authentic/SD_00119_authentic.jpg,authentic,none,SD_00119,,train
+manipulated/SD_00119_mixed.jpg,manipulated,mixed,SD_00119,"[45, 100, 650, 250]",train
+authentic/SD_00120_authentic.jpg,authentic,none,SD_00120,,train
+manipulated/SD_00120_text_change.jpg,manipulated,text_change,SD_00120,"[205, 150, 650, 173]",train
+authentic/SD_00121_authentic.jpg,authentic,none,SD_00121,,train
+manipulated/SD_00121_photo_change.jpg,manipulated,photo_change,SD_00121,"[45, 100, 165, 250]",train
+authentic/SD_00122_authentic.jpg,authentic,none,SD_00122,,train
+manipulated/SD_00122_number_change.jpg,manipulated,number_change,SD_00122,"[205, 188, 650, 211]",train
+authentic/SD_00123_authentic.jpg,authentic,none,SD_00123,,validation
+manipulated/SD_00123_date_change.jpg,manipulated,date_change,SD_00123,"[205, 264, 650, 287]",validation
+authentic/SD_00124_authentic.jpg,authentic,none,SD_00124,,train
+manipulated/SD_00124_copy_paste.jpg,manipulated,copy_paste,SD_00124,"[205, 140, 500, 175]",train
+authentic/SD_00125_authentic.jpg,authentic,none,SD_00125,,train
+manipulated/SD_00125_clone.jpg,manipulated,clone,SD_00125,"[430, 270, 580, 305]",train
+authentic/SD_00126_authentic.jpg,authentic,none,SD_00126,,train
+manipulated/SD_00126_compression.jpg,manipulated,compression,SD_00126,"[0, 0, 700, 455]",train
+authentic/SD_00127_authentic.jpg,authentic,none,SD_00127,,test
+manipulated/SD_00127_mixed.jpg,manipulated,mixed,SD_00127,"[45, 100, 650, 250]",test
+authentic/SD_00128_authentic.jpg,authentic,none,SD_00128,,validation
+manipulated/SD_00128_text_change.jpg,manipulated,text_change,SD_00128,"[205, 150, 650, 173]",validation
+authentic/SD_00129_authentic.jpg,authentic,none,SD_00129,,train
+manipulated/SD_00129_photo_change.jpg,manipulated,photo_change,SD_00129,"[45, 100, 165, 250]",train
+authentic/SD_00130_authentic.jpg,authentic,none,SD_00130,,train
+manipulated/SD_00130_number_change.jpg,manipulated,number_change,SD_00130,"[205, 188, 650, 211]",train
+authentic/SD_00131_authentic.jpg,authentic,none,SD_00131,,validation
+manipulated/SD_00131_date_change.jpg,manipulated,date_change,SD_00131,"[205, 264, 650, 287]",validation
+authentic/SD_00132_authentic.jpg,authentic,none,SD_00132,,train
+manipulated/SD_00132_copy_paste.jpg,manipulated,copy_paste,SD_00132,"[205, 140, 500, 175]",train
+authentic/SD_00133_authentic.jpg,authentic,none,SD_00133,,train
+manipulated/SD_00133_clone.jpg,manipulated,clone,SD_00133,"[430, 270, 580, 305]",train
+authentic/SD_00134_authentic.jpg,authentic,none,SD_00134,,train
+manipulated/SD_00134_compression.jpg,manipulated,compression,SD_00134,"[0, 0, 700, 455]",train
+authentic/SD_00135_authentic.jpg,authentic,none,SD_00135,,validation
+manipulated/SD_00135_mixed.jpg,manipulated,mixed,SD_00135,"[45, 100, 650, 250]",validation
+authentic/SD_00136_authentic.jpg,authentic,none,SD_00136,,train
+manipulated/SD_00136_text_change.jpg,manipulated,text_change,SD_00136,"[205, 150, 650, 173]",train
+authentic/SD_00137_authentic.jpg,authentic,none,SD_00137,,train
+manipulated/SD_00137_photo_change.jpg,manipulated,photo_change,SD_00137,"[45, 100, 165, 250]",train
+authentic/SD_00138_authentic.jpg,authentic,none,SD_00138,,train
+manipulated/SD_00138_number_change.jpg,manipulated,number_change,SD_00138,"[205, 188, 650, 211]",train
+authentic/SD_00139_authentic.jpg,authentic,none,SD_00139,,train
+manipulated/SD_00139_date_change.jpg,manipulated,date_change,SD_00139,"[205, 264, 650, 287]",train
+authentic/SD_00140_authentic.jpg,authentic,none,SD_00140,,train
+manipulated/SD_00140_copy_paste.jpg,manipulated,copy_paste,SD_00140,"[205, 140, 500, 175]",train
+authentic/SD_00141_authentic.jpg,authentic,none,SD_00141,,validation
+manipulated/SD_00141_clone.jpg,manipulated,clone,SD_00141,"[430, 270, 580, 305]",validation
+authentic/SD_00142_authentic.jpg,authentic,none,SD_00142,,test
+manipulated/SD_00142_compression.jpg,manipulated,compression,SD_00142,"[0, 0, 700, 455]",test
+authentic/SD_00143_authentic.jpg,authentic,none,SD_00143,,train
+manipulated/SD_00143_mixed.jpg,manipulated,mixed,SD_00143,"[45, 100, 650, 250]",train
+authentic/SD_00144_authentic.jpg,authentic,none,SD_00144,,train
+manipulated/SD_00144_text_change.jpg,manipulated,text_change,SD_00144,"[205, 150, 650, 173]",train
+authentic/SD_00145_authentic.jpg,authentic,none,SD_00145,,train
+manipulated/SD_00145_photo_change.jpg,manipulated,photo_change,SD_00145,"[45, 100, 165, 250]",train
+authentic/SD_00146_authentic.jpg,authentic,none,SD_00146,,test
+manipulated/SD_00146_number_change.jpg,manipulated,number_change,SD_00146,"[205, 188, 650, 211]",test
+authentic/SD_00147_authentic.jpg,authentic,none,SD_00147,,train
+manipulated/SD_00147_date_change.jpg,manipulated,date_change,SD_00147,"[205, 264, 650, 287]",train
+authentic/SD_00148_authentic.jpg,authentic,none,SD_00148,,train
+manipulated/SD_00148_copy_paste.jpg,manipulated,copy_paste,SD_00148,"[205, 140, 500, 175]",train
+authentic/SD_00149_authentic.jpg,authentic,none,SD_00149,,train
+manipulated/SD_00149_clone.jpg,manipulated,clone,SD_00149,"[430, 270, 580, 305]",train
+authentic/SD_00150_authentic.jpg,authentic,none,SD_00150,,train
+manipulated/SD_00150_compression.jpg,manipulated,compression,SD_00150,"[0, 0, 700, 455]",train
+authentic/SD_00151_authentic.jpg,authentic,none,SD_00151,,train
+manipulated/SD_00151_mixed.jpg,manipulated,mixed,SD_00151,"[45, 100, 650, 250]",train
+authentic/SD_00152_authentic.jpg,authentic,none,SD_00152,,train
+manipulated/SD_00152_text_change.jpg,manipulated,text_change,SD_00152,"[205, 150, 650, 173]",train
+authentic/SD_00153_authentic.jpg,authentic,none,SD_00153,,train
+manipulated/SD_00153_photo_change.jpg,manipulated,photo_change,SD_00153,"[45, 100, 165, 250]",train
+authentic/SD_00154_authentic.jpg,authentic,none,SD_00154,,train
+manipulated/SD_00154_number_change.jpg,manipulated,number_change,SD_00154,"[205, 188, 650, 211]",train
+authentic/SD_00155_authentic.jpg,authentic,none,SD_00155,,train
+manipulated/SD_00155_date_change.jpg,manipulated,date_change,SD_00155,"[205, 264, 650, 287]",train
+authentic/SD_00156_authentic.jpg,authentic,none,SD_00156,,validation
+manipulated/SD_00156_copy_paste.jpg,manipulated,copy_paste,SD_00156,"[205, 140, 500, 175]",validation
+authentic/SD_00157_authentic.jpg,authentic,none,SD_00157,,train
+manipulated/SD_00157_clone.jpg,manipulated,clone,SD_00157,"[430, 270, 580, 305]",train
+authentic/SD_00158_authentic.jpg,authentic,none,SD_00158,,train
+manipulated/SD_00158_compression.jpg,manipulated,compression,SD_00158,"[0, 0, 700, 455]",train
+authentic/SD_00159_authentic.jpg,authentic,none,SD_00159,,test
+manipulated/SD_00159_mixed.jpg,manipulated,mixed,SD_00159,"[45, 100, 650, 250]",test
+authentic/SD_00160_authentic.jpg,authentic,none,SD_00160,,train
+manipulated/SD_00160_text_change.jpg,manipulated,text_change,SD_00160,"[205, 150, 650, 173]",train
+authentic/SD_00161_authentic.jpg,authentic,none,SD_00161,,validation
+manipulated/SD_00161_photo_change.jpg,manipulated,photo_change,SD_00161,"[45, 100, 165, 250]",validation
+authentic/SD_00162_authentic.jpg,authentic,none,SD_00162,,train
+manipulated/SD_00162_number_change.jpg,manipulated,number_change,SD_00162,"[205, 188, 650, 211]",train
+authentic/SD_00163_authentic.jpg,authentic,none,SD_00163,,test
+manipulated/SD_00163_date_change.jpg,manipulated,date_change,SD_00163,"[205, 264, 650, 287]",test
+authentic/SD_00164_authentic.jpg,authentic,none,SD_00164,,train
+manipulated/SD_00164_copy_paste.jpg,manipulated,copy_paste,SD_00164,"[205, 140, 500, 175]",train
+authentic/SD_00165_authentic.jpg,authentic,none,SD_00165,,validation
+manipulated/SD_00165_clone.jpg,manipulated,clone,SD_00165,"[430, 270, 580, 305]",validation
+authentic/SD_00166_authentic.jpg,authentic,none,SD_00166,,test
+manipulated/SD_00166_compression.jpg,manipulated,compression,SD_00166,"[0, 0, 700, 455]",test
+authentic/SD_00167_authentic.jpg,authentic,none,SD_00167,,test
+manipulated/SD_00167_mixed.jpg,manipulated,mixed,SD_00167,"[45, 100, 650, 250]",test
+authentic/SD_00168_authentic.jpg,authentic,none,SD_00168,,train
+manipulated/SD_00168_text_change.jpg,manipulated,text_change,SD_00168,"[205, 150, 650, 173]",train
+authentic/SD_00169_authentic.jpg,authentic,none,SD_00169,,validation
+manipulated/SD_00169_photo_change.jpg,manipulated,photo_change,SD_00169,"[45, 100, 165, 250]",validation
+authentic/SD_00170_authentic.jpg,authentic,none,SD_00170,,train
+manipulated/SD_00170_number_change.jpg,manipulated,number_change,SD_00170,"[205, 188, 650, 211]",train
+authentic/SD_00171_authentic.jpg,authentic,none,SD_00171,,train
+manipulated/SD_00171_date_change.jpg,manipulated,date_change,SD_00171,"[205, 264, 650, 287]",train
+authentic/SD_00172_authentic.jpg,authentic,none,SD_00172,,train
+manipulated/SD_00172_copy_paste.jpg,manipulated,copy_paste,SD_00172,"[205, 140, 500, 175]",train
+authentic/SD_00173_authentic.jpg,authentic,none,SD_00173,,train
+manipulated/SD_00173_clone.jpg,manipulated,clone,SD_00173,"[430, 270, 580, 305]",train
+authentic/SD_00174_authentic.jpg,authentic,none,SD_00174,,train
+manipulated/SD_00174_compression.jpg,manipulated,compression,SD_00174,"[0, 0, 700, 455]",train
+authentic/SD_00175_authentic.jpg,authentic,none,SD_00175,,test
+manipulated/SD_00175_mixed.jpg,manipulated,mixed,SD_00175,"[45, 100, 650, 250]",test
+authentic/SD_00176_authentic.jpg,authentic,none,SD_00176,,train
+manipulated/SD_00176_text_change.jpg,manipulated,text_change,SD_00176,"[205, 150, 650, 173]",train
+authentic/SD_00177_authentic.jpg,authentic,none,SD_00177,,train
+manipulated/SD_00177_photo_change.jpg,manipulated,photo_change,SD_00177,"[45, 100, 165, 250]",train
+authentic/SD_00178_authentic.jpg,authentic,none,SD_00178,,train
+manipulated/SD_00178_number_change.jpg,manipulated,number_change,SD_00178,"[205, 188, 650, 211]",train
+authentic/SD_00179_authentic.jpg,authentic,none,SD_00179,,train
+manipulated/SD_00179_date_change.jpg,manipulated,date_change,SD_00179,"[205, 264, 650, 287]",train
+authentic/SD_00180_authentic.jpg,authentic,none,SD_00180,,train
+manipulated/SD_00180_copy_paste.jpg,manipulated,copy_paste,SD_00180,"[205, 140, 500, 175]",train
+authentic/SD_00181_authentic.jpg,authentic,none,SD_00181,,train
+manipulated/SD_00181_clone.jpg,manipulated,clone,SD_00181,"[430, 270, 580, 305]",train
+authentic/SD_00182_authentic.jpg,authentic,none,SD_00182,,validation
+manipulated/SD_00182_compression.jpg,manipulated,compression,SD_00182,"[0, 0, 700, 455]",validation
+authentic/SD_00183_authentic.jpg,authentic,none,SD_00183,,train
+manipulated/SD_00183_mixed.jpg,manipulated,mixed,SD_00183,"[45, 100, 650, 250]",train
+authentic/SD_00184_authentic.jpg,authentic,none,SD_00184,,train
+manipulated/SD_00184_text_change.jpg,manipulated,text_change,SD_00184,"[205, 150, 650, 173]",train
+authentic/SD_00185_authentic.jpg,authentic,none,SD_00185,,train
+manipulated/SD_00185_photo_change.jpg,manipulated,photo_change,SD_00185,"[45, 100, 165, 250]",train
+authentic/SD_00186_authentic.jpg,authentic,none,SD_00186,,train
+manipulated/SD_00186_number_change.jpg,manipulated,number_change,SD_00186,"[205, 188, 650, 211]",train
+authentic/SD_00187_authentic.jpg,authentic,none,SD_00187,,train
+manipulated/SD_00187_date_change.jpg,manipulated,date_change,SD_00187,"[205, 264, 650, 287]",train
+authentic/SD_00188_authentic.jpg,authentic,none,SD_00188,,train
+manipulated/SD_00188_copy_paste.jpg,manipulated,copy_paste,SD_00188,"[205, 140, 500, 175]",train
+authentic/SD_00189_authentic.jpg,authentic,none,SD_00189,,train
+manipulated/SD_00189_clone.jpg,manipulated,clone,SD_00189,"[430, 270, 580, 305]",train
+authentic/SD_00190_authentic.jpg,authentic,none,SD_00190,,train
+manipulated/SD_00190_compression.jpg,manipulated,compression,SD_00190,"[0, 0, 700, 455]",train
+authentic/SD_00191_authentic.jpg,authentic,none,SD_00191,,train
+manipulated/SD_00191_mixed.jpg,manipulated,mixed,SD_00191,"[45, 100, 650, 250]",train
+authentic/SD_00192_authentic.jpg,authentic,none,SD_00192,,train
+manipulated/SD_00192_text_change.jpg,manipulated,text_change,SD_00192,"[205, 150, 650, 173]",train
+authentic/SD_00193_authentic.jpg,authentic,none,SD_00193,,train
+manipulated/SD_00193_photo_change.jpg,manipulated,photo_change,SD_00193,"[45, 100, 165, 250]",train
+authentic/SD_00194_authentic.jpg,authentic,none,SD_00194,,validation
+manipulated/SD_00194_number_change.jpg,manipulated,number_change,SD_00194,"[205, 188, 650, 211]",validation
+authentic/SD_00195_authentic.jpg,authentic,none,SD_00195,,train
+manipulated/SD_00195_date_change.jpg,manipulated,date_change,SD_00195,"[205, 264, 650, 287]",train
+authentic/SD_00196_authentic.jpg,authentic,none,SD_00196,,test
+manipulated/SD_00196_copy_paste.jpg,manipulated,copy_paste,SD_00196,"[205, 140, 500, 175]",test
+authentic/SD_00197_authentic.jpg,authentic,none,SD_00197,,train
+manipulated/SD_00197_clone.jpg,manipulated,clone,SD_00197,"[430, 270, 580, 305]",train
+authentic/SD_00198_authentic.jpg,authentic,none,SD_00198,,train
+manipulated/SD_00198_compression.jpg,manipulated,compression,SD_00198,"[0, 0, 700, 455]",train
+authentic/SD_00199_authentic.jpg,authentic,none,SD_00199,,train
+manipulated/SD_00199_mixed.jpg,manipulated,mixed,SD_00199,"[45, 100, 650, 250]",train
+authentic/SD_00200_authentic.jpg,authentic,none,SD_00200,,train
+manipulated/SD_00200_text_change.jpg,manipulated,text_change,SD_00200,"[205, 150, 650, 173]",train
+authentic/SD_00201_authentic.jpg,authentic,none,SD_00201,,train
+manipulated/SD_00201_photo_change.jpg,manipulated,photo_change,SD_00201,"[45, 100, 165, 250]",train
+authentic/SD_00202_authentic.jpg,authentic,none,SD_00202,,train
+manipulated/SD_00202_number_change.jpg,manipulated,number_change,SD_00202,"[205, 188, 650, 211]",train
+authentic/SD_00203_authentic.jpg,authentic,none,SD_00203,,test
+manipulated/SD_00203_date_change.jpg,manipulated,date_change,SD_00203,"[205, 264, 650, 287]",test
+authentic/SD_00204_authentic.jpg,authentic,none,SD_00204,,train
+manipulated/SD_00204_copy_paste.jpg,manipulated,copy_paste,SD_00204,"[205, 140, 500, 175]",train
+authentic/SD_00205_authentic.jpg,authentic,none,SD_00205,,validation
+manipulated/SD_00205_clone.jpg,manipulated,clone,SD_00205,"[430, 270, 580, 305]",validation
+authentic/SD_00206_authentic.jpg,authentic,none,SD_00206,,train
+manipulated/SD_00206_compression.jpg,manipulated,compression,SD_00206,"[0, 0, 700, 455]",train
+authentic/SD_00207_authentic.jpg,authentic,none,SD_00207,,train
+manipulated/SD_00207_mixed.jpg,manipulated,mixed,SD_00207,"[45, 100, 650, 250]",train
+authentic/SD_00208_authentic.jpg,authentic,none,SD_00208,,train
+manipulated/SD_00208_text_change.jpg,manipulated,text_change,SD_00208,"[205, 150, 650, 173]",train
+authentic/SD_00209_authentic.jpg,authentic,none,SD_00209,,train
+manipulated/SD_00209_photo_change.jpg,manipulated,photo_change,SD_00209,"[45, 100, 165, 250]",train
+authentic/SD_00210_authentic.jpg,authentic,none,SD_00210,,train
+manipulated/SD_00210_number_change.jpg,manipulated,number_change,SD_00210,"[205, 188, 650, 211]",train
+authentic/SD_00211_authentic.jpg,authentic,none,SD_00211,,train
+manipulated/SD_00211_date_change.jpg,manipulated,date_change,SD_00211,"[205, 264, 650, 287]",train
+authentic/SD_00212_authentic.jpg,authentic,none,SD_00212,,train
+manipulated/SD_00212_copy_paste.jpg,manipulated,copy_paste,SD_00212,"[205, 140, 500, 175]",train
+authentic/SD_00213_authentic.jpg,authentic,none,SD_00213,,train
+manipulated/SD_00213_clone.jpg,manipulated,clone,SD_00213,"[430, 270, 580, 305]",train
+authentic/SD_00214_authentic.jpg,authentic,none,SD_00214,,test
+manipulated/SD_00214_compression.jpg,manipulated,compression,SD_00214,"[0, 0, 700, 455]",test
+authentic/SD_00215_authentic.jpg,authentic,none,SD_00215,,train
+manipulated/SD_00215_mixed.jpg,manipulated,mixed,SD_00215,"[45, 100, 650, 250]",train
+authentic/SD_00216_authentic.jpg,authentic,none,SD_00216,,test
+manipulated/SD_00216_text_change.jpg,manipulated,text_change,SD_00216,"[205, 150, 650, 173]",test
+authentic/SD_00217_authentic.jpg,authentic,none,SD_00217,,test
+manipulated/SD_00217_photo_change.jpg,manipulated,photo_change,SD_00217,"[45, 100, 165, 250]",test
+authentic/SD_00218_authentic.jpg,authentic,none,SD_00218,,train
+manipulated/SD_00218_number_change.jpg,manipulated,number_change,SD_00218,"[205, 188, 650, 211]",train
+authentic/SD_00219_authentic.jpg,authentic,none,SD_00219,,validation
+manipulated/SD_00219_date_change.jpg,manipulated,date_change,SD_00219,"[205, 264, 650, 287]",validation
+authentic/SD_00220_authentic.jpg,authentic,none,SD_00220,,test
+manipulated/SD_00220_copy_paste.jpg,manipulated,copy_paste,SD_00220,"[205, 140, 500, 175]",test
+authentic/SD_00221_authentic.jpg,authentic,none,SD_00221,,train
+manipulated/SD_00221_clone.jpg,manipulated,clone,SD_00221,"[430, 270, 580, 305]",train
+authentic/SD_00222_authentic.jpg,authentic,none,SD_00222,,train
+manipulated/SD_00222_compression.jpg,manipulated,compression,SD_00222,"[0, 0, 700, 455]",train
+authentic/SD_00223_authentic.jpg,authentic,none,SD_00223,,test
+manipulated/SD_00223_mixed.jpg,manipulated,mixed,SD_00223,"[45, 100, 650, 250]",test
+authentic/SD_00224_authentic.jpg,authentic,none,SD_00224,,test
+manipulated/SD_00224_text_change.jpg,manipulated,text_change,SD_00224,"[205, 150, 650, 173]",test
+authentic/SD_00225_authentic.jpg,authentic,none,SD_00225,,test
+manipulated/SD_00225_photo_change.jpg,manipulated,photo_change,SD_00225,"[45, 100, 165, 250]",test
+authentic/SD_00226_authentic.jpg,authentic,none,SD_00226,,train
+manipulated/SD_00226_number_change.jpg,manipulated,number_change,SD_00226,"[205, 188, 650, 211]",train
+authentic/SD_00227_authentic.jpg,authentic,none,SD_00227,,train
+manipulated/SD_00227_date_change.jpg,manipulated,date_change,SD_00227,"[205, 264, 650, 287]",train
+authentic/SD_00228_authentic.jpg,authentic,none,SD_00228,,test
+manipulated/SD_00228_copy_paste.jpg,manipulated,copy_paste,SD_00228,"[205, 140, 500, 175]",test
+authentic/SD_00229_authentic.jpg,authentic,none,SD_00229,,train
+manipulated/SD_00229_clone.jpg,manipulated,clone,SD_00229,"[430, 270, 580, 305]",train
+authentic/SD_00230_authentic.jpg,authentic,none,SD_00230,,validation
+manipulated/SD_00230_compression.jpg,manipulated,compression,SD_00230,"[0, 0, 700, 455]",validation
+authentic/SD_00231_authentic.jpg,authentic,none,SD_00231,,train
+manipulated/SD_00231_mixed.jpg,manipulated,mixed,SD_00231,"[45, 100, 650, 250]",train
+authentic/SD_00232_authentic.jpg,authentic,none,SD_00232,,train
+manipulated/SD_00232_text_change.jpg,manipulated,text_change,SD_00232,"[205, 150, 650, 173]",train
+authentic/SD_00233_authentic.jpg,authentic,none,SD_00233,,test
+manipulated/SD_00233_photo_change.jpg,manipulated,photo_change,SD_00233,"[45, 100, 165, 250]",test
+authentic/SD_00234_authentic.jpg,authentic,none,SD_00234,,test
+manipulated/SD_00234_number_change.jpg,manipulated,number_change,SD_00234,"[205, 188, 650, 211]",test
+authentic/SD_00235_authentic.jpg,authentic,none,SD_00235,,validation
+manipulated/SD_00235_date_change.jpg,manipulated,date_change,SD_00235,"[205, 264, 650, 287]",validation
+authentic/SD_00236_authentic.jpg,authentic,none,SD_00236,,train
+manipulated/SD_00236_copy_paste.jpg,manipulated,copy_paste,SD_00236,"[205, 140, 500, 175]",train
+authentic/SD_00237_authentic.jpg,authentic,none,SD_00237,,train
+manipulated/SD_00237_clone.jpg,manipulated,clone,SD_00237,"[430, 270, 580, 305]",train
+authentic/SD_00238_authentic.jpg,authentic,none,SD_00238,,test
+manipulated/SD_00238_compression.jpg,manipulated,compression,SD_00238,"[0, 0, 700, 455]",test
+authentic/SD_00239_authentic.jpg,authentic,none,SD_00239,,train
+manipulated/SD_00239_mixed.jpg,manipulated,mixed,SD_00239,"[45, 100, 650, 250]",train
+authentic/SD_00240_authentic.jpg,authentic,none,SD_00240,,train
+manipulated/SD_00240_text_change.jpg,manipulated,text_change,SD_00240,"[205, 150, 650, 173]",train
+authentic/SD_00241_authentic.jpg,authentic,none,SD_00241,,train
+manipulated/SD_00241_photo_change.jpg,manipulated,photo_change,SD_00241,"[45, 100, 165, 250]",train
+authentic/SD_00242_authentic.jpg,authentic,none,SD_00242,,train
+manipulated/SD_00242_number_change.jpg,manipulated,number_change,SD_00242,"[205, 188, 650, 211]",train
+authentic/SD_00243_authentic.jpg,authentic,none,SD_00243,,validation
+manipulated/SD_00243_date_change.jpg,manipulated,date_change,SD_00243,"[205, 264, 650, 287]",validation
+authentic/SD_00244_authentic.jpg,authentic,none,SD_00244,,train
+manipulated/SD_00244_copy_paste.jpg,manipulated,copy_paste,SD_00244,"[205, 140, 500, 175]",train
+authentic/SD_00245_authentic.jpg,authentic,none,SD_00245,,validation
+manipulated/SD_00245_clone.jpg,manipulated,clone,SD_00245,"[430, 270, 580, 305]",validation
+authentic/SD_00246_authentic.jpg,authentic,none,SD_00246,,validation
+manipulated/SD_00246_compression.jpg,manipulated,compression,SD_00246,"[0, 0, 700, 455]",validation
+authentic/SD_00247_authentic.jpg,authentic,none,SD_00247,,train
+manipulated/SD_00247_mixed.jpg,manipulated,mixed,SD_00247,"[45, 100, 650, 250]",train
+authentic/SD_00248_authentic.jpg,authentic,none,SD_00248,,validation
+manipulated/SD_00248_text_change.jpg,manipulated,text_change,SD_00248,"[205, 150, 650, 173]",validation
+authentic/SD_00249_authentic.jpg,authentic,none,SD_00249,,train
+manipulated/SD_00249_photo_change.jpg,manipulated,photo_change,SD_00249,"[45, 100, 165, 250]",train
+authentic/SD_00250_authentic.jpg,authentic,none,SD_00250,,test
+manipulated/SD_00250_number_change.jpg,manipulated,number_change,SD_00250,"[205, 188, 650, 211]",test
+authentic/SD_00251_authentic.jpg,authentic,none,SD_00251,,train
+manipulated/SD_00251_date_change.jpg,manipulated,date_change,SD_00251,"[205, 264, 650, 287]",train
+authentic/SD_00252_authentic.jpg,authentic,none,SD_00252,,test
+manipulated/SD_00252_copy_paste.jpg,manipulated,copy_paste,SD_00252,"[205, 140, 500, 175]",test
+authentic/SD_00253_authentic.jpg,authentic,none,SD_00253,,validation
+manipulated/SD_00253_clone.jpg,manipulated,clone,SD_00253,"[430, 270, 580, 305]",validation
+authentic/SD_00254_authentic.jpg,authentic,none,SD_00254,,train
+manipulated/SD_00254_compression.jpg,manipulated,compression,SD_00254,"[0, 0, 700, 455]",train
+authentic/SD_00255_authentic.jpg,authentic,none,SD_00255,,train
+manipulated/SD_00255_mixed.jpg,manipulated,mixed,SD_00255,"[45, 100, 650, 250]",train
+authentic/SD_00256_authentic.jpg,authentic,none,SD_00256,,train
+manipulated/SD_00256_text_change.jpg,manipulated,text_change,SD_00256,"[205, 150, 650, 173]",train
+authentic/SD_00257_authentic.jpg,authentic,none,SD_00257,,validation
+manipulated/SD_00257_photo_change.jpg,manipulated,photo_change,SD_00257,"[45, 100, 165, 250]",validation
+authentic/SD_00258_authentic.jpg,authentic,none,SD_00258,,train
+manipulated/SD_00258_number_change.jpg,manipulated,number_change,SD_00258,"[205, 188, 650, 211]",train
+authentic/SD_00259_authentic.jpg,authentic,none,SD_00259,,train
+manipulated/SD_00259_date_change.jpg,manipulated,date_change,SD_00259,"[205, 264, 650, 287]",train
+authentic/SD_00260_authentic.jpg,authentic,none,SD_00260,,train
+manipulated/SD_00260_copy_paste.jpg,manipulated,copy_paste,SD_00260,"[205, 140, 500, 175]",train
+authentic/SD_00261_authentic.jpg,authentic,none,SD_00261,,train
+manipulated/SD_00261_clone.jpg,manipulated,clone,SD_00261,"[430, 270, 580, 305]",train
+authentic/SD_00262_authentic.jpg,authentic,none,SD_00262,,train
+manipulated/SD_00262_compression.jpg,manipulated,compression,SD_00262,"[0, 0, 700, 455]",train
+authentic/SD_00263_authentic.jpg,authentic,none,SD_00263,,train
+manipulated/SD_00263_mixed.jpg,manipulated,mixed,SD_00263,"[45, 100, 650, 250]",train
+authentic/SD_00264_authentic.jpg,authentic,none,SD_00264,,train
+manipulated/SD_00264_text_change.jpg,manipulated,text_change,SD_00264,"[205, 150, 650, 173]",train
+authentic/SD_00265_authentic.jpg,authentic,none,SD_00265,,train
+manipulated/SD_00265_photo_change.jpg,manipulated,photo_change,SD_00265,"[45, 100, 165, 250]",train
+authentic/SD_00266_authentic.jpg,authentic,none,SD_00266,,train
+manipulated/SD_00266_number_change.jpg,manipulated,number_change,SD_00266,"[205, 188, 650, 211]",train
+authentic/SD_00267_authentic.jpg,authentic,none,SD_00267,,train
+manipulated/SD_00267_date_change.jpg,manipulated,date_change,SD_00267,"[205, 264, 650, 287]",train
+authentic/SD_00268_authentic.jpg,authentic,none,SD_00268,,train
+manipulated/SD_00268_copy_paste.jpg,manipulated,copy_paste,SD_00268,"[205, 140, 500, 175]",train
+authentic/SD_00269_authentic.jpg,authentic,none,SD_00269,,validation
+manipulated/SD_00269_clone.jpg,manipulated,clone,SD_00269,"[430, 270, 580, 305]",validation
+authentic/SD_00270_authentic.jpg,authentic,none,SD_00270,,test
+manipulated/SD_00270_compression.jpg,manipulated,compression,SD_00270,"[0, 0, 700, 455]",test
+authentic/SD_00271_authentic.jpg,authentic,none,SD_00271,,test
+manipulated/SD_00271_mixed.jpg,manipulated,mixed,SD_00271,"[45, 100, 650, 250]",test
+authentic/SD_00272_authentic.jpg,authentic,none,SD_00272,,train
+manipulated/SD_00272_text_change.jpg,manipulated,text_change,SD_00272,"[205, 150, 650, 173]",train
+authentic/SD_00273_authentic.jpg,authentic,none,SD_00273,,test
+manipulated/SD_00273_photo_change.jpg,manipulated,photo_change,SD_00273,"[45, 100, 165, 250]",test
+authentic/SD_00274_authentic.jpg,authentic,none,SD_00274,,test
+manipulated/SD_00274_number_change.jpg,manipulated,number_change,SD_00274,"[205, 188, 650, 211]",test
+authentic/SD_00275_authentic.jpg,authentic,none,SD_00275,,train
+manipulated/SD_00275_date_change.jpg,manipulated,date_change,SD_00275,"[205, 264, 650, 287]",train
+authentic/SD_00276_authentic.jpg,authentic,none,SD_00276,,test
+manipulated/SD_00276_copy_paste.jpg,manipulated,copy_paste,SD_00276,"[205, 140, 500, 175]",test
+authentic/SD_00277_authentic.jpg,authentic,none,SD_00277,,train
+manipulated/SD_00277_clone.jpg,manipulated,clone,SD_00277,"[430, 270, 580, 305]",train
+authentic/SD_00278_authentic.jpg,authentic,none,SD_00278,,train
+manipulated/SD_00278_compression.jpg,manipulated,compression,SD_00278,"[0, 0, 700, 455]",train
+authentic/SD_00279_authentic.jpg,authentic,none,SD_00279,,train
+manipulated/SD_00279_mixed.jpg,manipulated,mixed,SD_00279,"[45, 100, 650, 250]",train
+authentic/SD_00280_authentic.jpg,authentic,none,SD_00280,,train
+manipulated/SD_00280_text_change.jpg,manipulated,text_change,SD_00280,"[205, 150, 650, 173]",train
+authentic/SD_00281_authentic.jpg,authentic,none,SD_00281,,test
+manipulated/SD_00281_photo_change.jpg,manipulated,photo_change,SD_00281,"[45, 100, 165, 250]",test
+authentic/SD_00282_authentic.jpg,authentic,none,SD_00282,,train
+manipulated/SD_00282_number_change.jpg,manipulated,number_change,SD_00282,"[205, 188, 650, 211]",train
+authentic/SD_00283_authentic.jpg,authentic,none,SD_00283,,train
+manipulated/SD_00283_date_change.jpg,manipulated,date_change,SD_00283,"[205, 264, 650, 287]",train
+authentic/SD_00284_authentic.jpg,authentic,none,SD_00284,,test
+manipulated/SD_00284_copy_paste.jpg,manipulated,copy_paste,SD_00284,"[205, 140, 500, 175]",test
+authentic/SD_00285_authentic.jpg,authentic,none,SD_00285,,validation
+manipulated/SD_00285_clone.jpg,manipulated,clone,SD_00285,"[430, 270, 580, 305]",validation
+authentic/SD_00286_authentic.jpg,authentic,none,SD_00286,,train
+manipulated/SD_00286_compression.jpg,manipulated,compression,SD_00286,"[0, 0, 700, 455]",train
+authentic/SD_00287_authentic.jpg,authentic,none,SD_00287,,train
+manipulated/SD_00287_mixed.jpg,manipulated,mixed,SD_00287,"[45, 100, 650, 250]",train
+authentic/SD_00288_authentic.jpg,authentic,none,SD_00288,,train
+manipulated/SD_00288_text_change.jpg,manipulated,text_change,SD_00288,"[205, 150, 650, 173]",train
+authentic/SD_00289_authentic.jpg,authentic,none,SD_00289,,train
+manipulated/SD_00289_photo_change.jpg,manipulated,photo_change,SD_00289,"[45, 100, 165, 250]",train
+authentic/SD_00290_authentic.jpg,authentic,none,SD_00290,,train
+manipulated/SD_00290_number_change.jpg,manipulated,number_change,SD_00290,"[205, 188, 650, 211]",train
+authentic/SD_00291_authentic.jpg,authentic,none,SD_00291,,train
+manipulated/SD_00291_date_change.jpg,manipulated,date_change,SD_00291,"[205, 264, 650, 287]",train
+authentic/SD_00292_authentic.jpg,authentic,none,SD_00292,,train
+manipulated/SD_00292_copy_paste.jpg,manipulated,copy_paste,SD_00292,"[205, 140, 500, 175]",train
+authentic/SD_00293_authentic.jpg,authentic,none,SD_00293,,train
+manipulated/SD_00293_clone.jpg,manipulated,clone,SD_00293,"[430, 270, 580, 305]",train
+authentic/SD_00294_authentic.jpg,authentic,none,SD_00294,,train
+manipulated/SD_00294_compression.jpg,manipulated,compression,SD_00294,"[0, 0, 700, 455]",train
+authentic/SD_00295_authentic.jpg,authentic,none,SD_00295,,train
+manipulated/SD_00295_mixed.jpg,manipulated,mixed,SD_00295,"[45, 100, 650, 250]",train
+authentic/SD_00296_authentic.jpg,authentic,none,SD_00296,,test
+manipulated/SD_00296_text_change.jpg,manipulated,text_change,SD_00296,"[205, 150, 650, 173]",test
+authentic/SD_00297_authentic.jpg,authentic,none,SD_00297,,train
+manipulated/SD_00297_photo_change.jpg,manipulated,photo_change,SD_00297,"[45, 100, 165, 250]",train
+authentic/SD_00298_authentic.jpg,authentic,none,SD_00298,,train
+manipulated/SD_00298_number_change.jpg,manipulated,number_change,SD_00298,"[205, 188, 650, 211]",train
+authentic/SD_00299_authentic.jpg,authentic,none,SD_00299,,train
+manipulated/SD_00299_date_change.jpg,manipulated,date_change,SD_00299,"[205, 264, 650, 287]",train
+authentic/SD_00300_authentic.jpg,authentic,none,SD_00300,,test
+manipulated/SD_00300_copy_paste.jpg,manipulated,copy_paste,SD_00300,"[205, 140, 500, 175]",test
+authentic/SD_00301_authentic.jpg,authentic,none,SD_00301,,train
+manipulated/SD_00301_clone.jpg,manipulated,clone,SD_00301,"[430, 270, 580, 305]",train
+authentic/SD_00302_authentic.jpg,authentic,none,SD_00302,,train
+manipulated/SD_00302_compression.jpg,manipulated,compression,SD_00302,"[0, 0, 700, 455]",train
+authentic/SD_00303_authentic.jpg,authentic,none,SD_00303,,train
+manipulated/SD_00303_mixed.jpg,manipulated,mixed,SD_00303,"[45, 100, 650, 250]",train
+authentic/SD_00304_authentic.jpg,authentic,none,SD_00304,,train
+manipulated/SD_00304_text_change.jpg,manipulated,text_change,SD_00304,"[205, 150, 650, 173]",train
+authentic/SD_00305_authentic.jpg,authentic,none,SD_00305,,validation
+manipulated/SD_00305_photo_change.jpg,manipulated,photo_change,SD_00305,"[45, 100, 165, 250]",validation
+authentic/SD_00306_authentic.jpg,authentic,none,SD_00306,,train
+manipulated/SD_00306_number_change.jpg,manipulated,number_change,SD_00306,"[205, 188, 650, 211]",train
+authentic/SD_00307_authentic.jpg,authentic,none,SD_00307,,train
+manipulated/SD_00307_date_change.jpg,manipulated,date_change,SD_00307,"[205, 264, 650, 287]",train
+authentic/SD_00308_authentic.jpg,authentic,none,SD_00308,,train
+manipulated/SD_00308_copy_paste.jpg,manipulated,copy_paste,SD_00308,"[205, 140, 500, 175]",train
+authentic/SD_00309_authentic.jpg,authentic,none,SD_00309,,train
+manipulated/SD_00309_clone.jpg,manipulated,clone,SD_00309,"[430, 270, 580, 305]",train
+authentic/SD_00310_authentic.jpg,authentic,none,SD_00310,,train
+manipulated/SD_00310_compression.jpg,manipulated,compression,SD_00310,"[0, 0, 700, 455]",train
+authentic/SD_00311_authentic.jpg,authentic,none,SD_00311,,train
+manipulated/SD_00311_mixed.jpg,manipulated,mixed,SD_00311,"[45, 100, 650, 250]",train
+authentic/SD_00312_authentic.jpg,authentic,none,SD_00312,,train
+manipulated/SD_00312_text_change.jpg,manipulated,text_change,SD_00312,"[205, 150, 650, 173]",train
+authentic/SD_00313_authentic.jpg,authentic,none,SD_00313,,train
+manipulated/SD_00313_photo_change.jpg,manipulated,photo_change,SD_00313,"[45, 100, 165, 250]",train
+authentic/SD_00314_authentic.jpg,authentic,none,SD_00314,,validation
+manipulated/SD_00314_number_change.jpg,manipulated,number_change,SD_00314,"[205, 188, 650, 211]",validation
+authentic/SD_00315_authentic.jpg,authentic,none,SD_00315,,train
+manipulated/SD_00315_date_change.jpg,manipulated,date_change,SD_00315,"[205, 264, 650, 287]",train
+authentic/SD_00316_authentic.jpg,authentic,none,SD_00316,,train
+manipulated/SD_00316_copy_paste.jpg,manipulated,copy_paste,SD_00316,"[205, 140, 500, 175]",train
+authentic/SD_00317_authentic.jpg,authentic,none,SD_00317,,train
+manipulated/SD_00317_clone.jpg,manipulated,clone,SD_00317,"[430, 270, 580, 305]",train
+authentic/SD_00318_authentic.jpg,authentic,none,SD_00318,,train
+manipulated/SD_00318_compression.jpg,manipulated,compression,SD_00318,"[0, 0, 700, 455]",train
+authentic/SD_00319_authentic.jpg,authentic,none,SD_00319,,validation
+manipulated/SD_00319_mixed.jpg,manipulated,mixed,SD_00319,"[45, 100, 650, 250]",validation
+authentic/SD_00320_authentic.jpg,authentic,none,SD_00320,,train
+manipulated/SD_00320_text_change.jpg,manipulated,text_change,SD_00320,"[205, 150, 650, 173]",train
+authentic/SD_00321_authentic.jpg,authentic,none,SD_00321,,train
+manipulated/SD_00321_photo_change.jpg,manipulated,photo_change,SD_00321,"[45, 100, 165, 250]",train
+authentic/SD_00322_authentic.jpg,authentic,none,SD_00322,,test
+manipulated/SD_00322_number_change.jpg,manipulated,number_change,SD_00322,"[205, 188, 650, 211]",test
+authentic/SD_00323_authentic.jpg,authentic,none,SD_00323,,test
+manipulated/SD_00323_date_change.jpg,manipulated,date_change,SD_00323,"[205, 264, 650, 287]",test
+authentic/SD_00324_authentic.jpg,authentic,none,SD_00324,,train
+manipulated/SD_00324_copy_paste.jpg,manipulated,copy_paste,SD_00324,"[205, 140, 500, 175]",train
+authentic/SD_00325_authentic.jpg,authentic,none,SD_00325,,train
+manipulated/SD_00325_clone.jpg,manipulated,clone,SD_00325,"[430, 270, 580, 305]",train
+authentic/SD_00326_authentic.jpg,authentic,none,SD_00326,,train
+manipulated/SD_00326_compression.jpg,manipulated,compression,SD_00326,"[0, 0, 700, 455]",train
+authentic/SD_00327_authentic.jpg,authentic,none,SD_00327,,train
+manipulated/SD_00327_mixed.jpg,manipulated,mixed,SD_00327,"[45, 100, 650, 250]",train
+authentic/SD_00328_authentic.jpg,authentic,none,SD_00328,,train
+manipulated/SD_00328_text_change.jpg,manipulated,text_change,SD_00328,"[205, 150, 650, 173]",train
+authentic/SD_00329_authentic.jpg,authentic,none,SD_00329,,train
+manipulated/SD_00329_photo_change.jpg,manipulated,photo_change,SD_00329,"[45, 100, 165, 250]",train
+authentic/SD_00330_authentic.jpg,authentic,none,SD_00330,,train
+manipulated/SD_00330_number_change.jpg,manipulated,number_change,SD_00330,"[205, 188, 650, 211]",train
+authentic/SD_00331_authentic.jpg,authentic,none,SD_00331,,validation
+manipulated/SD_00331_date_change.jpg,manipulated,date_change,SD_00331,"[205, 264, 650, 287]",validation
+authentic/SD_00332_authentic.jpg,authentic,none,SD_00332,,test
+manipulated/SD_00332_copy_paste.jpg,manipulated,copy_paste,SD_00332,"[205, 140, 500, 175]",test
+authentic/SD_00333_authentic.jpg,authentic,none,SD_00333,,train
+manipulated/SD_00333_clone.jpg,manipulated,clone,SD_00333,"[430, 270, 580, 305]",train
+authentic/SD_00334_authentic.jpg,authentic,none,SD_00334,,train
+manipulated/SD_00334_compression.jpg,manipulated,compression,SD_00334,"[0, 0, 700, 455]",train
+authentic/SD_00335_authentic.jpg,authentic,none,SD_00335,,train
+manipulated/SD_00335_mixed.jpg,manipulated,mixed,SD_00335,"[45, 100, 650, 250]",train
+authentic/SD_00336_authentic.jpg,authentic,none,SD_00336,,train
+manipulated/SD_00336_text_change.jpg,manipulated,text_change,SD_00336,"[205, 150, 650, 173]",train
+authentic/SD_00337_authentic.jpg,authentic,none,SD_00337,,train
+manipulated/SD_00337_photo_change.jpg,manipulated,photo_change,SD_00337,"[45, 100, 165, 250]",train
+authentic/SD_00338_authentic.jpg,authentic,none,SD_00338,,validation
+manipulated/SD_00338_number_change.jpg,manipulated,number_change,SD_00338,"[205, 188, 650, 211]",validation
+authentic/SD_00339_authentic.jpg,authentic,none,SD_00339,,train
+manipulated/SD_00339_date_change.jpg,manipulated,date_change,SD_00339,"[205, 264, 650, 287]",train
+authentic/SD_00340_authentic.jpg,authentic,none,SD_00340,,train
+manipulated/SD_00340_copy_paste.jpg,manipulated,copy_paste,SD_00340,"[205, 140, 500, 175]",train
+authentic/SD_00341_authentic.jpg,authentic,none,SD_00341,,train
+manipulated/SD_00341_clone.jpg,manipulated,clone,SD_00341,"[430, 270, 580, 305]",train
+authentic/SD_00342_authentic.jpg,authentic,none,SD_00342,,train
+manipulated/SD_00342_compression.jpg,manipulated,compression,SD_00342,"[0, 0, 700, 455]",train
+authentic/SD_00343_authentic.jpg,authentic,none,SD_00343,,train
+manipulated/SD_00343_mixed.jpg,manipulated,mixed,SD_00343,"[45, 100, 650, 250]",train
+authentic/SD_00344_authentic.jpg,authentic,none,SD_00344,,test
+manipulated/SD_00344_text_change.jpg,manipulated,text_change,SD_00344,"[205, 150, 650, 173]",test
+authentic/SD_00345_authentic.jpg,authentic,none,SD_00345,,train
+manipulated/SD_00345_photo_change.jpg,manipulated,photo_change,SD_00345,"[45, 100, 165, 250]",train
+authentic/SD_00346_authentic.jpg,authentic,none,SD_00346,,validation
+manipulated/SD_00346_number_change.jpg,manipulated,number_change,SD_00346,"[205, 188, 650, 211]",validation
+authentic/SD_00347_authentic.jpg,authentic,none,SD_00347,,train
+manipulated/SD_00347_date_change.jpg,manipulated,date_change,SD_00347,"[205, 264, 650, 287]",train
+authentic/SD_00348_authentic.jpg,authentic,none,SD_00348,,test
+manipulated/SD_00348_copy_paste.jpg,manipulated,copy_paste,SD_00348,"[205, 140, 500, 175]",test
+authentic/SD_00349_authentic.jpg,authentic,none,SD_00349,,train
+manipulated/SD_00349_clone.jpg,manipulated,clone,SD_00349,"[430, 270, 580, 305]",train
+authentic/SD_00350_authentic.jpg,authentic,none,SD_00350,,train
+manipulated/SD_00350_compression.jpg,manipulated,compression,SD_00350,"[0, 0, 700, 455]",train
+authentic/SD_00351_authentic.jpg,authentic,none,SD_00351,,train
+manipulated/SD_00351_mixed.jpg,manipulated,mixed,SD_00351,"[45, 100, 650, 250]",train
+authentic/SD_00352_authentic.jpg,authentic,none,SD_00352,,test
+manipulated/SD_00352_text_change.jpg,manipulated,text_change,SD_00352,"[205, 150, 650, 173]",test
+authentic/SD_00353_authentic.jpg,authentic,none,SD_00353,,train
+manipulated/SD_00353_photo_change.jpg,manipulated,photo_change,SD_00353,"[45, 100, 165, 250]",train
+authentic/SD_00354_authentic.jpg,authentic,none,SD_00354,,train
+manipulated/SD_00354_number_change.jpg,manipulated,number_change,SD_00354,"[205, 188, 650, 211]",train
+authentic/SD_00355_authentic.jpg,authentic,none,SD_00355,,train
+manipulated/SD_00355_date_change.jpg,manipulated,date_change,SD_00355,"[205, 264, 650, 287]",train
+authentic/SD_00356_authentic.jpg,authentic,none,SD_00356,,train
+manipulated/SD_00356_copy_paste.jpg,manipulated,copy_paste,SD_00356,"[205, 140, 500, 175]",train
+authentic/SD_00357_authentic.jpg,authentic,none,SD_00357,,train
+manipulated/SD_00357_clone.jpg,manipulated,clone,SD_00357,"[430, 270, 580, 305]",train
+authentic/SD_00358_authentic.jpg,authentic,none,SD_00358,,train
+manipulated/SD_00358_compression.jpg,manipulated,compression,SD_00358,"[0, 0, 700, 455]",train
+authentic/SD_00359_authentic.jpg,authentic,none,SD_00359,,train
+manipulated/SD_00359_mixed.jpg,manipulated,mixed,SD_00359,"[45, 100, 650, 250]",train
+authentic/SD_00360_authentic.jpg,authentic,none,SD_00360,,train
+manipulated/SD_00360_text_change.jpg,manipulated,text_change,SD_00360,"[205, 150, 650, 173]",train
+authentic/SD_00361_authentic.jpg,authentic,none,SD_00361,,train
+manipulated/SD_00361_photo_change.jpg,manipulated,photo_change,SD_00361,"[45, 100, 165, 250]",train
+authentic/SD_00362_authentic.jpg,authentic,none,SD_00362,,validation
+manipulated/SD_00362_number_change.jpg,manipulated,number_change,SD_00362,"[205, 188, 650, 211]",validation
+authentic/SD_00363_authentic.jpg,authentic,none,SD_00363,,test
+manipulated/SD_00363_date_change.jpg,manipulated,date_change,SD_00363,"[205, 264, 650, 287]",test
+authentic/SD_00364_authentic.jpg,authentic,none,SD_00364,,train
+manipulated/SD_00364_copy_paste.jpg,manipulated,copy_paste,SD_00364,"[205, 140, 500, 175]",train
+authentic/SD_00365_authentic.jpg,authentic,none,SD_00365,,train
+manipulated/SD_00365_clone.jpg,manipulated,clone,SD_00365,"[430, 270, 580, 305]",train
+authentic/SD_00366_authentic.jpg,authentic,none,SD_00366,,train
+manipulated/SD_00366_compression.jpg,manipulated,compression,SD_00366,"[0, 0, 700, 455]",train
+authentic/SD_00367_authentic.jpg,authentic,none,SD_00367,,test
+manipulated/SD_00367_mixed.jpg,manipulated,mixed,SD_00367,"[45, 100, 650, 250]",test
+authentic/SD_00368_authentic.jpg,authentic,none,SD_00368,,train
+manipulated/SD_00368_text_change.jpg,manipulated,text_change,SD_00368,"[205, 150, 650, 173]",train
+authentic/SD_00369_authentic.jpg,authentic,none,SD_00369,,train
+manipulated/SD_00369_photo_change.jpg,manipulated,photo_change,SD_00369,"[45, 100, 165, 250]",train
+authentic/SD_00370_authentic.jpg,authentic,none,SD_00370,,test
+manipulated/SD_00370_number_change.jpg,manipulated,number_change,SD_00370,"[205, 188, 650, 211]",test
+authentic/SD_00371_authentic.jpg,authentic,none,SD_00371,,validation
+manipulated/SD_00371_date_change.jpg,manipulated,date_change,SD_00371,"[205, 264, 650, 287]",validation
+authentic/SD_00372_authentic.jpg,authentic,none,SD_00372,,train
+manipulated/SD_00372_copy_paste.jpg,manipulated,copy_paste,SD_00372,"[205, 140, 500, 175]",train
+authentic/SD_00373_authentic.jpg,authentic,none,SD_00373,,test
+manipulated/SD_00373_clone.jpg,manipulated,clone,SD_00373,"[430, 270, 580, 305]",test
+authentic/SD_00374_authentic.jpg,authentic,none,SD_00374,,train
+manipulated/SD_00374_compression.jpg,manipulated,compression,SD_00374,"[0, 0, 700, 455]",train
+authentic/SD_00375_authentic.jpg,authentic,none,SD_00375,,train
+manipulated/SD_00375_mixed.jpg,manipulated,mixed,SD_00375,"[45, 100, 650, 250]",train
+authentic/SD_00376_authentic.jpg,authentic,none,SD_00376,,train
+manipulated/SD_00376_text_change.jpg,manipulated,text_change,SD_00376,"[205, 150, 650, 173]",train
+authentic/SD_00377_authentic.jpg,authentic,none,SD_00377,,train
+manipulated/SD_00377_photo_change.jpg,manipulated,photo_change,SD_00377,"[45, 100, 165, 250]",train
+authentic/SD_00378_authentic.jpg,authentic,none,SD_00378,,train
+manipulated/SD_00378_number_change.jpg,manipulated,number_change,SD_00378,"[205, 188, 650, 211]",train
+authentic/SD_00379_authentic.jpg,authentic,none,SD_00379,,test
+manipulated/SD_00379_date_change.jpg,manipulated,date_change,SD_00379,"[205, 264, 650, 287]",test
+authentic/SD_00380_authentic.jpg,authentic,none,SD_00380,,train
+manipulated/SD_00380_copy_paste.jpg,manipulated,copy_paste,SD_00380,"[205, 140, 500, 175]",train
+authentic/SD_00381_authentic.jpg,authentic,none,SD_00381,,train
+manipulated/SD_00381_clone.jpg,manipulated,clone,SD_00381,"[430, 270, 580, 305]",train
+authentic/SD_00382_authentic.jpg,authentic,none,SD_00382,,validation
+manipulated/SD_00382_compression.jpg,manipulated,compression,SD_00382,"[0, 0, 700, 455]",validation
+authentic/SD_00383_authentic.jpg,authentic,none,SD_00383,,train
+manipulated/SD_00383_mixed.jpg,manipulated,mixed,SD_00383,"[45, 100, 650, 250]",train
+authentic/SD_00384_authentic.jpg,authentic,none,SD_00384,,train
+manipulated/SD_00384_text_change.jpg,manipulated,text_change,SD_00384,"[205, 150, 650, 173]",train
+authentic/SD_00385_authentic.jpg,authentic,none,SD_00385,,train
+manipulated/SD_00385_photo_change.jpg,manipulated,photo_change,SD_00385,"[45, 100, 165, 250]",train
+authentic/SD_00386_authentic.jpg,authentic,none,SD_00386,,train
+manipulated/SD_00386_number_change.jpg,manipulated,number_change,SD_00386,"[205, 188, 650, 211]",train
+authentic/SD_00387_authentic.jpg,authentic,none,SD_00387,,test
+manipulated/SD_00387_date_change.jpg,manipulated,date_change,SD_00387,"[205, 264, 650, 287]",test
+authentic/SD_00388_authentic.jpg,authentic,none,SD_00388,,test
+manipulated/SD_00388_copy_paste.jpg,manipulated,copy_paste,SD_00388,"[205, 140, 500, 175]",test
+authentic/SD_00389_authentic.jpg,authentic,none,SD_00389,,test
+manipulated/SD_00389_clone.jpg,manipulated,clone,SD_00389,"[430, 270, 580, 305]",test
+authentic/SD_00390_authentic.jpg,authentic,none,SD_00390,,validation
+manipulated/SD_00390_compression.jpg,manipulated,compression,SD_00390,"[0, 0, 700, 455]",validation
+authentic/SD_00391_authentic.jpg,authentic,none,SD_00391,,train
+manipulated/SD_00391_mixed.jpg,manipulated,mixed,SD_00391,"[45, 100, 650, 250]",train
+authentic/SD_00392_authentic.jpg,authentic,none,SD_00392,,train
+manipulated/SD_00392_text_change.jpg,manipulated,text_change,SD_00392,"[205, 150, 650, 173]",train
+authentic/SD_00393_authentic.jpg,authentic,none,SD_00393,,train
+manipulated/SD_00393_photo_change.jpg,manipulated,photo_change,SD_00393,"[45, 100, 165, 250]",train
+authentic/SD_00394_authentic.jpg,authentic,none,SD_00394,,validation
+manipulated/SD_00394_number_change.jpg,manipulated,number_change,SD_00394,"[205, 188, 650, 211]",validation
+authentic/SD_00395_authentic.jpg,authentic,none,SD_00395,,train
+manipulated/SD_00395_date_change.jpg,manipulated,date_change,SD_00395,"[205, 264, 650, 287]",train
+authentic/SD_00396_authentic.jpg,authentic,none,SD_00396,,train
+manipulated/SD_00396_copy_paste.jpg,manipulated,copy_paste,SD_00396,"[205, 140, 500, 175]",train
+authentic/SD_00397_authentic.jpg,authentic,none,SD_00397,,train
+manipulated/SD_00397_clone.jpg,manipulated,clone,SD_00397,"[430, 270, 580, 305]",train
+authentic/SD_00398_authentic.jpg,authentic,none,SD_00398,,train
+manipulated/SD_00398_compression.jpg,manipulated,compression,SD_00398,"[0, 0, 700, 455]",train
+authentic/SD_00399_authentic.jpg,authentic,none,SD_00399,,train
+manipulated/SD_00399_mixed.jpg,manipulated,mixed,SD_00399,"[45, 100, 650, 250]",train
+authentic/SD_00400_authentic.jpg,authentic,none,SD_00400,,train
+manipulated/SD_00400_text_change.jpg,manipulated,text_change,SD_00400,"[205, 150, 650, 173]",train
+authentic/SD_00401_authentic.jpg,authentic,none,SD_00401,,train
+manipulated/SD_00401_photo_change.jpg,manipulated,photo_change,SD_00401,"[45, 100, 165, 250]",train
+authentic/SD_00402_authentic.jpg,authentic,none,SD_00402,,train
+manipulated/SD_00402_number_change.jpg,manipulated,number_change,SD_00402,"[205, 188, 650, 211]",train
+authentic/SD_00403_authentic.jpg,authentic,none,SD_00403,,train
+manipulated/SD_00403_date_change.jpg,manipulated,date_change,SD_00403,"[205, 264, 650, 287]",train
+authentic/SD_00404_authentic.jpg,authentic,none,SD_00404,,train
+manipulated/SD_00404_copy_paste.jpg,manipulated,copy_paste,SD_00404,"[205, 140, 500, 175]",train
+authentic/SD_00405_authentic.jpg,authentic,none,SD_00405,,test
+manipulated/SD_00405_clone.jpg,manipulated,clone,SD_00405,"[430, 270, 580, 305]",test
+authentic/SD_00406_authentic.jpg,authentic,none,SD_00406,,train
+manipulated/SD_00406_compression.jpg,manipulated,compression,SD_00406,"[0, 0, 700, 455]",train
+authentic/SD_00407_authentic.jpg,authentic,none,SD_00407,,train
+manipulated/SD_00407_mixed.jpg,manipulated,mixed,SD_00407,"[45, 100, 650, 250]",train
+authentic/SD_00408_authentic.jpg,authentic,none,SD_00408,,validation
+manipulated/SD_00408_text_change.jpg,manipulated,text_change,SD_00408,"[205, 150, 650, 173]",validation
+authentic/SD_00409_authentic.jpg,authentic,none,SD_00409,,train
+manipulated/SD_00409_photo_change.jpg,manipulated,photo_change,SD_00409,"[45, 100, 165, 250]",train
+authentic/SD_00410_authentic.jpg,authentic,none,SD_00410,,test
+manipulated/SD_00410_number_change.jpg,manipulated,number_change,SD_00410,"[205, 188, 650, 211]",test
+authentic/SD_00411_authentic.jpg,authentic,none,SD_00411,,train
+manipulated/SD_00411_date_change.jpg,manipulated,date_change,SD_00411,"[205, 264, 650, 287]",train
+authentic/SD_00412_authentic.jpg,authentic,none,SD_00412,,train
+manipulated/SD_00412_copy_paste.jpg,manipulated,copy_paste,SD_00412,"[205, 140, 500, 175]",train
+authentic/SD_00413_authentic.jpg,authentic,none,SD_00413,,train
+manipulated/SD_00413_clone.jpg,manipulated,clone,SD_00413,"[430, 270, 580, 305]",train
+authentic/SD_00414_authentic.jpg,authentic,none,SD_00414,,train
+manipulated/SD_00414_compression.jpg,manipulated,compression,SD_00414,"[0, 0, 700, 455]",train
+authentic/SD_00415_authentic.jpg,authentic,none,SD_00415,,train
+manipulated/SD_00415_mixed.jpg,manipulated,mixed,SD_00415,"[45, 100, 650, 250]",train
+authentic/SD_00416_authentic.jpg,authentic,none,SD_00416,,validation
+manipulated/SD_00416_text_change.jpg,manipulated,text_change,SD_00416,"[205, 150, 650, 173]",validation
+authentic/SD_00417_authentic.jpg,authentic,none,SD_00417,,train
+manipulated/SD_00417_photo_change.jpg,manipulated,photo_change,SD_00417,"[45, 100, 165, 250]",train
+authentic/SD_00418_authentic.jpg,authentic,none,SD_00418,,train
+manipulated/SD_00418_number_change.jpg,manipulated,number_change,SD_00418,"[205, 188, 650, 211]",train
+authentic/SD_00419_authentic.jpg,authentic,none,SD_00419,,train
+manipulated/SD_00419_date_change.jpg,manipulated,date_change,SD_00419,"[205, 264, 650, 287]",train
+authentic/SD_00420_authentic.jpg,authentic,none,SD_00420,,train
+manipulated/SD_00420_copy_paste.jpg,manipulated,copy_paste,SD_00420,"[205, 140, 500, 175]",train
+authentic/SD_00421_authentic.jpg,authentic,none,SD_00421,,train
+manipulated/SD_00421_clone.jpg,manipulated,clone,SD_00421,"[430, 270, 580, 305]",train
+authentic/SD_00422_authentic.jpg,authentic,none,SD_00422,,train
+manipulated/SD_00422_compression.jpg,manipulated,compression,SD_00422,"[0, 0, 700, 455]",train
+authentic/SD_00423_authentic.jpg,authentic,none,SD_00423,,train
+manipulated/SD_00423_mixed.jpg,manipulated,mixed,SD_00423,"[45, 100, 650, 250]",train
+authentic/SD_00424_authentic.jpg,authentic,none,SD_00424,,train
+manipulated/SD_00424_text_change.jpg,manipulated,text_change,SD_00424,"[205, 150, 650, 173]",train
+authentic/SD_00425_authentic.jpg,authentic,none,SD_00425,,train
+manipulated/SD_00425_photo_change.jpg,manipulated,photo_change,SD_00425,"[45, 100, 165, 250]",train
+authentic/SD_00426_authentic.jpg,authentic,none,SD_00426,,train
+manipulated/SD_00426_number_change.jpg,manipulated,number_change,SD_00426,"[205, 188, 650, 211]",train
+authentic/SD_00427_authentic.jpg,authentic,none,SD_00427,,train
+manipulated/SD_00427_date_change.jpg,manipulated,date_change,SD_00427,"[205, 264, 650, 287]",train
+authentic/SD_00428_authentic.jpg,authentic,none,SD_00428,,train
+manipulated/SD_00428_copy_paste.jpg,manipulated,copy_paste,SD_00428,"[205, 140, 500, 175]",train
+authentic/SD_00429_authentic.jpg,authentic,none,SD_00429,,test
+manipulated/SD_00429_clone.jpg,manipulated,clone,SD_00429,"[430, 270, 580, 305]",test
+authentic/SD_00430_authentic.jpg,authentic,none,SD_00430,,train
+manipulated/SD_00430_compression.jpg,manipulated,compression,SD_00430,"[0, 0, 700, 455]",train
+authentic/SD_00431_authentic.jpg,authentic,none,SD_00431,,train
+manipulated/SD_00431_mixed.jpg,manipulated,mixed,SD_00431,"[45, 100, 650, 250]",train
+authentic/SD_00432_authentic.jpg,authentic,none,SD_00432,,test
+manipulated/SD_00432_text_change.jpg,manipulated,text_change,SD_00432,"[205, 150, 650, 173]",test
+authentic/SD_00433_authentic.jpg,authentic,none,SD_00433,,validation
+manipulated/SD_00433_photo_change.jpg,manipulated,photo_change,SD_00433,"[45, 100, 165, 250]",validation
+authentic/SD_00434_authentic.jpg,authentic,none,SD_00434,,train
+manipulated/SD_00434_number_change.jpg,manipulated,number_change,SD_00434,"[205, 188, 650, 211]",train
+authentic/SD_00435_authentic.jpg,authentic,none,SD_00435,,train
+manipulated/SD_00435_date_change.jpg,manipulated,date_change,SD_00435,"[205, 264, 650, 287]",train
+authentic/SD_00436_authentic.jpg,authentic,none,SD_00436,,train
+manipulated/SD_00436_copy_paste.jpg,manipulated,copy_paste,SD_00436,"[205, 140, 500, 175]",train
+authentic/SD_00437_authentic.jpg,authentic,none,SD_00437,,train
+manipulated/SD_00437_clone.jpg,manipulated,clone,SD_00437,"[430, 270, 580, 305]",train
+authentic/SD_00438_authentic.jpg,authentic,none,SD_00438,,validation
+manipulated/SD_00438_compression.jpg,manipulated,compression,SD_00438,"[0, 0, 700, 455]",validation
+authentic/SD_00439_authentic.jpg,authentic,none,SD_00439,,train
+manipulated/SD_00439_mixed.jpg,manipulated,mixed,SD_00439,"[45, 100, 650, 250]",train
+authentic/SD_00440_authentic.jpg,authentic,none,SD_00440,,train
+manipulated/SD_00440_text_change.jpg,manipulated,text_change,SD_00440,"[205, 150, 650, 173]",train
+authentic/SD_00441_authentic.jpg,authentic,none,SD_00441,,validation
+manipulated/SD_00441_photo_change.jpg,manipulated,photo_change,SD_00441,"[45, 100, 165, 250]",validation
+authentic/SD_00442_authentic.jpg,authentic,none,SD_00442,,train
+manipulated/SD_00442_number_change.jpg,manipulated,number_change,SD_00442,"[205, 188, 650, 211]",train
+authentic/SD_00443_authentic.jpg,authentic,none,SD_00443,,train
+manipulated/SD_00443_date_change.jpg,manipulated,date_change,SD_00443,"[205, 264, 650, 287]",train
+authentic/SD_00444_authentic.jpg,authentic,none,SD_00444,,train
+manipulated/SD_00444_copy_paste.jpg,manipulated,copy_paste,SD_00444,"[205, 140, 500, 175]",train
+authentic/SD_00445_authentic.jpg,authentic,none,SD_00445,,validation
+manipulated/SD_00445_clone.jpg,manipulated,clone,SD_00445,"[430, 270, 580, 305]",validation
+authentic/SD_00446_authentic.jpg,authentic,none,SD_00446,,train
+manipulated/SD_00446_compression.jpg,manipulated,compression,SD_00446,"[0, 0, 700, 455]",train
+authentic/SD_00447_authentic.jpg,authentic,none,SD_00447,,train
+manipulated/SD_00447_mixed.jpg,manipulated,mixed,SD_00447,"[45, 100, 650, 250]",train
+authentic/SD_00448_authentic.jpg,authentic,none,SD_00448,,validation
+manipulated/SD_00448_text_change.jpg,manipulated,text_change,SD_00448,"[205, 150, 650, 173]",validation
+authentic/SD_00449_authentic.jpg,authentic,none,SD_00449,,train
+manipulated/SD_00449_photo_change.jpg,manipulated,photo_change,SD_00449,"[45, 100, 165, 250]",train
+authentic/SD_00450_authentic.jpg,authentic,none,SD_00450,,train
+manipulated/SD_00450_number_change.jpg,manipulated,number_change,SD_00450,"[205, 188, 650, 211]",train
+authentic/SD_00451_authentic.jpg,authentic,none,SD_00451,,train
+manipulated/SD_00451_date_change.jpg,manipulated,date_change,SD_00451,"[205, 264, 650, 287]",train
+authentic/SD_00452_authentic.jpg,authentic,none,SD_00452,,train
+manipulated/SD_00452_copy_paste.jpg,manipulated,copy_paste,SD_00452,"[205, 140, 500, 175]",train
+authentic/SD_00453_authentic.jpg,authentic,none,SD_00453,,train
+manipulated/SD_00453_clone.jpg,manipulated,clone,SD_00453,"[430, 270, 580, 305]",train
+authentic/SD_00454_authentic.jpg,authentic,none,SD_00454,,train
+manipulated/SD_00454_compression.jpg,manipulated,compression,SD_00454,"[0, 0, 700, 455]",train
+authentic/SD_00455_authentic.jpg,authentic,none,SD_00455,,train
+manipulated/SD_00455_mixed.jpg,manipulated,mixed,SD_00455,"[45, 100, 650, 250]",train
+authentic/SD_00456_authentic.jpg,authentic,none,SD_00456,,train
+manipulated/SD_00456_text_change.jpg,manipulated,text_change,SD_00456,"[205, 150, 650, 173]",train
+authentic/SD_00457_authentic.jpg,authentic,none,SD_00457,,train
+manipulated/SD_00457_photo_change.jpg,manipulated,photo_change,SD_00457,"[45, 100, 165, 250]",train
+authentic/SD_00458_authentic.jpg,authentic,none,SD_00458,,train
+manipulated/SD_00458_number_change.jpg,manipulated,number_change,SD_00458,"[205, 188, 650, 211]",train
+authentic/SD_00459_authentic.jpg,authentic,none,SD_00459,,test
+manipulated/SD_00459_date_change.jpg,manipulated,date_change,SD_00459,"[205, 264, 650, 287]",test
+authentic/SD_00460_authentic.jpg,authentic,none,SD_00460,,train
+manipulated/SD_00460_copy_paste.jpg,manipulated,copy_paste,SD_00460,"[205, 140, 500, 175]",train
+authentic/SD_00461_authentic.jpg,authentic,none,SD_00461,,train
+manipulated/SD_00461_clone.jpg,manipulated,clone,SD_00461,"[430, 270, 580, 305]",train
+authentic/SD_00462_authentic.jpg,authentic,none,SD_00462,,validation
+manipulated/SD_00462_compression.jpg,manipulated,compression,SD_00462,"[0, 0, 700, 455]",validation
+authentic/SD_00463_authentic.jpg,authentic,none,SD_00463,,train
+manipulated/SD_00463_mixed.jpg,manipulated,mixed,SD_00463,"[45, 100, 650, 250]",train
+authentic/SD_00464_authentic.jpg,authentic,none,SD_00464,,test
+manipulated/SD_00464_text_change.jpg,manipulated,text_change,SD_00464,"[205, 150, 650, 173]",test
+authentic/SD_00465_authentic.jpg,authentic,none,SD_00465,,train
+manipulated/SD_00465_photo_change.jpg,manipulated,photo_change,SD_00465,"[45, 100, 165, 250]",train
+authentic/SD_00466_authentic.jpg,authentic,none,SD_00466,,train
+manipulated/SD_00466_number_change.jpg,manipulated,number_change,SD_00466,"[205, 188, 650, 211]",train
+authentic/SD_00467_authentic.jpg,authentic,none,SD_00467,,train
+manipulated/SD_00467_date_change.jpg,manipulated,date_change,SD_00467,"[205, 264, 650, 287]",train
+authentic/SD_00468_authentic.jpg,authentic,none,SD_00468,,train
+manipulated/SD_00468_copy_paste.jpg,manipulated,copy_paste,SD_00468,"[205, 140, 500, 175]",train
+authentic/SD_00469_authentic.jpg,authentic,none,SD_00469,,test
+manipulated/SD_00469_clone.jpg,manipulated,clone,SD_00469,"[430, 270, 580, 305]",test
+authentic/SD_00470_authentic.jpg,authentic,none,SD_00470,,test
+manipulated/SD_00470_compression.jpg,manipulated,compression,SD_00470,"[0, 0, 700, 455]",test
+authentic/SD_00471_authentic.jpg,authentic,none,SD_00471,,train
+manipulated/SD_00471_mixed.jpg,manipulated,mixed,SD_00471,"[45, 100, 650, 250]",train
+authentic/SD_00472_authentic.jpg,authentic,none,SD_00472,,train
+manipulated/SD_00472_text_change.jpg,manipulated,text_change,SD_00472,"[205, 150, 650, 173]",train
+authentic/SD_00473_authentic.jpg,authentic,none,SD_00473,,test
+manipulated/SD_00473_photo_change.jpg,manipulated,photo_change,SD_00473,"[45, 100, 165, 250]",test
+authentic/SD_00474_authentic.jpg,authentic,none,SD_00474,,train
+manipulated/SD_00474_number_change.jpg,manipulated,number_change,SD_00474,"[205, 188, 650, 211]",train
+authentic/SD_00475_authentic.jpg,authentic,none,SD_00475,,train
+manipulated/SD_00475_date_change.jpg,manipulated,date_change,SD_00475,"[205, 264, 650, 287]",train
+authentic/SD_00476_authentic.jpg,authentic,none,SD_00476,,train
+manipulated/SD_00476_copy_paste.jpg,manipulated,copy_paste,SD_00476,"[205, 140, 500, 175]",train
+authentic/SD_00477_authentic.jpg,authentic,none,SD_00477,,train
+manipulated/SD_00477_clone.jpg,manipulated,clone,SD_00477,"[430, 270, 580, 305]",train
+authentic/SD_00478_authentic.jpg,authentic,none,SD_00478,,train
+manipulated/SD_00478_compression.jpg,manipulated,compression,SD_00478,"[0, 0, 700, 455]",train
+authentic/SD_00479_authentic.jpg,authentic,none,SD_00479,,validation
+manipulated/SD_00479_mixed.jpg,manipulated,mixed,SD_00479,"[45, 100, 650, 250]",validation
+authentic/SD_00480_authentic.jpg,authentic,none,SD_00480,,train
+manipulated/SD_00480_text_change.jpg,manipulated,text_change,SD_00480,"[205, 150, 650, 173]",train
+authentic/SD_00481_authentic.jpg,authentic,none,SD_00481,,train
+manipulated/SD_00481_photo_change.jpg,manipulated,photo_change,SD_00481,"[45, 100, 165, 250]",train
+authentic/SD_00482_authentic.jpg,authentic,none,SD_00482,,train
+manipulated/SD_00482_number_change.jpg,manipulated,number_change,SD_00482,"[205, 188, 650, 211]",train
+authentic/SD_00483_authentic.jpg,authentic,none,SD_00483,,train
+manipulated/SD_00483_date_change.jpg,manipulated,date_change,SD_00483,"[205, 264, 650, 287]",train
+authentic/SD_00484_authentic.jpg,authentic,none,SD_00484,,validation
+manipulated/SD_00484_copy_paste.jpg,manipulated,copy_paste,SD_00484,"[205, 140, 500, 175]",validation
+authentic/SD_00485_authentic.jpg,authentic,none,SD_00485,,train
+manipulated/SD_00485_clone.jpg,manipulated,clone,SD_00485,"[430, 270, 580, 305]",train
+authentic/SD_00486_authentic.jpg,authentic,none,SD_00486,,validation
+manipulated/SD_00486_compression.jpg,manipulated,compression,SD_00486,"[0, 0, 700, 455]",validation
+authentic/SD_00487_authentic.jpg,authentic,none,SD_00487,,train
+manipulated/SD_00487_mixed.jpg,manipulated,mixed,SD_00487,"[45, 100, 650, 250]",train
+authentic/SD_00488_authentic.jpg,authentic,none,SD_00488,,train
+manipulated/SD_00488_text_change.jpg,manipulated,text_change,SD_00488,"[205, 150, 650, 173]",train
+authentic/SD_00489_authentic.jpg,authentic,none,SD_00489,,train
+manipulated/SD_00489_photo_change.jpg,manipulated,photo_change,SD_00489,"[45, 100, 165, 250]",train
+authentic/SD_00490_authentic.jpg,authentic,none,SD_00490,,train
+manipulated/SD_00490_number_change.jpg,manipulated,number_change,SD_00490,"[205, 188, 650, 211]",train
+authentic/SD_00491_authentic.jpg,authentic,none,SD_00491,,train
+manipulated/SD_00491_date_change.jpg,manipulated,date_change,SD_00491,"[205, 264, 650, 287]",train
+authentic/SD_00492_authentic.jpg,authentic,none,SD_00492,,train
+manipulated/SD_00492_copy_paste.jpg,manipulated,copy_paste,SD_00492,"[205, 140, 500, 175]",train
+authentic/SD_00493_authentic.jpg,authentic,none,SD_00493,,train
+manipulated/SD_00493_clone.jpg,manipulated,clone,SD_00493,"[430, 270, 580, 305]",train
+authentic/SD_00494_authentic.jpg,authentic,none,SD_00494,,train
+manipulated/SD_00494_compression.jpg,manipulated,compression,SD_00494,"[0, 0, 700, 455]",train
+authentic/SD_00495_authentic.jpg,authentic,none,SD_00495,,train
+manipulated/SD_00495_mixed.jpg,manipulated,mixed,SD_00495,"[45, 100, 650, 250]",train
+authentic/SD_00496_authentic.jpg,authentic,none,SD_00496,,train
+manipulated/SD_00496_text_change.jpg,manipulated,text_change,SD_00496,"[205, 150, 650, 173]",train
+authentic/SD_00497_authentic.jpg,authentic,none,SD_00497,,validation
+manipulated/SD_00497_photo_change.jpg,manipulated,photo_change,SD_00497,"[45, 100, 165, 250]",validation
+authentic/SD_00498_authentic.jpg,authentic,none,SD_00498,,train
+manipulated/SD_00498_number_change.jpg,manipulated,number_change,SD_00498,"[205, 188, 650, 211]",train
+authentic/SD_00499_authentic.jpg,authentic,none,SD_00499,,train
+manipulated/SD_00499_date_change.jpg,manipulated,date_change,SD_00499,"[205, 264, 650, 287]",train
+authentic/SD_00500_authentic.jpg,authentic,none,SD_00500,,validation
+manipulated/SD_00500_copy_paste.jpg,manipulated,copy_paste,SD_00500,"[205, 140, 500, 175]",validation
+authentic/SD_00501_authentic.jpg,authentic,none,SD_00501,,train
+manipulated/SD_00501_clone.jpg,manipulated,clone,SD_00501,"[430, 270, 580, 305]",train
+authentic/SD_00502_authentic.jpg,authentic,none,SD_00502,,train
+manipulated/SD_00502_compression.jpg,manipulated,compression,SD_00502,"[0, 0, 700, 455]",train
+authentic/SD_00503_authentic.jpg,authentic,none,SD_00503,,train
+manipulated/SD_00503_mixed.jpg,manipulated,mixed,SD_00503,"[45, 100, 650, 250]",train
+authentic/SD_00504_authentic.jpg,authentic,none,SD_00504,,train
+manipulated/SD_00504_text_change.jpg,manipulated,text_change,SD_00504,"[205, 150, 650, 173]",train
+authentic/SD_00505_authentic.jpg,authentic,none,SD_00505,,validation
+manipulated/SD_00505_photo_change.jpg,manipulated,photo_change,SD_00505,"[45, 100, 165, 250]",validation
+authentic/SD_00506_authentic.jpg,authentic,none,SD_00506,,train
+manipulated/SD_00506_number_change.jpg,manipulated,number_change,SD_00506,"[205, 188, 650, 211]",train
+authentic/SD_00507_authentic.jpg,authentic,none,SD_00507,,train
+manipulated/SD_00507_date_change.jpg,manipulated,date_change,SD_00507,"[205, 264, 650, 287]",train
+authentic/SD_00508_authentic.jpg,authentic,none,SD_00508,,train
+manipulated/SD_00508_copy_paste.jpg,manipulated,copy_paste,SD_00508,"[205, 140, 500, 175]",train
+authentic/SD_00509_authentic.jpg,authentic,none,SD_00509,,train
+manipulated/SD_00509_clone.jpg,manipulated,clone,SD_00509,"[430, 270, 580, 305]",train
+authentic/SD_00510_authentic.jpg,authentic,none,SD_00510,,train
+manipulated/SD_00510_compression.jpg,manipulated,compression,SD_00510,"[0, 0, 700, 455]",train
+authentic/SD_00511_authentic.jpg,authentic,none,SD_00511,,test
+manipulated/SD_00511_mixed.jpg,manipulated,mixed,SD_00511,"[45, 100, 650, 250]",test
+authentic/SD_00512_authentic.jpg,authentic,none,SD_00512,,validation
+manipulated/SD_00512_text_change.jpg,manipulated,text_change,SD_00512,"[205, 150, 650, 173]",validation
+authentic/SD_00513_authentic.jpg,authentic,none,SD_00513,,train
+manipulated/SD_00513_photo_change.jpg,manipulated,photo_change,SD_00513,"[45, 100, 165, 250]",train
+authentic/SD_00514_authentic.jpg,authentic,none,SD_00514,,train
+manipulated/SD_00514_number_change.jpg,manipulated,number_change,SD_00514,"[205, 188, 650, 211]",train
+authentic/SD_00515_authentic.jpg,authentic,none,SD_00515,,train
+manipulated/SD_00515_date_change.jpg,manipulated,date_change,SD_00515,"[205, 264, 650, 287]",train
+authentic/SD_00516_authentic.jpg,authentic,none,SD_00516,,train
+manipulated/SD_00516_copy_paste.jpg,manipulated,copy_paste,SD_00516,"[205, 140, 500, 175]",train
+authentic/SD_00517_authentic.jpg,authentic,none,SD_00517,,test
+manipulated/SD_00517_clone.jpg,manipulated,clone,SD_00517,"[430, 270, 580, 305]",test
+authentic/SD_00518_authentic.jpg,authentic,none,SD_00518,,train
+manipulated/SD_00518_compression.jpg,manipulated,compression,SD_00518,"[0, 0, 700, 455]",train
+authentic/SD_00519_authentic.jpg,authentic,none,SD_00519,,validation
+manipulated/SD_00519_mixed.jpg,manipulated,mixed,SD_00519,"[45, 100, 650, 250]",validation
+authentic/SD_00520_authentic.jpg,authentic,none,SD_00520,,train
+manipulated/SD_00520_text_change.jpg,manipulated,text_change,SD_00520,"[205, 150, 650, 173]",train
+authentic/SD_00521_authentic.jpg,authentic,none,SD_00521,,validation
+manipulated/SD_00521_photo_change.jpg,manipulated,photo_change,SD_00521,"[45, 100, 165, 250]",validation
+authentic/SD_00522_authentic.jpg,authentic,none,SD_00522,,train
+manipulated/SD_00522_number_change.jpg,manipulated,number_change,SD_00522,"[205, 188, 650, 211]",train
+authentic/SD_00523_authentic.jpg,authentic,none,SD_00523,,train
+manipulated/SD_00523_date_change.jpg,manipulated,date_change,SD_00523,"[205, 264, 650, 287]",train
+authentic/SD_00524_authentic.jpg,authentic,none,SD_00524,,train
+manipulated/SD_00524_copy_paste.jpg,manipulated,copy_paste,SD_00524,"[205, 140, 500, 175]",train
+authentic/SD_00525_authentic.jpg,authentic,none,SD_00525,,train
+manipulated/SD_00525_clone.jpg,manipulated,clone,SD_00525,"[430, 270, 580, 305]",train
+authentic/SD_00526_authentic.jpg,authentic,none,SD_00526,,validation
+manipulated/SD_00526_compression.jpg,manipulated,compression,SD_00526,"[0, 0, 700, 455]",validation
+authentic/SD_00527_authentic.jpg,authentic,none,SD_00527,,train
+manipulated/SD_00527_mixed.jpg,manipulated,mixed,SD_00527,"[45, 100, 650, 250]",train
+authentic/SD_00528_authentic.jpg,authentic,none,SD_00528,,train
+manipulated/SD_00528_text_change.jpg,manipulated,text_change,SD_00528,"[205, 150, 650, 173]",train
+authentic/SD_00529_authentic.jpg,authentic,none,SD_00529,,validation
+manipulated/SD_00529_photo_change.jpg,manipulated,photo_change,SD_00529,"[45, 100, 165, 250]",validation
+authentic/SD_00530_authentic.jpg,authentic,none,SD_00530,,train
+manipulated/SD_00530_number_change.jpg,manipulated,number_change,SD_00530,"[205, 188, 650, 211]",train
+authentic/SD_00531_authentic.jpg,authentic,none,SD_00531,,train
+manipulated/SD_00531_date_change.jpg,manipulated,date_change,SD_00531,"[205, 264, 650, 287]",train
+authentic/SD_00532_authentic.jpg,authentic,none,SD_00532,,train
+manipulated/SD_00532_copy_paste.jpg,manipulated,copy_paste,SD_00532,"[205, 140, 500, 175]",train
+authentic/SD_00533_authentic.jpg,authentic,none,SD_00533,,train
+manipulated/SD_00533_clone.jpg,manipulated,clone,SD_00533,"[430, 270, 580, 305]",train
+authentic/SD_00534_authentic.jpg,authentic,none,SD_00534,,train
+manipulated/SD_00534_compression.jpg,manipulated,compression,SD_00534,"[0, 0, 700, 455]",train
+authentic/SD_00535_authentic.jpg,authentic,none,SD_00535,,train
+manipulated/SD_00535_mixed.jpg,manipulated,mixed,SD_00535,"[45, 100, 650, 250]",train
+authentic/SD_00536_authentic.jpg,authentic,none,SD_00536,,train
+manipulated/SD_00536_text_change.jpg,manipulated,text_change,SD_00536,"[205, 150, 650, 173]",train
+authentic/SD_00537_authentic.jpg,authentic,none,SD_00537,,train
+manipulated/SD_00537_photo_change.jpg,manipulated,photo_change,SD_00537,"[45, 100, 165, 250]",train
+authentic/SD_00538_authentic.jpg,authentic,none,SD_00538,,train
+manipulated/SD_00538_number_change.jpg,manipulated,number_change,SD_00538,"[205, 188, 650, 211]",train
+authentic/SD_00539_authentic.jpg,authentic,none,SD_00539,,train
+manipulated/SD_00539_date_change.jpg,manipulated,date_change,SD_00539,"[205, 264, 650, 287]",train
+authentic/SD_00540_authentic.jpg,authentic,none,SD_00540,,validation
+manipulated/SD_00540_copy_paste.jpg,manipulated,copy_paste,SD_00540,"[205, 140, 500, 175]",validation
+authentic/SD_00541_authentic.jpg,authentic,none,SD_00541,,validation
+manipulated/SD_00541_clone.jpg,manipulated,clone,SD_00541,"[430, 270, 580, 305]",validation
+authentic/SD_00542_authentic.jpg,authentic,none,SD_00542,,train
+manipulated/SD_00542_compression.jpg,manipulated,compression,SD_00542,"[0, 0, 700, 455]",train
+authentic/SD_00543_authentic.jpg,authentic,none,SD_00543,,validation
+manipulated/SD_00543_mixed.jpg,manipulated,mixed,SD_00543,"[45, 100, 650, 250]",validation
+authentic/SD_00544_authentic.jpg,authentic,none,SD_00544,,train
+manipulated/SD_00544_text_change.jpg,manipulated,text_change,SD_00544,"[205, 150, 650, 173]",train
+authentic/SD_00545_authentic.jpg,authentic,none,SD_00545,,validation
+manipulated/SD_00545_photo_change.jpg,manipulated,photo_change,SD_00545,"[45, 100, 165, 250]",validation
+authentic/SD_00546_authentic.jpg,authentic,none,SD_00546,,test
+manipulated/SD_00546_number_change.jpg,manipulated,number_change,SD_00546,"[205, 188, 650, 211]",test
+authentic/SD_00547_authentic.jpg,authentic,none,SD_00547,,train
+manipulated/SD_00547_date_change.jpg,manipulated,date_change,SD_00547,"[205, 264, 650, 287]",train
+authentic/SD_00548_authentic.jpg,authentic,none,SD_00548,,train
+manipulated/SD_00548_copy_paste.jpg,manipulated,copy_paste,SD_00548,"[205, 140, 500, 175]",train
+authentic/SD_00549_authentic.jpg,authentic,none,SD_00549,,test
+manipulated/SD_00549_clone.jpg,manipulated,clone,SD_00549,"[430, 270, 580, 305]",test
+authentic/SD_00550_authentic.jpg,authentic,none,SD_00550,,train
+manipulated/SD_00550_compression.jpg,manipulated,compression,SD_00550,"[0, 0, 700, 455]",train
+authentic/SD_00551_authentic.jpg,authentic,none,SD_00551,,test
+manipulated/SD_00551_mixed.jpg,manipulated,mixed,SD_00551,"[45, 100, 650, 250]",test
+authentic/SD_00552_authentic.jpg,authentic,none,SD_00552,,validation
+manipulated/SD_00552_text_change.jpg,manipulated,text_change,SD_00552,"[205, 150, 650, 173]",validation
+authentic/SD_00553_authentic.jpg,authentic,none,SD_00553,,train
+manipulated/SD_00553_photo_change.jpg,manipulated,photo_change,SD_00553,"[45, 100, 165, 250]",train
+authentic/SD_00554_authentic.jpg,authentic,none,SD_00554,,train
+manipulated/SD_00554_number_change.jpg,manipulated,number_change,SD_00554,"[205, 188, 650, 211]",train
+authentic/SD_00555_authentic.jpg,authentic,none,SD_00555,,train
+manipulated/SD_00555_date_change.jpg,manipulated,date_change,SD_00555,"[205, 264, 650, 287]",train
+authentic/SD_00556_authentic.jpg,authentic,none,SD_00556,,train
+manipulated/SD_00556_copy_paste.jpg,manipulated,copy_paste,SD_00556,"[205, 140, 500, 175]",train
+authentic/SD_00557_authentic.jpg,authentic,none,SD_00557,,train
+manipulated/SD_00557_clone.jpg,manipulated,clone,SD_00557,"[430, 270, 580, 305]",train
+authentic/SD_00558_authentic.jpg,authentic,none,SD_00558,,test
+manipulated/SD_00558_compression.jpg,manipulated,compression,SD_00558,"[0, 0, 700, 455]",test
+authentic/SD_00559_authentic.jpg,authentic,none,SD_00559,,train
+manipulated/SD_00559_mixed.jpg,manipulated,mixed,SD_00559,"[45, 100, 650, 250]",train
+authentic/SD_00560_authentic.jpg,authentic,none,SD_00560,,train
+manipulated/SD_00560_text_change.jpg,manipulated,text_change,SD_00560,"[205, 150, 650, 173]",train
+authentic/SD_00561_authentic.jpg,authentic,none,SD_00561,,train
+manipulated/SD_00561_photo_change.jpg,manipulated,photo_change,SD_00561,"[45, 100, 165, 250]",train
+authentic/SD_00562_authentic.jpg,authentic,none,SD_00562,,validation
+manipulated/SD_00562_number_change.jpg,manipulated,number_change,SD_00562,"[205, 188, 650, 211]",validation
+authentic/SD_00563_authentic.jpg,authentic,none,SD_00563,,train
+manipulated/SD_00563_date_change.jpg,manipulated,date_change,SD_00563,"[205, 264, 650, 287]",train
+authentic/SD_00564_authentic.jpg,authentic,none,SD_00564,,train
+manipulated/SD_00564_copy_paste.jpg,manipulated,copy_paste,SD_00564,"[205, 140, 500, 175]",train
+authentic/SD_00565_authentic.jpg,authentic,none,SD_00565,,test
+manipulated/SD_00565_clone.jpg,manipulated,clone,SD_00565,"[430, 270, 580, 305]",test
+authentic/SD_00566_authentic.jpg,authentic,none,SD_00566,,validation
+manipulated/SD_00566_compression.jpg,manipulated,compression,SD_00566,"[0, 0, 700, 455]",validation
+authentic/SD_00567_authentic.jpg,authentic,none,SD_00567,,validation
+manipulated/SD_00567_mixed.jpg,manipulated,mixed,SD_00567,"[45, 100, 650, 250]",validation
+authentic/SD_00568_authentic.jpg,authentic,none,SD_00568,,train
+manipulated/SD_00568_text_change.jpg,manipulated,text_change,SD_00568,"[205, 150, 650, 173]",train
+authentic/SD_00569_authentic.jpg,authentic,none,SD_00569,,train
+manipulated/SD_00569_photo_change.jpg,manipulated,photo_change,SD_00569,"[45, 100, 165, 250]",train
+authentic/SD_00570_authentic.jpg,authentic,none,SD_00570,,test
+manipulated/SD_00570_number_change.jpg,manipulated,number_change,SD_00570,"[205, 188, 650, 211]",test
+authentic/SD_00571_authentic.jpg,authentic,none,SD_00571,,train
+manipulated/SD_00571_date_change.jpg,manipulated,date_change,SD_00571,"[205, 264, 650, 287]",train
+authentic/SD_00572_authentic.jpg,authentic,none,SD_00572,,train
+manipulated/SD_00572_copy_paste.jpg,manipulated,copy_paste,SD_00572,"[205, 140, 500, 175]",train
+authentic/SD_00573_authentic.jpg,authentic,none,SD_00573,,train
+manipulated/SD_00573_clone.jpg,manipulated,clone,SD_00573,"[430, 270, 580, 305]",train
+authentic/SD_00574_authentic.jpg,authentic,none,SD_00574,,test
+manipulated/SD_00574_compression.jpg,manipulated,compression,SD_00574,"[0, 0, 700, 455]",test
+authentic/SD_00575_authentic.jpg,authentic,none,SD_00575,,train
+manipulated/SD_00575_mixed.jpg,manipulated,mixed,SD_00575,"[45, 100, 650, 250]",train
+authentic/SD_00576_authentic.jpg,authentic,none,SD_00576,,train
+manipulated/SD_00576_text_change.jpg,manipulated,text_change,SD_00576,"[205, 150, 650, 173]",train
+authentic/SD_00577_authentic.jpg,authentic,none,SD_00577,,train
+manipulated/SD_00577_photo_change.jpg,manipulated,photo_change,SD_00577,"[45, 100, 165, 250]",train
+authentic/SD_00578_authentic.jpg,authentic,none,SD_00578,,train
+manipulated/SD_00578_number_change.jpg,manipulated,number_change,SD_00578,"[205, 188, 650, 211]",train
+authentic/SD_00579_authentic.jpg,authentic,none,SD_00579,,train
+manipulated/SD_00579_date_change.jpg,manipulated,date_change,SD_00579,"[205, 264, 650, 287]",train
+authentic/SD_00580_authentic.jpg,authentic,none,SD_00580,,test
+manipulated/SD_00580_copy_paste.jpg,manipulated,copy_paste,SD_00580,"[205, 140, 500, 175]",test
+authentic/SD_00581_authentic.jpg,authentic,none,SD_00581,,train
+manipulated/SD_00581_clone.jpg,manipulated,clone,SD_00581,"[430, 270, 580, 305]",train
+authentic/SD_00582_authentic.jpg,authentic,none,SD_00582,,train
+manipulated/SD_00582_compression.jpg,manipulated,compression,SD_00582,"[0, 0, 700, 455]",train
+authentic/SD_00583_authentic.jpg,authentic,none,SD_00583,,train
+manipulated/SD_00583_mixed.jpg,manipulated,mixed,SD_00583,"[45, 100, 650, 250]",train
+authentic/SD_00584_authentic.jpg,authentic,none,SD_00584,,validation
+manipulated/SD_00584_text_change.jpg,manipulated,text_change,SD_00584,"[205, 150, 650, 173]",validation
+authentic/SD_00585_authentic.jpg,authentic,none,SD_00585,,train
+manipulated/SD_00585_photo_change.jpg,manipulated,photo_change,SD_00585,"[45, 100, 165, 250]",train
+authentic/SD_00586_authentic.jpg,authentic,none,SD_00586,,train
+manipulated/SD_00586_number_change.jpg,manipulated,number_change,SD_00586,"[205, 188, 650, 211]",train
+authentic/SD_00587_authentic.jpg,authentic,none,SD_00587,,train
+manipulated/SD_00587_date_change.jpg,manipulated,date_change,SD_00587,"[205, 264, 650, 287]",train
+authentic/SD_00588_authentic.jpg,authentic,none,SD_00588,,train
+manipulated/SD_00588_copy_paste.jpg,manipulated,copy_paste,SD_00588,"[205, 140, 500, 175]",train
+authentic/SD_00589_authentic.jpg,authentic,none,SD_00589,,train
+manipulated/SD_00589_clone.jpg,manipulated,clone,SD_00589,"[430, 270, 580, 305]",train
+authentic/SD_00590_authentic.jpg,authentic,none,SD_00590,,validation
+manipulated/SD_00590_compression.jpg,manipulated,compression,SD_00590,"[0, 0, 700, 455]",validation
+authentic/SD_00591_authentic.jpg,authentic,none,SD_00591,,test
+manipulated/SD_00591_mixed.jpg,manipulated,mixed,SD_00591,"[45, 100, 650, 250]",test
+authentic/SD_00592_authentic.jpg,authentic,none,SD_00592,,train
+manipulated/SD_00592_text_change.jpg,manipulated,text_change,SD_00592,"[205, 150, 650, 173]",train
+authentic/SD_00593_authentic.jpg,authentic,none,SD_00593,,train
+manipulated/SD_00593_photo_change.jpg,manipulated,photo_change,SD_00593,"[45, 100, 165, 250]",train
+authentic/SD_00594_authentic.jpg,authentic,none,SD_00594,,train
+manipulated/SD_00594_number_change.jpg,manipulated,number_change,SD_00594,"[205, 188, 650, 211]",train
+authentic/SD_00595_authentic.jpg,authentic,none,SD_00595,,train
+manipulated/SD_00595_date_change.jpg,manipulated,date_change,SD_00595,"[205, 264, 650, 287]",train
+authentic/SD_00596_authentic.jpg,authentic,none,SD_00596,,train
+manipulated/SD_00596_copy_paste.jpg,manipulated,copy_paste,SD_00596,"[205, 140, 500, 175]",train
+authentic/SD_00597_authentic.jpg,authentic,none,SD_00597,,validation
+manipulated/SD_00597_clone.jpg,manipulated,clone,SD_00597,"[430, 270, 580, 305]",validation
+authentic/SD_00598_authentic.jpg,authentic,none,SD_00598,,validation
+manipulated/SD_00598_compression.jpg,manipulated,compression,SD_00598,"[0, 0, 700, 455]",validation
+authentic/SD_00599_authentic.jpg,authentic,none,SD_00599,,train
+manipulated/SD_00599_mixed.jpg,manipulated,mixed,SD_00599,"[45, 100, 650, 250]",train
+authentic/SD_00600_authentic.jpg,authentic,none,SD_00600,,train
+manipulated/SD_00600_text_change.jpg,manipulated,text_change,SD_00600,"[205, 150, 650, 173]",train
+authentic/SD_00601_authentic.jpg,authentic,none,SD_00601,,train
+manipulated/SD_00601_photo_change.jpg,manipulated,photo_change,SD_00601,"[45, 100, 165, 250]",train
+authentic/SD_00602_authentic.jpg,authentic,none,SD_00602,,validation
+manipulated/SD_00602_number_change.jpg,manipulated,number_change,SD_00602,"[205, 188, 650, 211]",validation
+authentic/SD_00603_authentic.jpg,authentic,none,SD_00603,,test
+manipulated/SD_00603_date_change.jpg,manipulated,date_change,SD_00603,"[205, 264, 650, 287]",test
+authentic/SD_00604_authentic.jpg,authentic,none,SD_00604,,test
+manipulated/SD_00604_copy_paste.jpg,manipulated,copy_paste,SD_00604,"[205, 140, 500, 175]",test
+authentic/SD_00605_authentic.jpg,authentic,none,SD_00605,,train
+manipulated/SD_00605_clone.jpg,manipulated,clone,SD_00605,"[430, 270, 580, 305]",train
+authentic/SD_00606_authentic.jpg,authentic,none,SD_00606,,train
+manipulated/SD_00606_compression.jpg,manipulated,compression,SD_00606,"[0, 0, 700, 455]",train
+authentic/SD_00607_authentic.jpg,authentic,none,SD_00607,,train
+manipulated/SD_00607_mixed.jpg,manipulated,mixed,SD_00607,"[45, 100, 650, 250]",train
+authentic/SD_00608_authentic.jpg,authentic,none,SD_00608,,train
+manipulated/SD_00608_text_change.jpg,manipulated,text_change,SD_00608,"[205, 150, 650, 173]",train
+authentic/SD_00609_authentic.jpg,authentic,none,SD_00609,,train
+manipulated/SD_00609_photo_change.jpg,manipulated,photo_change,SD_00609,"[45, 100, 165, 250]",train
+authentic/SD_00610_authentic.jpg,authentic,none,SD_00610,,validation
+manipulated/SD_00610_number_change.jpg,manipulated,number_change,SD_00610,"[205, 188, 650, 211]",validation
+authentic/SD_00611_authentic.jpg,authentic,none,SD_00611,,train
+manipulated/SD_00611_date_change.jpg,manipulated,date_change,SD_00611,"[205, 264, 650, 287]",train
+authentic/SD_00612_authentic.jpg,authentic,none,SD_00612,,train
+manipulated/SD_00612_copy_paste.jpg,manipulated,copy_paste,SD_00612,"[205, 140, 500, 175]",train
+authentic/SD_00613_authentic.jpg,authentic,none,SD_00613,,validation
+manipulated/SD_00613_clone.jpg,manipulated,clone,SD_00613,"[430, 270, 580, 305]",validation
+authentic/SD_00614_authentic.jpg,authentic,none,SD_00614,,train
+manipulated/SD_00614_compression.jpg,manipulated,compression,SD_00614,"[0, 0, 700, 455]",train
+authentic/SD_00615_authentic.jpg,authentic,none,SD_00615,,train
+manipulated/SD_00615_mixed.jpg,manipulated,mixed,SD_00615,"[45, 100, 650, 250]",train
+authentic/SD_00616_authentic.jpg,authentic,none,SD_00616,,test
+manipulated/SD_00616_text_change.jpg,manipulated,text_change,SD_00616,"[205, 150, 650, 173]",test
+authentic/SD_00617_authentic.jpg,authentic,none,SD_00617,,train
+manipulated/SD_00617_photo_change.jpg,manipulated,photo_change,SD_00617,"[45, 100, 165, 250]",train
+authentic/SD_00618_authentic.jpg,authentic,none,SD_00618,,test
+manipulated/SD_00618_number_change.jpg,manipulated,number_change,SD_00618,"[205, 188, 650, 211]",test
+authentic/SD_00619_authentic.jpg,authentic,none,SD_00619,,train
+manipulated/SD_00619_date_change.jpg,manipulated,date_change,SD_00619,"[205, 264, 650, 287]",train
+authentic/SD_00620_authentic.jpg,authentic,none,SD_00620,,train
+manipulated/SD_00620_copy_paste.jpg,manipulated,copy_paste,SD_00620,"[205, 140, 500, 175]",train
+authentic/SD_00621_authentic.jpg,authentic,none,SD_00621,,validation
+manipulated/SD_00621_clone.jpg,manipulated,clone,SD_00621,"[430, 270, 580, 305]",validation
+authentic/SD_00622_authentic.jpg,authentic,none,SD_00622,,train
+manipulated/SD_00622_compression.jpg,manipulated,compression,SD_00622,"[0, 0, 700, 455]",train
+authentic/SD_00623_authentic.jpg,authentic,none,SD_00623,,test
+manipulated/SD_00623_mixed.jpg,manipulated,mixed,SD_00623,"[45, 100, 650, 250]",test
+authentic/SD_00624_authentic.jpg,authentic,none,SD_00624,,train
+manipulated/SD_00624_text_change.jpg,manipulated,text_change,SD_00624,"[205, 150, 650, 173]",train
+authentic/SD_00625_authentic.jpg,authentic,none,SD_00625,,train
+manipulated/SD_00625_photo_change.jpg,manipulated,photo_change,SD_00625,"[45, 100, 165, 250]",train
+authentic/SD_00626_authentic.jpg,authentic,none,SD_00626,,train
+manipulated/SD_00626_number_change.jpg,manipulated,number_change,SD_00626,"[205, 188, 650, 211]",train
+authentic/SD_00627_authentic.jpg,authentic,none,SD_00627,,train
+manipulated/SD_00627_date_change.jpg,manipulated,date_change,SD_00627,"[205, 264, 650, 287]",train
+authentic/SD_00628_authentic.jpg,authentic,none,SD_00628,,train
+manipulated/SD_00628_copy_paste.jpg,manipulated,copy_paste,SD_00628,"[205, 140, 500, 175]",train
+authentic/SD_00629_authentic.jpg,authentic,none,SD_00629,,train
+manipulated/SD_00629_clone.jpg,manipulated,clone,SD_00629,"[430, 270, 580, 305]",train
+authentic/SD_00630_authentic.jpg,authentic,none,SD_00630,,train
+manipulated/SD_00630_compression.jpg,manipulated,compression,SD_00630,"[0, 0, 700, 455]",train
+authentic/SD_00631_authentic.jpg,authentic,none,SD_00631,,train
+manipulated/SD_00631_mixed.jpg,manipulated,mixed,SD_00631,"[45, 100, 650, 250]",train
+authentic/SD_00632_authentic.jpg,authentic,none,SD_00632,,train
+manipulated/SD_00632_text_change.jpg,manipulated,text_change,SD_00632,"[205, 150, 650, 173]",train
+authentic/SD_00633_authentic.jpg,authentic,none,SD_00633,,test
+manipulated/SD_00633_photo_change.jpg,manipulated,photo_change,SD_00633,"[45, 100, 165, 250]",test
+authentic/SD_00634_authentic.jpg,authentic,none,SD_00634,,train
+manipulated/SD_00634_number_change.jpg,manipulated,number_change,SD_00634,"[205, 188, 650, 211]",train
+authentic/SD_00635_authentic.jpg,authentic,none,SD_00635,,train
+manipulated/SD_00635_date_change.jpg,manipulated,date_change,SD_00635,"[205, 264, 650, 287]",train
+authentic/SD_00636_authentic.jpg,authentic,none,SD_00636,,train
+manipulated/SD_00636_copy_paste.jpg,manipulated,copy_paste,SD_00636,"[205, 140, 500, 175]",train
+authentic/SD_00637_authentic.jpg,authentic,none,SD_00637,,train
+manipulated/SD_00637_clone.jpg,manipulated,clone,SD_00637,"[430, 270, 580, 305]",train
+authentic/SD_00638_authentic.jpg,authentic,none,SD_00638,,train
+manipulated/SD_00638_compression.jpg,manipulated,compression,SD_00638,"[0, 0, 700, 455]",train
+authentic/SD_00639_authentic.jpg,authentic,none,SD_00639,,train
+manipulated/SD_00639_mixed.jpg,manipulated,mixed,SD_00639,"[45, 100, 650, 250]",train
+authentic/SD_00640_authentic.jpg,authentic,none,SD_00640,,validation
+manipulated/SD_00640_text_change.jpg,manipulated,text_change,SD_00640,"[205, 150, 650, 173]",validation
+authentic/SD_00641_authentic.jpg,authentic,none,SD_00641,,train
+manipulated/SD_00641_photo_change.jpg,manipulated,photo_change,SD_00641,"[45, 100, 165, 250]",train
+authentic/SD_00642_authentic.jpg,authentic,none,SD_00642,,validation
+manipulated/SD_00642_number_change.jpg,manipulated,number_change,SD_00642,"[205, 188, 650, 211]",validation
+authentic/SD_00643_authentic.jpg,authentic,none,SD_00643,,test
+manipulated/SD_00643_date_change.jpg,manipulated,date_change,SD_00643,"[205, 264, 650, 287]",test
+authentic/SD_00644_authentic.jpg,authentic,none,SD_00644,,train
+manipulated/SD_00644_copy_paste.jpg,manipulated,copy_paste,SD_00644,"[205, 140, 500, 175]",train
+authentic/SD_00645_authentic.jpg,authentic,none,SD_00645,,train
+manipulated/SD_00645_clone.jpg,manipulated,clone,SD_00645,"[430, 270, 580, 305]",train
+authentic/SD_00646_authentic.jpg,authentic,none,SD_00646,,validation
+manipulated/SD_00646_compression.jpg,manipulated,compression,SD_00646,"[0, 0, 700, 455]",validation
+authentic/SD_00647_authentic.jpg,authentic,none,SD_00647,,train
+manipulated/SD_00647_mixed.jpg,manipulated,mixed,SD_00647,"[45, 100, 650, 250]",train
+authentic/SD_00648_authentic.jpg,authentic,none,SD_00648,,train
+manipulated/SD_00648_text_change.jpg,manipulated,text_change,SD_00648,"[205, 150, 650, 173]",train
+authentic/SD_00649_authentic.jpg,authentic,none,SD_00649,,train
+manipulated/SD_00649_photo_change.jpg,manipulated,photo_change,SD_00649,"[45, 100, 165, 250]",train
+authentic/SD_00650_authentic.jpg,authentic,none,SD_00650,,test
+manipulated/SD_00650_number_change.jpg,manipulated,number_change,SD_00650,"[205, 188, 650, 211]",test
+authentic/SD_00651_authentic.jpg,authentic,none,SD_00651,,train
+manipulated/SD_00651_date_change.jpg,manipulated,date_change,SD_00651,"[205, 264, 650, 287]",train
+authentic/SD_00652_authentic.jpg,authentic,none,SD_00652,,train
+manipulated/SD_00652_copy_paste.jpg,manipulated,copy_paste,SD_00652,"[205, 140, 500, 175]",train
+authentic/SD_00653_authentic.jpg,authentic,none,SD_00653,,train
+manipulated/SD_00653_clone.jpg,manipulated,clone,SD_00653,"[430, 270, 580, 305]",train
+authentic/SD_00654_authentic.jpg,authentic,none,SD_00654,,test
+manipulated/SD_00654_compression.jpg,manipulated,compression,SD_00654,"[0, 0, 700, 455]",test
+authentic/SD_00655_authentic.jpg,authentic,none,SD_00655,,test
+manipulated/SD_00655_mixed.jpg,manipulated,mixed,SD_00655,"[45, 100, 650, 250]",test
+authentic/SD_00656_authentic.jpg,authentic,none,SD_00656,,validation
+manipulated/SD_00656_text_change.jpg,manipulated,text_change,SD_00656,"[205, 150, 650, 173]",validation
+authentic/SD_00657_authentic.jpg,authentic,none,SD_00657,,train
+manipulated/SD_00657_photo_change.jpg,manipulated,photo_change,SD_00657,"[45, 100, 165, 250]",train
+authentic/SD_00658_authentic.jpg,authentic,none,SD_00658,,test
+manipulated/SD_00658_number_change.jpg,manipulated,number_change,SD_00658,"[205, 188, 650, 211]",test
+authentic/SD_00659_authentic.jpg,authentic,none,SD_00659,,train
+manipulated/SD_00659_date_change.jpg,manipulated,date_change,SD_00659,"[205, 264, 650, 287]",train
+authentic/SD_00660_authentic.jpg,authentic,none,SD_00660,,train
+manipulated/SD_00660_copy_paste.jpg,manipulated,copy_paste,SD_00660,"[205, 140, 500, 175]",train
+authentic/SD_00661_authentic.jpg,authentic,none,SD_00661,,train
+manipulated/SD_00661_clone.jpg,manipulated,clone,SD_00661,"[430, 270, 580, 305]",train
+authentic/SD_00662_authentic.jpg,authentic,none,SD_00662,,train
+manipulated/SD_00662_compression.jpg,manipulated,compression,SD_00662,"[0, 0, 700, 455]",train
+authentic/SD_00663_authentic.jpg,authentic,none,SD_00663,,test
+manipulated/SD_00663_mixed.jpg,manipulated,mixed,SD_00663,"[45, 100, 650, 250]",test
+authentic/SD_00664_authentic.jpg,authentic,none,SD_00664,,train
+manipulated/SD_00664_text_change.jpg,manipulated,text_change,SD_00664,"[205, 150, 650, 173]",train
+authentic/SD_00665_authentic.jpg,authentic,none,SD_00665,,test
+manipulated/SD_00665_photo_change.jpg,manipulated,photo_change,SD_00665,"[45, 100, 165, 250]",test
+authentic/SD_00666_authentic.jpg,authentic,none,SD_00666,,train
+manipulated/SD_00666_number_change.jpg,manipulated,number_change,SD_00666,"[205, 188, 650, 211]",train
+authentic/SD_00667_authentic.jpg,authentic,none,SD_00667,,train
+manipulated/SD_00667_date_change.jpg,manipulated,date_change,SD_00667,"[205, 264, 650, 287]",train
+authentic/SD_00668_authentic.jpg,authentic,none,SD_00668,,train
+manipulated/SD_00668_copy_paste.jpg,manipulated,copy_paste,SD_00668,"[205, 140, 500, 175]",train
+authentic/SD_00669_authentic.jpg,authentic,none,SD_00669,,train
+manipulated/SD_00669_clone.jpg,manipulated,clone,SD_00669,"[430, 270, 580, 305]",train
+authentic/SD_00670_authentic.jpg,authentic,none,SD_00670,,train
+manipulated/SD_00670_compression.jpg,manipulated,compression,SD_00670,"[0, 0, 700, 455]",train
+authentic/SD_00671_authentic.jpg,authentic,none,SD_00671,,test
+manipulated/SD_00671_mixed.jpg,manipulated,mixed,SD_00671,"[45, 100, 650, 250]",test
+authentic/SD_00672_authentic.jpg,authentic,none,SD_00672,,train
+manipulated/SD_00672_text_change.jpg,manipulated,text_change,SD_00672,"[205, 150, 650, 173]",train
+authentic/SD_00673_authentic.jpg,authentic,none,SD_00673,,train
+manipulated/SD_00673_photo_change.jpg,manipulated,photo_change,SD_00673,"[45, 100, 165, 250]",train
+authentic/SD_00674_authentic.jpg,authentic,none,SD_00674,,validation
+manipulated/SD_00674_number_change.jpg,manipulated,number_change,SD_00674,"[205, 188, 650, 211]",validation
+authentic/SD_00675_authentic.jpg,authentic,none,SD_00675,,validation
+manipulated/SD_00675_date_change.jpg,manipulated,date_change,SD_00675,"[205, 264, 650, 287]",validation
+authentic/SD_00676_authentic.jpg,authentic,none,SD_00676,,train
+manipulated/SD_00676_copy_paste.jpg,manipulated,copy_paste,SD_00676,"[205, 140, 500, 175]",train
+authentic/SD_00677_authentic.jpg,authentic,none,SD_00677,,test
+manipulated/SD_00677_clone.jpg,manipulated,clone,SD_00677,"[430, 270, 580, 305]",test
+authentic/SD_00678_authentic.jpg,authentic,none,SD_00678,,train
+manipulated/SD_00678_compression.jpg,manipulated,compression,SD_00678,"[0, 0, 700, 455]",train
+authentic/SD_00679_authentic.jpg,authentic,none,SD_00679,,train
+manipulated/SD_00679_mixed.jpg,manipulated,mixed,SD_00679,"[45, 100, 650, 250]",train
+authentic/SD_00680_authentic.jpg,authentic,none,SD_00680,,train
+manipulated/SD_00680_text_change.jpg,manipulated,text_change,SD_00680,"[205, 150, 650, 173]",train
+authentic/SD_00681_authentic.jpg,authentic,none,SD_00681,,train
+manipulated/SD_00681_photo_change.jpg,manipulated,photo_change,SD_00681,"[45, 100, 165, 250]",train
+authentic/SD_00682_authentic.jpg,authentic,none,SD_00682,,train
+manipulated/SD_00682_number_change.jpg,manipulated,number_change,SD_00682,"[205, 188, 650, 211]",train
+authentic/SD_00683_authentic.jpg,authentic,none,SD_00683,,train
+manipulated/SD_00683_date_change.jpg,manipulated,date_change,SD_00683,"[205, 264, 650, 287]",train
+authentic/SD_00684_authentic.jpg,authentic,none,SD_00684,,train
+manipulated/SD_00684_copy_paste.jpg,manipulated,copy_paste,SD_00684,"[205, 140, 500, 175]",train
+authentic/SD_00685_authentic.jpg,authentic,none,SD_00685,,validation
+manipulated/SD_00685_clone.jpg,manipulated,clone,SD_00685,"[430, 270, 580, 305]",validation
+authentic/SD_00686_authentic.jpg,authentic,none,SD_00686,,test
+manipulated/SD_00686_compression.jpg,manipulated,compression,SD_00686,"[0, 0, 700, 455]",test
+authentic/SD_00687_authentic.jpg,authentic,none,SD_00687,,validation
+manipulated/SD_00687_mixed.jpg,manipulated,mixed,SD_00687,"[45, 100, 650, 250]",validation
+authentic/SD_00688_authentic.jpg,authentic,none,SD_00688,,train
+manipulated/SD_00688_text_change.jpg,manipulated,text_change,SD_00688,"[205, 150, 650, 173]",train
+authentic/SD_00689_authentic.jpg,authentic,none,SD_00689,,train
+manipulated/SD_00689_photo_change.jpg,manipulated,photo_change,SD_00689,"[45, 100, 165, 250]",train
+authentic/SD_00690_authentic.jpg,authentic,none,SD_00690,,train
+manipulated/SD_00690_number_change.jpg,manipulated,number_change,SD_00690,"[205, 188, 650, 211]",train
+authentic/SD_00691_authentic.jpg,authentic,none,SD_00691,,train
+manipulated/SD_00691_date_change.jpg,manipulated,date_change,SD_00691,"[205, 264, 650, 287]",train
+authentic/SD_00692_authentic.jpg,authentic,none,SD_00692,,test
+manipulated/SD_00692_copy_paste.jpg,manipulated,copy_paste,SD_00692,"[205, 140, 500, 175]",test
+authentic/SD_00693_authentic.jpg,authentic,none,SD_00693,,train
+manipulated/SD_00693_clone.jpg,manipulated,clone,SD_00693,"[430, 270, 580, 305]",train
+authentic/SD_00694_authentic.jpg,authentic,none,SD_00694,,train
+manipulated/SD_00694_compression.jpg,manipulated,compression,SD_00694,"[0, 0, 700, 455]",train
+authentic/SD_00695_authentic.jpg,authentic,none,SD_00695,,train
+manipulated/SD_00695_mixed.jpg,manipulated,mixed,SD_00695,"[45, 100, 650, 250]",train
+authentic/SD_00696_authentic.jpg,authentic,none,SD_00696,,validation
+manipulated/SD_00696_text_change.jpg,manipulated,text_change,SD_00696,"[205, 150, 650, 173]",validation
+authentic/SD_00697_authentic.jpg,authentic,none,SD_00697,,train
+manipulated/SD_00697_photo_change.jpg,manipulated,photo_change,SD_00697,"[45, 100, 165, 250]",train
+authentic/SD_00698_authentic.jpg,authentic,none,SD_00698,,validation
+manipulated/SD_00698_number_change.jpg,manipulated,number_change,SD_00698,"[205, 188, 650, 211]",validation
+authentic/SD_00699_authentic.jpg,authentic,none,SD_00699,,test
+manipulated/SD_00699_date_change.jpg,manipulated,date_change,SD_00699,"[205, 264, 650, 287]",test
+authentic/SD_00700_authentic.jpg,authentic,none,SD_00700,,train
+manipulated/SD_00700_copy_paste.jpg,manipulated,copy_paste,SD_00700,"[205, 140, 500, 175]",train
+authentic/SD_00701_authentic.jpg,authentic,none,SD_00701,,test
+manipulated/SD_00701_clone.jpg,manipulated,clone,SD_00701,"[430, 270, 580, 305]",test
+authentic/SD_00702_authentic.jpg,authentic,none,SD_00702,,train
+manipulated/SD_00702_compression.jpg,manipulated,compression,SD_00702,"[0, 0, 700, 455]",train
+authentic/SD_00703_authentic.jpg,authentic,none,SD_00703,,train
+manipulated/SD_00703_mixed.jpg,manipulated,mixed,SD_00703,"[45, 100, 650, 250]",train
+authentic/SD_00704_authentic.jpg,authentic,none,SD_00704,,test
+manipulated/SD_00704_text_change.jpg,manipulated,text_change,SD_00704,"[205, 150, 650, 173]",test
+authentic/SD_00705_authentic.jpg,authentic,none,SD_00705,,train
+manipulated/SD_00705_photo_change.jpg,manipulated,photo_change,SD_00705,"[45, 100, 165, 250]",train
+authentic/SD_00706_authentic.jpg,authentic,none,SD_00706,,validation
+manipulated/SD_00706_number_change.jpg,manipulated,number_change,SD_00706,"[205, 188, 650, 211]",validation
+authentic/SD_00707_authentic.jpg,authentic,none,SD_00707,,train
+manipulated/SD_00707_date_change.jpg,manipulated,date_change,SD_00707,"[205, 264, 650, 287]",train
+authentic/SD_00708_authentic.jpg,authentic,none,SD_00708,,train
+manipulated/SD_00708_copy_paste.jpg,manipulated,copy_paste,SD_00708,"[205, 140, 500, 175]",train
+authentic/SD_00709_authentic.jpg,authentic,none,SD_00709,,validation
+manipulated/SD_00709_clone.jpg,manipulated,clone,SD_00709,"[430, 270, 580, 305]",validation
+authentic/SD_00710_authentic.jpg,authentic,none,SD_00710,,train
+manipulated/SD_00710_compression.jpg,manipulated,compression,SD_00710,"[0, 0, 700, 455]",train
+authentic/SD_00711_authentic.jpg,authentic,none,SD_00711,,train
+manipulated/SD_00711_mixed.jpg,manipulated,mixed,SD_00711,"[45, 100, 650, 250]",train
+authentic/SD_00712_authentic.jpg,authentic,none,SD_00712,,train
+manipulated/SD_00712_text_change.jpg,manipulated,text_change,SD_00712,"[205, 150, 650, 173]",train
+authentic/SD_00713_authentic.jpg,authentic,none,SD_00713,,train
+manipulated/SD_00713_photo_change.jpg,manipulated,photo_change,SD_00713,"[45, 100, 165, 250]",train
+authentic/SD_00714_authentic.jpg,authentic,none,SD_00714,,test
+manipulated/SD_00714_number_change.jpg,manipulated,number_change,SD_00714,"[205, 188, 650, 211]",test
+authentic/SD_00715_authentic.jpg,authentic,none,SD_00715,,train
+manipulated/SD_00715_date_change.jpg,manipulated,date_change,SD_00715,"[205, 264, 650, 287]",train
+authentic/SD_00716_authentic.jpg,authentic,none,SD_00716,,train
+manipulated/SD_00716_copy_paste.jpg,manipulated,copy_paste,SD_00716,"[205, 140, 500, 175]",train
+authentic/SD_00717_authentic.jpg,authentic,none,SD_00717,,train
+manipulated/SD_00717_clone.jpg,manipulated,clone,SD_00717,"[430, 270, 580, 305]",train
+authentic/SD_00718_authentic.jpg,authentic,none,SD_00718,,test
+manipulated/SD_00718_compression.jpg,manipulated,compression,SD_00718,"[0, 0, 700, 455]",test
+authentic/SD_00719_authentic.jpg,authentic,none,SD_00719,,train
+manipulated/SD_00719_mixed.jpg,manipulated,mixed,SD_00719,"[45, 100, 650, 250]",train
+authentic/SD_00720_authentic.jpg,authentic,none,SD_00720,,train
+manipulated/SD_00720_text_change.jpg,manipulated,text_change,SD_00720,"[205, 150, 650, 173]",train
+authentic/SD_00721_authentic.jpg,authentic,none,SD_00721,,test
+manipulated/SD_00721_photo_change.jpg,manipulated,photo_change,SD_00721,"[45, 100, 165, 250]",test
+authentic/SD_00722_authentic.jpg,authentic,none,SD_00722,,train
+manipulated/SD_00722_number_change.jpg,manipulated,number_change,SD_00722,"[205, 188, 650, 211]",train
+authentic/SD_00723_authentic.jpg,authentic,none,SD_00723,,train
+manipulated/SD_00723_date_change.jpg,manipulated,date_change,SD_00723,"[205, 264, 650, 287]",train
+authentic/SD_00724_authentic.jpg,authentic,none,SD_00724,,validation
+manipulated/SD_00724_copy_paste.jpg,manipulated,copy_paste,SD_00724,"[205, 140, 500, 175]",validation
+authentic/SD_00725_authentic.jpg,authentic,none,SD_00725,,train
+manipulated/SD_00725_clone.jpg,manipulated,clone,SD_00725,"[430, 270, 580, 305]",train
+authentic/SD_00726_authentic.jpg,authentic,none,SD_00726,,train
+manipulated/SD_00726_compression.jpg,manipulated,compression,SD_00726,"[0, 0, 700, 455]",train
+authentic/SD_00727_authentic.jpg,authentic,none,SD_00727,,train
+manipulated/SD_00727_mixed.jpg,manipulated,mixed,SD_00727,"[45, 100, 650, 250]",train
+authentic/SD_00728_authentic.jpg,authentic,none,SD_00728,,validation
+manipulated/SD_00728_text_change.jpg,manipulated,text_change,SD_00728,"[205, 150, 650, 173]",validation
+authentic/SD_00729_authentic.jpg,authentic,none,SD_00729,,train
+manipulated/SD_00729_photo_change.jpg,manipulated,photo_change,SD_00729,"[45, 100, 165, 250]",train
+authentic/SD_00730_authentic.jpg,authentic,none,SD_00730,,validation
+manipulated/SD_00730_number_change.jpg,manipulated,number_change,SD_00730,"[205, 188, 650, 211]",validation
+authentic/SD_00731_authentic.jpg,authentic,none,SD_00731,,train
+manipulated/SD_00731_date_change.jpg,manipulated,date_change,SD_00731,"[205, 264, 650, 287]",train
+authentic/SD_00732_authentic.jpg,authentic,none,SD_00732,,train
+manipulated/SD_00732_copy_paste.jpg,manipulated,copy_paste,SD_00732,"[205, 140, 500, 175]",train
+authentic/SD_00733_authentic.jpg,authentic,none,SD_00733,,test
+manipulated/SD_00733_clone.jpg,manipulated,clone,SD_00733,"[430, 270, 580, 305]",test
+authentic/SD_00734_authentic.jpg,authentic,none,SD_00734,,validation
+manipulated/SD_00734_compression.jpg,manipulated,compression,SD_00734,"[0, 0, 700, 455]",validation
+authentic/SD_00735_authentic.jpg,authentic,none,SD_00735,,test
+manipulated/SD_00735_mixed.jpg,manipulated,mixed,SD_00735,"[45, 100, 650, 250]",test
+authentic/SD_00736_authentic.jpg,authentic,none,SD_00736,,validation
+manipulated/SD_00736_text_change.jpg,manipulated,text_change,SD_00736,"[205, 150, 650, 173]",validation
+authentic/SD_00737_authentic.jpg,authentic,none,SD_00737,,train
+manipulated/SD_00737_photo_change.jpg,manipulated,photo_change,SD_00737,"[45, 100, 165, 250]",train
+authentic/SD_00738_authentic.jpg,authentic,none,SD_00738,,validation
+manipulated/SD_00738_number_change.jpg,manipulated,number_change,SD_00738,"[205, 188, 650, 211]",validation
+authentic/SD_00739_authentic.jpg,authentic,none,SD_00739,,validation
+manipulated/SD_00739_date_change.jpg,manipulated,date_change,SD_00739,"[205, 264, 650, 287]",validation
+authentic/SD_00740_authentic.jpg,authentic,none,SD_00740,,train
+manipulated/SD_00740_copy_paste.jpg,manipulated,copy_paste,SD_00740,"[205, 140, 500, 175]",train
+authentic/SD_00741_authentic.jpg,authentic,none,SD_00741,,train
+manipulated/SD_00741_clone.jpg,manipulated,clone,SD_00741,"[430, 270, 580, 305]",train
+authentic/SD_00742_authentic.jpg,authentic,none,SD_00742,,train
+manipulated/SD_00742_compression.jpg,manipulated,compression,SD_00742,"[0, 0, 700, 455]",train
+authentic/SD_00743_authentic.jpg,authentic,none,SD_00743,,train
+manipulated/SD_00743_mixed.jpg,manipulated,mixed,SD_00743,"[45, 100, 650, 250]",train
+authentic/SD_00744_authentic.jpg,authentic,none,SD_00744,,train
+manipulated/SD_00744_text_change.jpg,manipulated,text_change,SD_00744,"[205, 150, 650, 173]",train
+authentic/SD_00745_authentic.jpg,authentic,none,SD_00745,,train
+manipulated/SD_00745_photo_change.jpg,manipulated,photo_change,SD_00745,"[45, 100, 165, 250]",train
+authentic/SD_00746_authentic.jpg,authentic,none,SD_00746,,test
+manipulated/SD_00746_number_change.jpg,manipulated,number_change,SD_00746,"[205, 188, 650, 211]",test
+authentic/SD_00747_authentic.jpg,authentic,none,SD_00747,,test
+manipulated/SD_00747_date_change.jpg,manipulated,date_change,SD_00747,"[205, 264, 650, 287]",test
+authentic/SD_00748_authentic.jpg,authentic,none,SD_00748,,train
+manipulated/SD_00748_copy_paste.jpg,manipulated,copy_paste,SD_00748,"[205, 140, 500, 175]",train
+authentic/SD_00749_authentic.jpg,authentic,none,SD_00749,,validation
+manipulated/SD_00749_clone.jpg,manipulated,clone,SD_00749,"[430, 270, 580, 305]",validation
+authentic/SD_00750_authentic.jpg,authentic,none,SD_00750,,train
+manipulated/SD_00750_compression.jpg,manipulated,compression,SD_00750,"[0, 0, 700, 455]",train
+authentic/SD_00751_authentic.jpg,authentic,none,SD_00751,,train
+manipulated/SD_00751_mixed.jpg,manipulated,mixed,SD_00751,"[45, 100, 650, 250]",train
+authentic/SD_00752_authentic.jpg,authentic,none,SD_00752,,train
+manipulated/SD_00752_text_change.jpg,manipulated,text_change,SD_00752,"[205, 150, 650, 173]",train
+authentic/SD_00753_authentic.jpg,authentic,none,SD_00753,,validation
+manipulated/SD_00753_photo_change.jpg,manipulated,photo_change,SD_00753,"[45, 100, 165, 250]",validation
+authentic/SD_00754_authentic.jpg,authentic,none,SD_00754,,test
+manipulated/SD_00754_number_change.jpg,manipulated,number_change,SD_00754,"[205, 188, 650, 211]",test
+authentic/SD_00755_authentic.jpg,authentic,none,SD_00755,,train
+manipulated/SD_00755_date_change.jpg,manipulated,date_change,SD_00755,"[205, 264, 650, 287]",train
+authentic/SD_00756_authentic.jpg,authentic,none,SD_00756,,train
+manipulated/SD_00756_copy_paste.jpg,manipulated,copy_paste,SD_00756,"[205, 140, 500, 175]",train
+authentic/SD_00757_authentic.jpg,authentic,none,SD_00757,,train
+manipulated/SD_00757_clone.jpg,manipulated,clone,SD_00757,"[430, 270, 580, 305]",train
+authentic/SD_00758_authentic.jpg,authentic,none,SD_00758,,test
+manipulated/SD_00758_compression.jpg,manipulated,compression,SD_00758,"[0, 0, 700, 455]",test
+authentic/SD_00759_authentic.jpg,authentic,none,SD_00759,,test
+manipulated/SD_00759_mixed.jpg,manipulated,mixed,SD_00759,"[45, 100, 650, 250]",test
+authentic/SD_00760_authentic.jpg,authentic,none,SD_00760,,train
+manipulated/SD_00760_text_change.jpg,manipulated,text_change,SD_00760,"[205, 150, 650, 173]",train
+authentic/SD_00761_authentic.jpg,authentic,none,SD_00761,,train
+manipulated/SD_00761_photo_change.jpg,manipulated,photo_change,SD_00761,"[45, 100, 165, 250]",train
+authentic/SD_00762_authentic.jpg,authentic,none,SD_00762,,test
+manipulated/SD_00762_number_change.jpg,manipulated,number_change,SD_00762,"[205, 188, 650, 211]",test
+authentic/SD_00763_authentic.jpg,authentic,none,SD_00763,,train
+manipulated/SD_00763_date_change.jpg,manipulated,date_change,SD_00763,"[205, 264, 650, 287]",train
+authentic/SD_00764_authentic.jpg,authentic,none,SD_00764,,validation
+manipulated/SD_00764_copy_paste.jpg,manipulated,copy_paste,SD_00764,"[205, 140, 500, 175]",validation
+authentic/SD_00765_authentic.jpg,authentic,none,SD_00765,,train
+manipulated/SD_00765_clone.jpg,manipulated,clone,SD_00765,"[430, 270, 580, 305]",train
+authentic/SD_00766_authentic.jpg,authentic,none,SD_00766,,train
+manipulated/SD_00766_compression.jpg,manipulated,compression,SD_00766,"[0, 0, 700, 455]",train
+authentic/SD_00767_authentic.jpg,authentic,none,SD_00767,,validation
+manipulated/SD_00767_mixed.jpg,manipulated,mixed,SD_00767,"[45, 100, 650, 250]",validation
+authentic/SD_00768_authentic.jpg,authentic,none,SD_00768,,validation
+manipulated/SD_00768_text_change.jpg,manipulated,text_change,SD_00768,"[205, 150, 650, 173]",validation
+authentic/SD_00769_authentic.jpg,authentic,none,SD_00769,,train
+manipulated/SD_00769_photo_change.jpg,manipulated,photo_change,SD_00769,"[45, 100, 165, 250]",train
+authentic/SD_00770_authentic.jpg,authentic,none,SD_00770,,train
+manipulated/SD_00770_number_change.jpg,manipulated,number_change,SD_00770,"[205, 188, 650, 211]",train
+authentic/SD_00771_authentic.jpg,authentic,none,SD_00771,,train
+manipulated/SD_00771_date_change.jpg,manipulated,date_change,SD_00771,"[205, 264, 650, 287]",train
+authentic/SD_00772_authentic.jpg,authentic,none,SD_00772,,train
+manipulated/SD_00772_copy_paste.jpg,manipulated,copy_paste,SD_00772,"[205, 140, 500, 175]",train
+authentic/SD_00773_authentic.jpg,authentic,none,SD_00773,,validation
+manipulated/SD_00773_clone.jpg,manipulated,clone,SD_00773,"[430, 270, 580, 305]",validation
+authentic/SD_00774_authentic.jpg,authentic,none,SD_00774,,train
+manipulated/SD_00774_compression.jpg,manipulated,compression,SD_00774,"[0, 0, 700, 455]",train
+authentic/SD_00775_authentic.jpg,authentic,none,SD_00775,,train
+manipulated/SD_00775_mixed.jpg,manipulated,mixed,SD_00775,"[45, 100, 650, 250]",train
+authentic/SD_00776_authentic.jpg,authentic,none,SD_00776,,train
+manipulated/SD_00776_text_change.jpg,manipulated,text_change,SD_00776,"[205, 150, 650, 173]",train
+authentic/SD_00777_authentic.jpg,authentic,none,SD_00777,,test
+manipulated/SD_00777_photo_change.jpg,manipulated,photo_change,SD_00777,"[45, 100, 165, 250]",test
+authentic/SD_00778_authentic.jpg,authentic,none,SD_00778,,train
+manipulated/SD_00778_number_change.jpg,manipulated,number_change,SD_00778,"[205, 188, 650, 211]",train
+authentic/SD_00779_authentic.jpg,authentic,none,SD_00779,,train
+manipulated/SD_00779_date_change.jpg,manipulated,date_change,SD_00779,"[205, 264, 650, 287]",train
+authentic/SD_00780_authentic.jpg,authentic,none,SD_00780,,validation
+manipulated/SD_00780_copy_paste.jpg,manipulated,copy_paste,SD_00780,"[205, 140, 500, 175]",validation
+authentic/SD_00781_authentic.jpg,authentic,none,SD_00781,,test
+manipulated/SD_00781_clone.jpg,manipulated,clone,SD_00781,"[430, 270, 580, 305]",test
+authentic/SD_00782_authentic.jpg,authentic,none,SD_00782,,train
+manipulated/SD_00782_compression.jpg,manipulated,compression,SD_00782,"[0, 0, 700, 455]",train
+authentic/SD_00783_authentic.jpg,authentic,none,SD_00783,,train
+manipulated/SD_00783_mixed.jpg,manipulated,mixed,SD_00783,"[45, 100, 650, 250]",train
+authentic/SD_00784_authentic.jpg,authentic,none,SD_00784,,validation
+manipulated/SD_00784_text_change.jpg,manipulated,text_change,SD_00784,"[205, 150, 650, 173]",validation
+authentic/SD_00785_authentic.jpg,authentic,none,SD_00785,,train
+manipulated/SD_00785_photo_change.jpg,manipulated,photo_change,SD_00785,"[45, 100, 165, 250]",train
+authentic/SD_00786_authentic.jpg,authentic,none,SD_00786,,test
+manipulated/SD_00786_number_change.jpg,manipulated,number_change,SD_00786,"[205, 188, 650, 211]",test
+authentic/SD_00787_authentic.jpg,authentic,none,SD_00787,,validation
+manipulated/SD_00787_date_change.jpg,manipulated,date_change,SD_00787,"[205, 264, 650, 287]",validation
+authentic/SD_00788_authentic.jpg,authentic,none,SD_00788,,train
+manipulated/SD_00788_copy_paste.jpg,manipulated,copy_paste,SD_00788,"[205, 140, 500, 175]",train
+authentic/SD_00789_authentic.jpg,authentic,none,SD_00789,,train
+manipulated/SD_00789_clone.jpg,manipulated,clone,SD_00789,"[430, 270, 580, 305]",train
+authentic/SD_00790_authentic.jpg,authentic,none,SD_00790,,train
+manipulated/SD_00790_compression.jpg,manipulated,compression,SD_00790,"[0, 0, 700, 455]",train
+authentic/SD_00791_authentic.jpg,authentic,none,SD_00791,,test
+manipulated/SD_00791_mixed.jpg,manipulated,mixed,SD_00791,"[45, 100, 650, 250]",test
+authentic/SD_00792_authentic.jpg,authentic,none,SD_00792,,train
+manipulated/SD_00792_text_change.jpg,manipulated,text_change,SD_00792,"[205, 150, 650, 173]",train
+authentic/SD_00793_authentic.jpg,authentic,none,SD_00793,,train
+manipulated/SD_00793_photo_change.jpg,manipulated,photo_change,SD_00793,"[45, 100, 165, 250]",train
+authentic/SD_00794_authentic.jpg,authentic,none,SD_00794,,test
+manipulated/SD_00794_number_change.jpg,manipulated,number_change,SD_00794,"[205, 188, 650, 211]",test
+authentic/SD_00795_authentic.jpg,authentic,none,SD_00795,,train
+manipulated/SD_00795_date_change.jpg,manipulated,date_change,SD_00795,"[205, 264, 650, 287]",train
+authentic/SD_00796_authentic.jpg,authentic,none,SD_00796,,validation
+manipulated/SD_00796_copy_paste.jpg,manipulated,copy_paste,SD_00796,"[205, 140, 500, 175]",validation
+authentic/SD_00797_authentic.jpg,authentic,none,SD_00797,,train
+manipulated/SD_00797_clone.jpg,manipulated,clone,SD_00797,"[430, 270, 580, 305]",train
+authentic/SD_00798_authentic.jpg,authentic,none,SD_00798,,validation
+manipulated/SD_00798_compression.jpg,manipulated,compression,SD_00798,"[0, 0, 700, 455]",validation
+authentic/SD_00799_authentic.jpg,authentic,none,SD_00799,,train
+manipulated/SD_00799_mixed.jpg,manipulated,mixed,SD_00799,"[45, 100, 650, 250]",train
+authentic/SD_00800_authentic.jpg,authentic,none,SD_00800,,train
+manipulated/SD_00800_text_change.jpg,manipulated,text_change,SD_00800,"[205, 150, 650, 173]",train
+authentic/SD_00801_authentic.jpg,authentic,none,SD_00801,,train
+manipulated/SD_00801_photo_change.jpg,manipulated,photo_change,SD_00801,"[45, 100, 165, 250]",train
+authentic/SD_00802_authentic.jpg,authentic,none,SD_00802,,train
+manipulated/SD_00802_number_change.jpg,manipulated,number_change,SD_00802,"[205, 188, 650, 211]",train
+authentic/SD_00803_authentic.jpg,authentic,none,SD_00803,,train
+manipulated/SD_00803_date_change.jpg,manipulated,date_change,SD_00803,"[205, 264, 650, 287]",train
+authentic/SD_00804_authentic.jpg,authentic,none,SD_00804,,train
+manipulated/SD_00804_copy_paste.jpg,manipulated,copy_paste,SD_00804,"[205, 140, 500, 175]",train
+authentic/SD_00805_authentic.jpg,authentic,none,SD_00805,,train
+manipulated/SD_00805_clone.jpg,manipulated,clone,SD_00805,"[430, 270, 580, 305]",train
+authentic/SD_00806_authentic.jpg,authentic,none,SD_00806,,train
+manipulated/SD_00806_compression.jpg,manipulated,compression,SD_00806,"[0, 0, 700, 455]",train
+authentic/SD_00807_authentic.jpg,authentic,none,SD_00807,,train
+manipulated/SD_00807_mixed.jpg,manipulated,mixed,SD_00807,"[45, 100, 650, 250]",train
+authentic/SD_00808_authentic.jpg,authentic,none,SD_00808,,validation
+manipulated/SD_00808_text_change.jpg,manipulated,text_change,SD_00808,"[205, 150, 650, 173]",validation
+authentic/SD_00809_authentic.jpg,authentic,none,SD_00809,,train
+manipulated/SD_00809_photo_change.jpg,manipulated,photo_change,SD_00809,"[45, 100, 165, 250]",train
+authentic/SD_00810_authentic.jpg,authentic,none,SD_00810,,train
+manipulated/SD_00810_number_change.jpg,manipulated,number_change,SD_00810,"[205, 188, 650, 211]",train
+authentic/SD_00811_authentic.jpg,authentic,none,SD_00811,,validation
+manipulated/SD_00811_date_change.jpg,manipulated,date_change,SD_00811,"[205, 264, 650, 287]",validation
+authentic/SD_00812_authentic.jpg,authentic,none,SD_00812,,train
+manipulated/SD_00812_copy_paste.jpg,manipulated,copy_paste,SD_00812,"[205, 140, 500, 175]",train
+authentic/SD_00813_authentic.jpg,authentic,none,SD_00813,,train
+manipulated/SD_00813_clone.jpg,manipulated,clone,SD_00813,"[430, 270, 580, 305]",train
+authentic/SD_00814_authentic.jpg,authentic,none,SD_00814,,train
+manipulated/SD_00814_compression.jpg,manipulated,compression,SD_00814,"[0, 0, 700, 455]",train
+authentic/SD_00815_authentic.jpg,authentic,none,SD_00815,,train
+manipulated/SD_00815_mixed.jpg,manipulated,mixed,SD_00815,"[45, 100, 650, 250]",train
+authentic/SD_00816_authentic.jpg,authentic,none,SD_00816,,train
+manipulated/SD_00816_text_change.jpg,manipulated,text_change,SD_00816,"[205, 150, 650, 173]",train
+authentic/SD_00817_authentic.jpg,authentic,none,SD_00817,,train
+manipulated/SD_00817_photo_change.jpg,manipulated,photo_change,SD_00817,"[45, 100, 165, 250]",train
+authentic/SD_00818_authentic.jpg,authentic,none,SD_00818,,train
+manipulated/SD_00818_number_change.jpg,manipulated,number_change,SD_00818,"[205, 188, 650, 211]",train
+authentic/SD_00819_authentic.jpg,authentic,none,SD_00819,,train
+manipulated/SD_00819_date_change.jpg,manipulated,date_change,SD_00819,"[205, 264, 650, 287]",train
+authentic/SD_00820_authentic.jpg,authentic,none,SD_00820,,train
+manipulated/SD_00820_copy_paste.jpg,manipulated,copy_paste,SD_00820,"[205, 140, 500, 175]",train
+authentic/SD_00821_authentic.jpg,authentic,none,SD_00821,,train
+manipulated/SD_00821_clone.jpg,manipulated,clone,SD_00821,"[430, 270, 580, 305]",train
+authentic/SD_00822_authentic.jpg,authentic,none,SD_00822,,train
+manipulated/SD_00822_compression.jpg,manipulated,compression,SD_00822,"[0, 0, 700, 455]",train
+authentic/SD_00823_authentic.jpg,authentic,none,SD_00823,,train
+manipulated/SD_00823_mixed.jpg,manipulated,mixed,SD_00823,"[45, 100, 650, 250]",train
+authentic/SD_00824_authentic.jpg,authentic,none,SD_00824,,test
+manipulated/SD_00824_text_change.jpg,manipulated,text_change,SD_00824,"[205, 150, 650, 173]",test
+authentic/SD_00825_authentic.jpg,authentic,none,SD_00825,,test
+manipulated/SD_00825_photo_change.jpg,manipulated,photo_change,SD_00825,"[45, 100, 165, 250]",test
+authentic/SD_00826_authentic.jpg,authentic,none,SD_00826,,test
+manipulated/SD_00826_number_change.jpg,manipulated,number_change,SD_00826,"[205, 188, 650, 211]",test
+authentic/SD_00827_authentic.jpg,authentic,none,SD_00827,,validation
+manipulated/SD_00827_date_change.jpg,manipulated,date_change,SD_00827,"[205, 264, 650, 287]",validation
+authentic/SD_00828_authentic.jpg,authentic,none,SD_00828,,test
+manipulated/SD_00828_copy_paste.jpg,manipulated,copy_paste,SD_00828,"[205, 140, 500, 175]",test
+authentic/SD_00829_authentic.jpg,authentic,none,SD_00829,,train
+manipulated/SD_00829_clone.jpg,manipulated,clone,SD_00829,"[430, 270, 580, 305]",train
+authentic/SD_00830_authentic.jpg,authentic,none,SD_00830,,validation
+manipulated/SD_00830_compression.jpg,manipulated,compression,SD_00830,"[0, 0, 700, 455]",validation
+authentic/SD_00831_authentic.jpg,authentic,none,SD_00831,,validation
+manipulated/SD_00831_mixed.jpg,manipulated,mixed,SD_00831,"[45, 100, 650, 250]",validation
+authentic/SD_00832_authentic.jpg,authentic,none,SD_00832,,train
+manipulated/SD_00832_text_change.jpg,manipulated,text_change,SD_00832,"[205, 150, 650, 173]",train
+authentic/SD_00833_authentic.jpg,authentic,none,SD_00833,,train
+manipulated/SD_00833_photo_change.jpg,manipulated,photo_change,SD_00833,"[45, 100, 165, 250]",train
+authentic/SD_00834_authentic.jpg,authentic,none,SD_00834,,validation
+manipulated/SD_00834_number_change.jpg,manipulated,number_change,SD_00834,"[205, 188, 650, 211]",validation
+authentic/SD_00835_authentic.jpg,authentic,none,SD_00835,,train
+manipulated/SD_00835_date_change.jpg,manipulated,date_change,SD_00835,"[205, 264, 650, 287]",train
+authentic/SD_00836_authentic.jpg,authentic,none,SD_00836,,train
+manipulated/SD_00836_copy_paste.jpg,manipulated,copy_paste,SD_00836,"[205, 140, 500, 175]",train
+authentic/SD_00837_authentic.jpg,authentic,none,SD_00837,,train
+manipulated/SD_00837_clone.jpg,manipulated,clone,SD_00837,"[430, 270, 580, 305]",train
+authentic/SD_00838_authentic.jpg,authentic,none,SD_00838,,train
+manipulated/SD_00838_compression.jpg,manipulated,compression,SD_00838,"[0, 0, 700, 455]",train
+authentic/SD_00839_authentic.jpg,authentic,none,SD_00839,,train
+manipulated/SD_00839_mixed.jpg,manipulated,mixed,SD_00839,"[45, 100, 650, 250]",train
+authentic/SD_00840_authentic.jpg,authentic,none,SD_00840,,train
+manipulated/SD_00840_text_change.jpg,manipulated,text_change,SD_00840,"[205, 150, 650, 173]",train
+authentic/SD_00841_authentic.jpg,authentic,none,SD_00841,,test
+manipulated/SD_00841_photo_change.jpg,manipulated,photo_change,SD_00841,"[45, 100, 165, 250]",test
+authentic/SD_00842_authentic.jpg,authentic,none,SD_00842,,train
+manipulated/SD_00842_number_change.jpg,manipulated,number_change,SD_00842,"[205, 188, 650, 211]",train
+authentic/SD_00843_authentic.jpg,authentic,none,SD_00843,,train
+manipulated/SD_00843_date_change.jpg,manipulated,date_change,SD_00843,"[205, 264, 650, 287]",train
+authentic/SD_00844_authentic.jpg,authentic,none,SD_00844,,validation
+manipulated/SD_00844_copy_paste.jpg,manipulated,copy_paste,SD_00844,"[205, 140, 500, 175]",validation
+authentic/SD_00845_authentic.jpg,authentic,none,SD_00845,,train
+manipulated/SD_00845_clone.jpg,manipulated,clone,SD_00845,"[430, 270, 580, 305]",train
+authentic/SD_00846_authentic.jpg,authentic,none,SD_00846,,train
+manipulated/SD_00846_compression.jpg,manipulated,compression,SD_00846,"[0, 0, 700, 455]",train
+authentic/SD_00847_authentic.jpg,authentic,none,SD_00847,,train
+manipulated/SD_00847_mixed.jpg,manipulated,mixed,SD_00847,"[45, 100, 650, 250]",train
+authentic/SD_00848_authentic.jpg,authentic,none,SD_00848,,train
+manipulated/SD_00848_text_change.jpg,manipulated,text_change,SD_00848,"[205, 150, 650, 173]",train
+authentic/SD_00849_authentic.jpg,authentic,none,SD_00849,,test
+manipulated/SD_00849_photo_change.jpg,manipulated,photo_change,SD_00849,"[45, 100, 165, 250]",test
+authentic/SD_00850_authentic.jpg,authentic,none,SD_00850,,train
+manipulated/SD_00850_number_change.jpg,manipulated,number_change,SD_00850,"[205, 188, 650, 211]",train
+authentic/SD_00851_authentic.jpg,authentic,none,SD_00851,,train
+manipulated/SD_00851_date_change.jpg,manipulated,date_change,SD_00851,"[205, 264, 650, 287]",train
+authentic/SD_00852_authentic.jpg,authentic,none,SD_00852,,train
+manipulated/SD_00852_copy_paste.jpg,manipulated,copy_paste,SD_00852,"[205, 140, 500, 175]",train
+authentic/SD_00853_authentic.jpg,authentic,none,SD_00853,,train
+manipulated/SD_00853_clone.jpg,manipulated,clone,SD_00853,"[430, 270, 580, 305]",train
+authentic/SD_00854_authentic.jpg,authentic,none,SD_00854,,test
+manipulated/SD_00854_compression.jpg,manipulated,compression,SD_00854,"[0, 0, 700, 455]",test
+authentic/SD_00855_authentic.jpg,authentic,none,SD_00855,,validation
+manipulated/SD_00855_mixed.jpg,manipulated,mixed,SD_00855,"[45, 100, 650, 250]",validation
+authentic/SD_00856_authentic.jpg,authentic,none,SD_00856,,train
+manipulated/SD_00856_text_change.jpg,manipulated,text_change,SD_00856,"[205, 150, 650, 173]",train
+authentic/SD_00857_authentic.jpg,authentic,none,SD_00857,,train
+manipulated/SD_00857_photo_change.jpg,manipulated,photo_change,SD_00857,"[45, 100, 165, 250]",train
+authentic/SD_00858_authentic.jpg,authentic,none,SD_00858,,train
+manipulated/SD_00858_number_change.jpg,manipulated,number_change,SD_00858,"[205, 188, 650, 211]",train
+authentic/SD_00859_authentic.jpg,authentic,none,SD_00859,,train
+manipulated/SD_00859_date_change.jpg,manipulated,date_change,SD_00859,"[205, 264, 650, 287]",train
+authentic/SD_00860_authentic.jpg,authentic,none,SD_00860,,train
+manipulated/SD_00860_copy_paste.jpg,manipulated,copy_paste,SD_00860,"[205, 140, 500, 175]",train
+authentic/SD_00861_authentic.jpg,authentic,none,SD_00861,,train
+manipulated/SD_00861_clone.jpg,manipulated,clone,SD_00861,"[430, 270, 580, 305]",train
+authentic/SD_00862_authentic.jpg,authentic,none,SD_00862,,train
+manipulated/SD_00862_compression.jpg,manipulated,compression,SD_00862,"[0, 0, 700, 455]",train
+authentic/SD_00863_authentic.jpg,authentic,none,SD_00863,,test
+manipulated/SD_00863_mixed.jpg,manipulated,mixed,SD_00863,"[45, 100, 650, 250]",test
+authentic/SD_00864_authentic.jpg,authentic,none,SD_00864,,train
+manipulated/SD_00864_text_change.jpg,manipulated,text_change,SD_00864,"[205, 150, 650, 173]",train
+authentic/SD_00865_authentic.jpg,authentic,none,SD_00865,,validation
+manipulated/SD_00865_photo_change.jpg,manipulated,photo_change,SD_00865,"[45, 100, 165, 250]",validation
+authentic/SD_00866_authentic.jpg,authentic,none,SD_00866,,validation
+manipulated/SD_00866_number_change.jpg,manipulated,number_change,SD_00866,"[205, 188, 650, 211]",validation
+authentic/SD_00867_authentic.jpg,authentic,none,SD_00867,,test
+manipulated/SD_00867_date_change.jpg,manipulated,date_change,SD_00867,"[205, 264, 650, 287]",test
+authentic/SD_00868_authentic.jpg,authentic,none,SD_00868,,train
+manipulated/SD_00868_copy_paste.jpg,manipulated,copy_paste,SD_00868,"[205, 140, 500, 175]",train
+authentic/SD_00869_authentic.jpg,authentic,none,SD_00869,,train
+manipulated/SD_00869_clone.jpg,manipulated,clone,SD_00869,"[430, 270, 580, 305]",train
+authentic/SD_00870_authentic.jpg,authentic,none,SD_00870,,train
+manipulated/SD_00870_compression.jpg,manipulated,compression,SD_00870,"[0, 0, 700, 455]",train
+authentic/SD_00871_authentic.jpg,authentic,none,SD_00871,,train
+manipulated/SD_00871_mixed.jpg,manipulated,mixed,SD_00871,"[45, 100, 650, 250]",train
+authentic/SD_00872_authentic.jpg,authentic,none,SD_00872,,validation
+manipulated/SD_00872_text_change.jpg,manipulated,text_change,SD_00872,"[205, 150, 650, 173]",validation
+authentic/SD_00873_authentic.jpg,authentic,none,SD_00873,,train
+manipulated/SD_00873_photo_change.jpg,manipulated,photo_change,SD_00873,"[45, 100, 165, 250]",train
+authentic/SD_00874_authentic.jpg,authentic,none,SD_00874,,validation
+manipulated/SD_00874_number_change.jpg,manipulated,number_change,SD_00874,"[205, 188, 650, 211]",validation
+authentic/SD_00875_authentic.jpg,authentic,none,SD_00875,,test
+manipulated/SD_00875_date_change.jpg,manipulated,date_change,SD_00875,"[205, 264, 650, 287]",test
+authentic/SD_00876_authentic.jpg,authentic,none,SD_00876,,train
+manipulated/SD_00876_copy_paste.jpg,manipulated,copy_paste,SD_00876,"[205, 140, 500, 175]",train
+authentic/SD_00877_authentic.jpg,authentic,none,SD_00877,,train
+manipulated/SD_00877_clone.jpg,manipulated,clone,SD_00877,"[430, 270, 580, 305]",train
+authentic/SD_00878_authentic.jpg,authentic,none,SD_00878,,train
+manipulated/SD_00878_compression.jpg,manipulated,compression,SD_00878,"[0, 0, 700, 455]",train
+authentic/SD_00879_authentic.jpg,authentic,none,SD_00879,,train
+manipulated/SD_00879_mixed.jpg,manipulated,mixed,SD_00879,"[45, 100, 650, 250]",train
+authentic/SD_00880_authentic.jpg,authentic,none,SD_00880,,train
+manipulated/SD_00880_text_change.jpg,manipulated,text_change,SD_00880,"[205, 150, 650, 173]",train
+authentic/SD_00881_authentic.jpg,authentic,none,SD_00881,,validation
+manipulated/SD_00881_photo_change.jpg,manipulated,photo_change,SD_00881,"[45, 100, 165, 250]",validation
+authentic/SD_00882_authentic.jpg,authentic,none,SD_00882,,test
+manipulated/SD_00882_number_change.jpg,manipulated,number_change,SD_00882,"[205, 188, 650, 211]",test
+authentic/SD_00883_authentic.jpg,authentic,none,SD_00883,,train
+manipulated/SD_00883_date_change.jpg,manipulated,date_change,SD_00883,"[205, 264, 650, 287]",train
+authentic/SD_00884_authentic.jpg,authentic,none,SD_00884,,train
+manipulated/SD_00884_copy_paste.jpg,manipulated,copy_paste,SD_00884,"[205, 140, 500, 175]",train
+authentic/SD_00885_authentic.jpg,authentic,none,SD_00885,,train
+manipulated/SD_00885_clone.jpg,manipulated,clone,SD_00885,"[430, 270, 580, 305]",train
+authentic/SD_00886_authentic.jpg,authentic,none,SD_00886,,train
+manipulated/SD_00886_compression.jpg,manipulated,compression,SD_00886,"[0, 0, 700, 455]",train
+authentic/SD_00887_authentic.jpg,authentic,none,SD_00887,,test
+manipulated/SD_00887_mixed.jpg,manipulated,mixed,SD_00887,"[45, 100, 650, 250]",test
+authentic/SD_00888_authentic.jpg,authentic,none,SD_00888,,train
+manipulated/SD_00888_text_change.jpg,manipulated,text_change,SD_00888,"[205, 150, 650, 173]",train
+authentic/SD_00889_authentic.jpg,authentic,none,SD_00889,,train
+manipulated/SD_00889_photo_change.jpg,manipulated,photo_change,SD_00889,"[45, 100, 165, 250]",train
+authentic/SD_00890_authentic.jpg,authentic,none,SD_00890,,test
+manipulated/SD_00890_number_change.jpg,manipulated,number_change,SD_00890,"[205, 188, 650, 211]",test
+authentic/SD_00891_authentic.jpg,authentic,none,SD_00891,,train
+manipulated/SD_00891_date_change.jpg,manipulated,date_change,SD_00891,"[205, 264, 650, 287]",train
+authentic/SD_00892_authentic.jpg,authentic,none,SD_00892,,train
+manipulated/SD_00892_copy_paste.jpg,manipulated,copy_paste,SD_00892,"[205, 140, 500, 175]",train
+authentic/SD_00893_authentic.jpg,authentic,none,SD_00893,,train
+manipulated/SD_00893_clone.jpg,manipulated,clone,SD_00893,"[430, 270, 580, 305]",train
+authentic/SD_00894_authentic.jpg,authentic,none,SD_00894,,validation
+manipulated/SD_00894_compression.jpg,manipulated,compression,SD_00894,"[0, 0, 700, 455]",validation
+authentic/SD_00895_authentic.jpg,authentic,none,SD_00895,,train
+manipulated/SD_00895_mixed.jpg,manipulated,mixed,SD_00895,"[45, 100, 650, 250]",train
+authentic/SD_00896_authentic.jpg,authentic,none,SD_00896,,train
+manipulated/SD_00896_text_change.jpg,manipulated,text_change,SD_00896,"[205, 150, 650, 173]",train
+authentic/SD_00897_authentic.jpg,authentic,none,SD_00897,,train
+manipulated/SD_00897_photo_change.jpg,manipulated,photo_change,SD_00897,"[45, 100, 165, 250]",train
+authentic/SD_00898_authentic.jpg,authentic,none,SD_00898,,train
+manipulated/SD_00898_number_change.jpg,manipulated,number_change,SD_00898,"[205, 188, 650, 211]",train
+authentic/SD_00899_authentic.jpg,authentic,none,SD_00899,,validation
+manipulated/SD_00899_date_change.jpg,manipulated,date_change,SD_00899,"[205, 264, 650, 287]",validation
+authentic/SD_00900_authentic.jpg,authentic,none,SD_00900,,train
+manipulated/SD_00900_copy_paste.jpg,manipulated,copy_paste,SD_00900,"[205, 140, 500, 175]",train
+authentic/SD_00901_authentic.jpg,authentic,none,SD_00901,,train
+manipulated/SD_00901_clone.jpg,manipulated,clone,SD_00901,"[430, 270, 580, 305]",train
+authentic/SD_00902_authentic.jpg,authentic,none,SD_00902,,train
+manipulated/SD_00902_compression.jpg,manipulated,compression,SD_00902,"[0, 0, 700, 455]",train
+authentic/SD_00903_authentic.jpg,authentic,none,SD_00903,,train
+manipulated/SD_00903_mixed.jpg,manipulated,mixed,SD_00903,"[45, 100, 650, 250]",train
+authentic/SD_00904_authentic.jpg,authentic,none,SD_00904,,train
+manipulated/SD_00904_text_change.jpg,manipulated,text_change,SD_00904,"[205, 150, 650, 173]",train
+authentic/SD_00905_authentic.jpg,authentic,none,SD_00905,,train
+manipulated/SD_00905_photo_change.jpg,manipulated,photo_change,SD_00905,"[45, 100, 165, 250]",train
+authentic/SD_00906_authentic.jpg,authentic,none,SD_00906,,test
+manipulated/SD_00906_number_change.jpg,manipulated,number_change,SD_00906,"[205, 188, 650, 211]",test
+authentic/SD_00907_authentic.jpg,authentic,none,SD_00907,,test
+manipulated/SD_00907_date_change.jpg,manipulated,date_change,SD_00907,"[205, 264, 650, 287]",test
+authentic/SD_00908_authentic.jpg,authentic,none,SD_00908,,validation
+manipulated/SD_00908_copy_paste.jpg,manipulated,copy_paste,SD_00908,"[205, 140, 500, 175]",validation
+authentic/SD_00909_authentic.jpg,authentic,none,SD_00909,,train
+manipulated/SD_00909_clone.jpg,manipulated,clone,SD_00909,"[430, 270, 580, 305]",train
+authentic/SD_00910_authentic.jpg,authentic,none,SD_00910,,train
+manipulated/SD_00910_compression.jpg,manipulated,compression,SD_00910,"[0, 0, 700, 455]",train
+authentic/SD_00911_authentic.jpg,authentic,none,SD_00911,,train
+manipulated/SD_00911_mixed.jpg,manipulated,mixed,SD_00911,"[45, 100, 650, 250]",train
+authentic/SD_00912_authentic.jpg,authentic,none,SD_00912,,train
+manipulated/SD_00912_text_change.jpg,manipulated,text_change,SD_00912,"[205, 150, 650, 173]",train
+authentic/SD_00913_authentic.jpg,authentic,none,SD_00913,,test
+manipulated/SD_00913_photo_change.jpg,manipulated,photo_change,SD_00913,"[45, 100, 165, 250]",test
+authentic/SD_00914_authentic.jpg,authentic,none,SD_00914,,train
+manipulated/SD_00914_number_change.jpg,manipulated,number_change,SD_00914,"[205, 188, 650, 211]",train
+authentic/SD_00915_authentic.jpg,authentic,none,SD_00915,,train
+manipulated/SD_00915_date_change.jpg,manipulated,date_change,SD_00915,"[205, 264, 650, 287]",train
+authentic/SD_00916_authentic.jpg,authentic,none,SD_00916,,train
+manipulated/SD_00916_copy_paste.jpg,manipulated,copy_paste,SD_00916,"[205, 140, 500, 175]",train
+authentic/SD_00917_authentic.jpg,authentic,none,SD_00917,,train
+manipulated/SD_00917_clone.jpg,manipulated,clone,SD_00917,"[430, 270, 580, 305]",train
+authentic/SD_00918_authentic.jpg,authentic,none,SD_00918,,train
+manipulated/SD_00918_compression.jpg,manipulated,compression,SD_00918,"[0, 0, 700, 455]",train
+authentic/SD_00919_authentic.jpg,authentic,none,SD_00919,,train
+manipulated/SD_00919_mixed.jpg,manipulated,mixed,SD_00919,"[45, 100, 650, 250]",train
+authentic/SD_00920_authentic.jpg,authentic,none,SD_00920,,train
+manipulated/SD_00920_text_change.jpg,manipulated,text_change,SD_00920,"[205, 150, 650, 173]",train
+authentic/SD_00921_authentic.jpg,authentic,none,SD_00921,,train
+manipulated/SD_00921_photo_change.jpg,manipulated,photo_change,SD_00921,"[45, 100, 165, 250]",train
+authentic/SD_00922_authentic.jpg,authentic,none,SD_00922,,train
+manipulated/SD_00922_number_change.jpg,manipulated,number_change,SD_00922,"[205, 188, 650, 211]",train
+authentic/SD_00923_authentic.jpg,authentic,none,SD_00923,,train
+manipulated/SD_00923_date_change.jpg,manipulated,date_change,SD_00923,"[205, 264, 650, 287]",train
+authentic/SD_00924_authentic.jpg,authentic,none,SD_00924,,train
+manipulated/SD_00924_copy_paste.jpg,manipulated,copy_paste,SD_00924,"[205, 140, 500, 175]",train
+authentic/SD_00925_authentic.jpg,authentic,none,SD_00925,,validation
+manipulated/SD_00925_clone.jpg,manipulated,clone,SD_00925,"[430, 270, 580, 305]",validation
+authentic/SD_00926_authentic.jpg,authentic,none,SD_00926,,train
+manipulated/SD_00926_compression.jpg,manipulated,compression,SD_00926,"[0, 0, 700, 455]",train
+authentic/SD_00927_authentic.jpg,authentic,none,SD_00927,,train
+manipulated/SD_00927_mixed.jpg,manipulated,mixed,SD_00927,"[45, 100, 650, 250]",train
+authentic/SD_00928_authentic.jpg,authentic,none,SD_00928,,train
+manipulated/SD_00928_text_change.jpg,manipulated,text_change,SD_00928,"[205, 150, 650, 173]",train
+authentic/SD_00929_authentic.jpg,authentic,none,SD_00929,,train
+manipulated/SD_00929_photo_change.jpg,manipulated,photo_change,SD_00929,"[45, 100, 165, 250]",train
+authentic/SD_00930_authentic.jpg,authentic,none,SD_00930,,validation
+manipulated/SD_00930_number_change.jpg,manipulated,number_change,SD_00930,"[205, 188, 650, 211]",validation
+authentic/SD_00931_authentic.jpg,authentic,none,SD_00931,,validation
+manipulated/SD_00931_date_change.jpg,manipulated,date_change,SD_00931,"[205, 264, 650, 287]",validation
+authentic/SD_00932_authentic.jpg,authentic,none,SD_00932,,train
+manipulated/SD_00932_copy_paste.jpg,manipulated,copy_paste,SD_00932,"[205, 140, 500, 175]",train
+authentic/SD_00933_authentic.jpg,authentic,none,SD_00933,,validation
+manipulated/SD_00933_clone.jpg,manipulated,clone,SD_00933,"[430, 270, 580, 305]",validation
+authentic/SD_00934_authentic.jpg,authentic,none,SD_00934,,train
+manipulated/SD_00934_compression.jpg,manipulated,compression,SD_00934,"[0, 0, 700, 455]",train
+authentic/SD_00935_authentic.jpg,authentic,none,SD_00935,,train
+manipulated/SD_00935_mixed.jpg,manipulated,mixed,SD_00935,"[45, 100, 650, 250]",train
+authentic/SD_00936_authentic.jpg,authentic,none,SD_00936,,validation
+manipulated/SD_00936_text_change.jpg,manipulated,text_change,SD_00936,"[205, 150, 650, 173]",validation
+authentic/SD_00937_authentic.jpg,authentic,none,SD_00937,,train
+manipulated/SD_00937_photo_change.jpg,manipulated,photo_change,SD_00937,"[45, 100, 165, 250]",train
+authentic/SD_00938_authentic.jpg,authentic,none,SD_00938,,validation
+manipulated/SD_00938_number_change.jpg,manipulated,number_change,SD_00938,"[205, 188, 650, 211]",validation
+authentic/SD_00939_authentic.jpg,authentic,none,SD_00939,,train
+manipulated/SD_00939_date_change.jpg,manipulated,date_change,SD_00939,"[205, 264, 650, 287]",train
+authentic/SD_00940_authentic.jpg,authentic,none,SD_00940,,train
+manipulated/SD_00940_copy_paste.jpg,manipulated,copy_paste,SD_00940,"[205, 140, 500, 175]",train
+authentic/SD_00941_authentic.jpg,authentic,none,SD_00941,,train
+manipulated/SD_00941_clone.jpg,manipulated,clone,SD_00941,"[430, 270, 580, 305]",train
+authentic/SD_00942_authentic.jpg,authentic,none,SD_00942,,train
+manipulated/SD_00942_compression.jpg,manipulated,compression,SD_00942,"[0, 0, 700, 455]",train
+authentic/SD_00943_authentic.jpg,authentic,none,SD_00943,,train
+manipulated/SD_00943_mixed.jpg,manipulated,mixed,SD_00943,"[45, 100, 650, 250]",train
+authentic/SD_00944_authentic.jpg,authentic,none,SD_00944,,train
+manipulated/SD_00944_text_change.jpg,manipulated,text_change,SD_00944,"[205, 150, 650, 173]",train
+authentic/SD_00945_authentic.jpg,authentic,none,SD_00945,,train
+manipulated/SD_00945_photo_change.jpg,manipulated,photo_change,SD_00945,"[45, 100, 165, 250]",train
+authentic/SD_00946_authentic.jpg,authentic,none,SD_00946,,validation
+manipulated/SD_00946_number_change.jpg,manipulated,number_change,SD_00946,"[205, 188, 650, 211]",validation
+authentic/SD_00947_authentic.jpg,authentic,none,SD_00947,,test
+manipulated/SD_00947_date_change.jpg,manipulated,date_change,SD_00947,"[205, 264, 650, 287]",test
+authentic/SD_00948_authentic.jpg,authentic,none,SD_00948,,train
+manipulated/SD_00948_copy_paste.jpg,manipulated,copy_paste,SD_00948,"[205, 140, 500, 175]",train
+authentic/SD_00949_authentic.jpg,authentic,none,SD_00949,,train
+manipulated/SD_00949_clone.jpg,manipulated,clone,SD_00949,"[430, 270, 580, 305]",train
+authentic/SD_00950_authentic.jpg,authentic,none,SD_00950,,train
+manipulated/SD_00950_compression.jpg,manipulated,compression,SD_00950,"[0, 0, 700, 455]",train
+authentic/SD_00951_authentic.jpg,authentic,none,SD_00951,,train
+manipulated/SD_00951_mixed.jpg,manipulated,mixed,SD_00951,"[45, 100, 650, 250]",train
+authentic/SD_00952_authentic.jpg,authentic,none,SD_00952,,train
+manipulated/SD_00952_text_change.jpg,manipulated,text_change,SD_00952,"[205, 150, 650, 173]",train
+authentic/SD_00953_authentic.jpg,authentic,none,SD_00953,,train
+manipulated/SD_00953_photo_change.jpg,manipulated,photo_change,SD_00953,"[45, 100, 165, 250]",train
+authentic/SD_00954_authentic.jpg,authentic,none,SD_00954,,test
+manipulated/SD_00954_number_change.jpg,manipulated,number_change,SD_00954,"[205, 188, 650, 211]",test
+authentic/SD_00955_authentic.jpg,authentic,none,SD_00955,,validation
+manipulated/SD_00955_date_change.jpg,manipulated,date_change,SD_00955,"[205, 264, 650, 287]",validation
+authentic/SD_00956_authentic.jpg,authentic,none,SD_00956,,validation
+manipulated/SD_00956_copy_paste.jpg,manipulated,copy_paste,SD_00956,"[205, 140, 500, 175]",validation
+authentic/SD_00957_authentic.jpg,authentic,none,SD_00957,,train
+manipulated/SD_00957_clone.jpg,manipulated,clone,SD_00957,"[430, 270, 580, 305]",train
+authentic/SD_00958_authentic.jpg,authentic,none,SD_00958,,validation
+manipulated/SD_00958_compression.jpg,manipulated,compression,SD_00958,"[0, 0, 700, 455]",validation
+authentic/SD_00959_authentic.jpg,authentic,none,SD_00959,,train
+manipulated/SD_00959_mixed.jpg,manipulated,mixed,SD_00959,"[45, 100, 650, 250]",train
+authentic/SD_00960_authentic.jpg,authentic,none,SD_00960,,train
+manipulated/SD_00960_text_change.jpg,manipulated,text_change,SD_00960,"[205, 150, 650, 173]",train
+authentic/SD_00961_authentic.jpg,authentic,none,SD_00961,,train
+manipulated/SD_00961_photo_change.jpg,manipulated,photo_change,SD_00961,"[45, 100, 165, 250]",train
+authentic/SD_00962_authentic.jpg,authentic,none,SD_00962,,train
+manipulated/SD_00962_number_change.jpg,manipulated,number_change,SD_00962,"[205, 188, 650, 211]",train
+authentic/SD_00963_authentic.jpg,authentic,none,SD_00963,,validation
+manipulated/SD_00963_date_change.jpg,manipulated,date_change,SD_00963,"[205, 264, 650, 287]",validation
+authentic/SD_00964_authentic.jpg,authentic,none,SD_00964,,test
+manipulated/SD_00964_copy_paste.jpg,manipulated,copy_paste,SD_00964,"[205, 140, 500, 175]",test
+authentic/SD_00965_authentic.jpg,authentic,none,SD_00965,,train
+manipulated/SD_00965_clone.jpg,manipulated,clone,SD_00965,"[430, 270, 580, 305]",train
+authentic/SD_00966_authentic.jpg,authentic,none,SD_00966,,train
+manipulated/SD_00966_compression.jpg,manipulated,compression,SD_00966,"[0, 0, 700, 455]",train
+authentic/SD_00967_authentic.jpg,authentic,none,SD_00967,,validation
+manipulated/SD_00967_mixed.jpg,manipulated,mixed,SD_00967,"[45, 100, 650, 250]",validation
+authentic/SD_00968_authentic.jpg,authentic,none,SD_00968,,train
+manipulated/SD_00968_text_change.jpg,manipulated,text_change,SD_00968,"[205, 150, 650, 173]",train
+authentic/SD_00969_authentic.jpg,authentic,none,SD_00969,,train
+manipulated/SD_00969_photo_change.jpg,manipulated,photo_change,SD_00969,"[45, 100, 165, 250]",train
+authentic/SD_00970_authentic.jpg,authentic,none,SD_00970,,test
+manipulated/SD_00970_number_change.jpg,manipulated,number_change,SD_00970,"[205, 188, 650, 211]",test
+authentic/SD_00971_authentic.jpg,authentic,none,SD_00971,,validation
+manipulated/SD_00971_date_change.jpg,manipulated,date_change,SD_00971,"[205, 264, 650, 287]",validation
+authentic/SD_00972_authentic.jpg,authentic,none,SD_00972,,train
+manipulated/SD_00972_copy_paste.jpg,manipulated,copy_paste,SD_00972,"[205, 140, 500, 175]",train
+authentic/SD_00973_authentic.jpg,authentic,none,SD_00973,,validation
+manipulated/SD_00973_clone.jpg,manipulated,clone,SD_00973,"[430, 270, 580, 305]",validation
+authentic/SD_00974_authentic.jpg,authentic,none,SD_00974,,test
+manipulated/SD_00974_compression.jpg,manipulated,compression,SD_00974,"[0, 0, 700, 455]",test
+authentic/SD_00975_authentic.jpg,authentic,none,SD_00975,,train
+manipulated/SD_00975_mixed.jpg,manipulated,mixed,SD_00975,"[45, 100, 650, 250]",train
+authentic/SD_00976_authentic.jpg,authentic,none,SD_00976,,train
+manipulated/SD_00976_text_change.jpg,manipulated,text_change,SD_00976,"[205, 150, 650, 173]",train
+authentic/SD_00977_authentic.jpg,authentic,none,SD_00977,,train
+manipulated/SD_00977_photo_change.jpg,manipulated,photo_change,SD_00977,"[45, 100, 165, 250]",train
+authentic/SD_00978_authentic.jpg,authentic,none,SD_00978,,test
+manipulated/SD_00978_number_change.jpg,manipulated,number_change,SD_00978,"[205, 188, 650, 211]",test
+authentic/SD_00979_authentic.jpg,authentic,none,SD_00979,,train
+manipulated/SD_00979_date_change.jpg,manipulated,date_change,SD_00979,"[205, 264, 650, 287]",train
+authentic/SD_00980_authentic.jpg,authentic,none,SD_00980,,train
+manipulated/SD_00980_copy_paste.jpg,manipulated,copy_paste,SD_00980,"[205, 140, 500, 175]",train
+authentic/SD_00981_authentic.jpg,authentic,none,SD_00981,,train
+manipulated/SD_00981_clone.jpg,manipulated,clone,SD_00981,"[430, 270, 580, 305]",train
+authentic/SD_00982_authentic.jpg,authentic,none,SD_00982,,test
+manipulated/SD_00982_compression.jpg,manipulated,compression,SD_00982,"[0, 0, 700, 455]",test
+authentic/SD_00983_authentic.jpg,authentic,none,SD_00983,,test
+manipulated/SD_00983_mixed.jpg,manipulated,mixed,SD_00983,"[45, 100, 650, 250]",test
+authentic/SD_00984_authentic.jpg,authentic,none,SD_00984,,train
+manipulated/SD_00984_text_change.jpg,manipulated,text_change,SD_00984,"[205, 150, 650, 173]",train
+authentic/SD_00985_authentic.jpg,authentic,none,SD_00985,,train
+manipulated/SD_00985_photo_change.jpg,manipulated,photo_change,SD_00985,"[45, 100, 165, 250]",train
+authentic/SD_00986_authentic.jpg,authentic,none,SD_00986,,test
+manipulated/SD_00986_number_change.jpg,manipulated,number_change,SD_00986,"[205, 188, 650, 211]",test
+authentic/SD_00987_authentic.jpg,authentic,none,SD_00987,,train
+manipulated/SD_00987_date_change.jpg,manipulated,date_change,SD_00987,"[205, 264, 650, 287]",train
+authentic/SD_00988_authentic.jpg,authentic,none,SD_00988,,train
+manipulated/SD_00988_copy_paste.jpg,manipulated,copy_paste,SD_00988,"[205, 140, 500, 175]",train
+authentic/SD_00989_authentic.jpg,authentic,none,SD_00989,,train
+manipulated/SD_00989_clone.jpg,manipulated,clone,SD_00989,"[430, 270, 580, 305]",train
+authentic/SD_00990_authentic.jpg,authentic,none,SD_00990,,test
+manipulated/SD_00990_compression.jpg,manipulated,compression,SD_00990,"[0, 0, 700, 455]",test
+authentic/SD_00991_authentic.jpg,authentic,none,SD_00991,,train
+manipulated/SD_00991_mixed.jpg,manipulated,mixed,SD_00991,"[45, 100, 650, 250]",train
+authentic/SD_00992_authentic.jpg,authentic,none,SD_00992,,test
+manipulated/SD_00992_text_change.jpg,manipulated,text_change,SD_00992,"[205, 150, 650, 173]",test
+authentic/SD_00993_authentic.jpg,authentic,none,SD_00993,,train
+manipulated/SD_00993_photo_change.jpg,manipulated,photo_change,SD_00993,"[45, 100, 165, 250]",train
+authentic/SD_00994_authentic.jpg,authentic,none,SD_00994,,test
+manipulated/SD_00994_number_change.jpg,manipulated,number_change,SD_00994,"[205, 188, 650, 211]",test
+authentic/SD_00995_authentic.jpg,authentic,none,SD_00995,,train
+manipulated/SD_00995_date_change.jpg,manipulated,date_change,SD_00995,"[205, 264, 650, 287]",train
+authentic/SD_00996_authentic.jpg,authentic,none,SD_00996,,train
+manipulated/SD_00996_copy_paste.jpg,manipulated,copy_paste,SD_00996,"[205, 140, 500, 175]",train
+authentic/SD_00997_authentic.jpg,authentic,none,SD_00997,,train
+manipulated/SD_00997_clone.jpg,manipulated,clone,SD_00997,"[430, 270, 580, 305]",train
+authentic/SD_00998_authentic.jpg,authentic,none,SD_00998,,validation
+manipulated/SD_00998_compression.jpg,manipulated,compression,SD_00998,"[0, 0, 700, 455]",validation
+authentic/SD_00999_authentic.jpg,authentic,none,SD_00999,,validation
+manipulated/SD_00999_mixed.jpg,manipulated,mixed,SD_00999,"[45, 100, 650, 250]",validation

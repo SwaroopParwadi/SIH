@@ -1,0 +1,11002 @@
+[
+  {
+    "case_id": "SD_00000",
+    "image": "manipulated/SD_00000_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00001",
+    "image": "manipulated/SD_00001_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00002",
+    "image": "manipulated/SD_00002_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00003",
+    "image": "manipulated/SD_00003_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00004",
+    "image": "manipulated/SD_00004_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00005",
+    "image": "manipulated/SD_00005_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00006",
+    "image": "manipulated/SD_00006_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00007",
+    "image": "manipulated/SD_00007_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00008",
+    "image": "manipulated/SD_00008_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00009",
+    "image": "manipulated/SD_00009_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00010",
+    "image": "manipulated/SD_00010_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00011",
+    "image": "manipulated/SD_00011_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00012",
+    "image": "manipulated/SD_00012_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00013",
+    "image": "manipulated/SD_00013_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00014",
+    "image": "manipulated/SD_00014_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00015",
+    "image": "manipulated/SD_00015_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00016",
+    "image": "manipulated/SD_00016_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00017",
+    "image": "manipulated/SD_00017_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00018",
+    "image": "manipulated/SD_00018_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00019",
+    "image": "manipulated/SD_00019_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00020",
+    "image": "manipulated/SD_00020_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00021",
+    "image": "manipulated/SD_00021_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00022",
+    "image": "manipulated/SD_00022_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00023",
+    "image": "manipulated/SD_00023_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00024",
+    "image": "manipulated/SD_00024_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00025",
+    "image": "manipulated/SD_00025_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00026",
+    "image": "manipulated/SD_00026_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00027",
+    "image": "manipulated/SD_00027_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00028",
+    "image": "manipulated/SD_00028_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00029",
+    "image": "manipulated/SD_00029_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00030",
+    "image": "manipulated/SD_00030_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00031",
+    "image": "manipulated/SD_00031_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00032",
+    "image": "manipulated/SD_00032_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00033",
+    "image": "manipulated/SD_00033_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00034",
+    "image": "manipulated/SD_00034_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00035",
+    "image": "manipulated/SD_00035_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00036",
+    "image": "manipulated/SD_00036_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00037",
+    "image": "manipulated/SD_00037_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00038",
+    "image": "manipulated/SD_00038_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00039",
+    "image": "manipulated/SD_00039_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00040",
+    "image": "manipulated/SD_00040_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00041",
+    "image": "manipulated/SD_00041_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00042",
+    "image": "manipulated/SD_00042_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00043",
+    "image": "manipulated/SD_00043_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00044",
+    "image": "manipulated/SD_00044_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00045",
+    "image": "manipulated/SD_00045_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00046",
+    "image": "manipulated/SD_00046_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00047",
+    "image": "manipulated/SD_00047_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00048",
+    "image": "manipulated/SD_00048_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00049",
+    "image": "manipulated/SD_00049_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00050",
+    "image": "manipulated/SD_00050_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00051",
+    "image": "manipulated/SD_00051_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00052",
+    "image": "manipulated/SD_00052_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00053",
+    "image": "manipulated/SD_00053_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00054",
+    "image": "manipulated/SD_00054_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00055",
+    "image": "manipulated/SD_00055_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00056",
+    "image": "manipulated/SD_00056_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00057",
+    "image": "manipulated/SD_00057_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00058",
+    "image": "manipulated/SD_00058_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00059",
+    "image": "manipulated/SD_00059_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00060",
+    "image": "manipulated/SD_00060_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00061",
+    "image": "manipulated/SD_00061_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00062",
+    "image": "manipulated/SD_00062_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00063",
+    "image": "manipulated/SD_00063_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00064",
+    "image": "manipulated/SD_00064_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00065",
+    "image": "manipulated/SD_00065_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00066",
+    "image": "manipulated/SD_00066_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00067",
+    "image": "manipulated/SD_00067_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00068",
+    "image": "manipulated/SD_00068_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00069",
+    "image": "manipulated/SD_00069_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00070",
+    "image": "manipulated/SD_00070_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00071",
+    "image": "manipulated/SD_00071_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00072",
+    "image": "manipulated/SD_00072_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00073",
+    "image": "manipulated/SD_00073_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00074",
+    "image": "manipulated/SD_00074_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00075",
+    "image": "manipulated/SD_00075_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00076",
+    "image": "manipulated/SD_00076_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00077",
+    "image": "manipulated/SD_00077_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00078",
+    "image": "manipulated/SD_00078_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00079",
+    "image": "manipulated/SD_00079_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00080",
+    "image": "manipulated/SD_00080_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00081",
+    "image": "manipulated/SD_00081_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00082",
+    "image": "manipulated/SD_00082_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00083",
+    "image": "manipulated/SD_00083_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00084",
+    "image": "manipulated/SD_00084_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00085",
+    "image": "manipulated/SD_00085_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00086",
+    "image": "manipulated/SD_00086_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00087",
+    "image": "manipulated/SD_00087_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00088",
+    "image": "manipulated/SD_00088_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00089",
+    "image": "manipulated/SD_00089_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00090",
+    "image": "manipulated/SD_00090_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00091",
+    "image": "manipulated/SD_00091_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00092",
+    "image": "manipulated/SD_00092_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00093",
+    "image": "manipulated/SD_00093_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00094",
+    "image": "manipulated/SD_00094_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00095",
+    "image": "manipulated/SD_00095_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00096",
+    "image": "manipulated/SD_00096_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00097",
+    "image": "manipulated/SD_00097_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00098",
+    "image": "manipulated/SD_00098_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00099",
+    "image": "manipulated/SD_00099_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00100",
+    "image": "manipulated/SD_00100_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00101",
+    "image": "manipulated/SD_00101_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00102",
+    "image": "manipulated/SD_00102_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00103",
+    "image": "manipulated/SD_00103_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00104",
+    "image": "manipulated/SD_00104_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00105",
+    "image": "manipulated/SD_00105_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00106",
+    "image": "manipulated/SD_00106_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00107",
+    "image": "manipulated/SD_00107_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00108",
+    "image": "manipulated/SD_00108_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00109",
+    "image": "manipulated/SD_00109_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00110",
+    "image": "manipulated/SD_00110_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00111",
+    "image": "manipulated/SD_00111_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00112",
+    "image": "manipulated/SD_00112_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00113",
+    "image": "manipulated/SD_00113_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00114",
+    "image": "manipulated/SD_00114_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00115",
+    "image": "manipulated/SD_00115_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00116",
+    "image": "manipulated/SD_00116_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00117",
+    "image": "manipulated/SD_00117_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00118",
+    "image": "manipulated/SD_00118_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00119",
+    "image": "manipulated/SD_00119_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00120",
+    "image": "manipulated/SD_00120_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00121",
+    "image": "manipulated/SD_00121_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00122",
+    "image": "manipulated/SD_00122_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00123",
+    "image": "manipulated/SD_00123_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00124",
+    "image": "manipulated/SD_00124_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00125",
+    "image": "manipulated/SD_00125_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00126",
+    "image": "manipulated/SD_00126_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00127",
+    "image": "manipulated/SD_00127_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00128",
+    "image": "manipulated/SD_00128_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00129",
+    "image": "manipulated/SD_00129_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00130",
+    "image": "manipulated/SD_00130_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00131",
+    "image": "manipulated/SD_00131_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00132",
+    "image": "manipulated/SD_00132_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00133",
+    "image": "manipulated/SD_00133_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00134",
+    "image": "manipulated/SD_00134_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00135",
+    "image": "manipulated/SD_00135_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00136",
+    "image": "manipulated/SD_00136_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00137",
+    "image": "manipulated/SD_00137_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00138",
+    "image": "manipulated/SD_00138_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00139",
+    "image": "manipulated/SD_00139_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00140",
+    "image": "manipulated/SD_00140_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00141",
+    "image": "manipulated/SD_00141_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00142",
+    "image": "manipulated/SD_00142_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00143",
+    "image": "manipulated/SD_00143_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00144",
+    "image": "manipulated/SD_00144_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00145",
+    "image": "manipulated/SD_00145_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00146",
+    "image": "manipulated/SD_00146_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00147",
+    "image": "manipulated/SD_00147_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00148",
+    "image": "manipulated/SD_00148_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00149",
+    "image": "manipulated/SD_00149_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00150",
+    "image": "manipulated/SD_00150_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00151",
+    "image": "manipulated/SD_00151_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00152",
+    "image": "manipulated/SD_00152_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00153",
+    "image": "manipulated/SD_00153_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00154",
+    "image": "manipulated/SD_00154_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00155",
+    "image": "manipulated/SD_00155_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00156",
+    "image": "manipulated/SD_00156_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00157",
+    "image": "manipulated/SD_00157_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00158",
+    "image": "manipulated/SD_00158_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00159",
+    "image": "manipulated/SD_00159_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00160",
+    "image": "manipulated/SD_00160_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00161",
+    "image": "manipulated/SD_00161_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00162",
+    "image": "manipulated/SD_00162_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00163",
+    "image": "manipulated/SD_00163_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00164",
+    "image": "manipulated/SD_00164_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00165",
+    "image": "manipulated/SD_00165_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00166",
+    "image": "manipulated/SD_00166_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00167",
+    "image": "manipulated/SD_00167_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00168",
+    "image": "manipulated/SD_00168_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00169",
+    "image": "manipulated/SD_00169_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00170",
+    "image": "manipulated/SD_00170_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00171",
+    "image": "manipulated/SD_00171_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00172",
+    "image": "manipulated/SD_00172_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00173",
+    "image": "manipulated/SD_00173_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00174",
+    "image": "manipulated/SD_00174_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00175",
+    "image": "manipulated/SD_00175_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00176",
+    "image": "manipulated/SD_00176_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00177",
+    "image": "manipulated/SD_00177_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00178",
+    "image": "manipulated/SD_00178_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00179",
+    "image": "manipulated/SD_00179_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00180",
+    "image": "manipulated/SD_00180_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00181",
+    "image": "manipulated/SD_00181_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00182",
+    "image": "manipulated/SD_00182_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00183",
+    "image": "manipulated/SD_00183_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00184",
+    "image": "manipulated/SD_00184_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00185",
+    "image": "manipulated/SD_00185_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00186",
+    "image": "manipulated/SD_00186_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00187",
+    "image": "manipulated/SD_00187_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00188",
+    "image": "manipulated/SD_00188_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00189",
+    "image": "manipulated/SD_00189_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00190",
+    "image": "manipulated/SD_00190_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00191",
+    "image": "manipulated/SD_00191_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00192",
+    "image": "manipulated/SD_00192_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00193",
+    "image": "manipulated/SD_00193_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00194",
+    "image": "manipulated/SD_00194_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00195",
+    "image": "manipulated/SD_00195_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00196",
+    "image": "manipulated/SD_00196_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00197",
+    "image": "manipulated/SD_00197_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00198",
+    "image": "manipulated/SD_00198_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00199",
+    "image": "manipulated/SD_00199_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00200",
+    "image": "manipulated/SD_00200_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00201",
+    "image": "manipulated/SD_00201_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00202",
+    "image": "manipulated/SD_00202_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00203",
+    "image": "manipulated/SD_00203_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00204",
+    "image": "manipulated/SD_00204_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00205",
+    "image": "manipulated/SD_00205_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00206",
+    "image": "manipulated/SD_00206_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00207",
+    "image": "manipulated/SD_00207_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00208",
+    "image": "manipulated/SD_00208_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00209",
+    "image": "manipulated/SD_00209_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00210",
+    "image": "manipulated/SD_00210_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00211",
+    "image": "manipulated/SD_00211_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00212",
+    "image": "manipulated/SD_00212_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00213",
+    "image": "manipulated/SD_00213_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00214",
+    "image": "manipulated/SD_00214_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00215",
+    "image": "manipulated/SD_00215_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00216",
+    "image": "manipulated/SD_00216_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00217",
+    "image": "manipulated/SD_00217_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00218",
+    "image": "manipulated/SD_00218_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00219",
+    "image": "manipulated/SD_00219_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00220",
+    "image": "manipulated/SD_00220_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00221",
+    "image": "manipulated/SD_00221_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00222",
+    "image": "manipulated/SD_00222_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00223",
+    "image": "manipulated/SD_00223_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00224",
+    "image": "manipulated/SD_00224_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00225",
+    "image": "manipulated/SD_00225_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00226",
+    "image": "manipulated/SD_00226_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00227",
+    "image": "manipulated/SD_00227_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00228",
+    "image": "manipulated/SD_00228_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00229",
+    "image": "manipulated/SD_00229_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00230",
+    "image": "manipulated/SD_00230_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00231",
+    "image": "manipulated/SD_00231_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00232",
+    "image": "manipulated/SD_00232_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00233",
+    "image": "manipulated/SD_00233_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00234",
+    "image": "manipulated/SD_00234_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00235",
+    "image": "manipulated/SD_00235_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00236",
+    "image": "manipulated/SD_00236_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00237",
+    "image": "manipulated/SD_00237_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00238",
+    "image": "manipulated/SD_00238_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00239",
+    "image": "manipulated/SD_00239_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00240",
+    "image": "manipulated/SD_00240_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00241",
+    "image": "manipulated/SD_00241_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00242",
+    "image": "manipulated/SD_00242_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00243",
+    "image": "manipulated/SD_00243_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00244",
+    "image": "manipulated/SD_00244_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00245",
+    "image": "manipulated/SD_00245_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00246",
+    "image": "manipulated/SD_00246_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00247",
+    "image": "manipulated/SD_00247_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00248",
+    "image": "manipulated/SD_00248_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00249",
+    "image": "manipulated/SD_00249_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00250",
+    "image": "manipulated/SD_00250_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00251",
+    "image": "manipulated/SD_00251_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00252",
+    "image": "manipulated/SD_00252_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00253",
+    "image": "manipulated/SD_00253_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00254",
+    "image": "manipulated/SD_00254_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00255",
+    "image": "manipulated/SD_00255_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00256",
+    "image": "manipulated/SD_00256_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00257",
+    "image": "manipulated/SD_00257_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00258",
+    "image": "manipulated/SD_00258_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00259",
+    "image": "manipulated/SD_00259_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00260",
+    "image": "manipulated/SD_00260_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00261",
+    "image": "manipulated/SD_00261_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00262",
+    "image": "manipulated/SD_00262_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00263",
+    "image": "manipulated/SD_00263_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00264",
+    "image": "manipulated/SD_00264_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00265",
+    "image": "manipulated/SD_00265_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00266",
+    "image": "manipulated/SD_00266_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00267",
+    "image": "manipulated/SD_00267_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00268",
+    "image": "manipulated/SD_00268_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00269",
+    "image": "manipulated/SD_00269_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00270",
+    "image": "manipulated/SD_00270_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00271",
+    "image": "manipulated/SD_00271_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00272",
+    "image": "manipulated/SD_00272_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00273",
+    "image": "manipulated/SD_00273_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00274",
+    "image": "manipulated/SD_00274_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00275",
+    "image": "manipulated/SD_00275_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00276",
+    "image": "manipulated/SD_00276_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00277",
+    "image": "manipulated/SD_00277_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00278",
+    "image": "manipulated/SD_00278_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00279",
+    "image": "manipulated/SD_00279_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00280",
+    "image": "manipulated/SD_00280_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00281",
+    "image": "manipulated/SD_00281_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00282",
+    "image": "manipulated/SD_00282_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00283",
+    "image": "manipulated/SD_00283_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00284",
+    "image": "manipulated/SD_00284_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00285",
+    "image": "manipulated/SD_00285_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00286",
+    "image": "manipulated/SD_00286_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00287",
+    "image": "manipulated/SD_00287_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00288",
+    "image": "manipulated/SD_00288_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00289",
+    "image": "manipulated/SD_00289_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00290",
+    "image": "manipulated/SD_00290_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00291",
+    "image": "manipulated/SD_00291_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00292",
+    "image": "manipulated/SD_00292_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00293",
+    "image": "manipulated/SD_00293_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00294",
+    "image": "manipulated/SD_00294_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00295",
+    "image": "manipulated/SD_00295_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00296",
+    "image": "manipulated/SD_00296_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00297",
+    "image": "manipulated/SD_00297_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00298",
+    "image": "manipulated/SD_00298_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00299",
+    "image": "manipulated/SD_00299_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00300",
+    "image": "manipulated/SD_00300_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00301",
+    "image": "manipulated/SD_00301_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00302",
+    "image": "manipulated/SD_00302_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00303",
+    "image": "manipulated/SD_00303_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00304",
+    "image": "manipulated/SD_00304_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00305",
+    "image": "manipulated/SD_00305_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00306",
+    "image": "manipulated/SD_00306_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00307",
+    "image": "manipulated/SD_00307_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00308",
+    "image": "manipulated/SD_00308_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00309",
+    "image": "manipulated/SD_00309_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00310",
+    "image": "manipulated/SD_00310_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00311",
+    "image": "manipulated/SD_00311_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00312",
+    "image": "manipulated/SD_00312_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00313",
+    "image": "manipulated/SD_00313_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00314",
+    "image": "manipulated/SD_00314_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00315",
+    "image": "manipulated/SD_00315_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00316",
+    "image": "manipulated/SD_00316_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00317",
+    "image": "manipulated/SD_00317_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00318",
+    "image": "manipulated/SD_00318_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00319",
+    "image": "manipulated/SD_00319_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00320",
+    "image": "manipulated/SD_00320_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00321",
+    "image": "manipulated/SD_00321_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00322",
+    "image": "manipulated/SD_00322_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00323",
+    "image": "manipulated/SD_00323_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00324",
+    "image": "manipulated/SD_00324_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00325",
+    "image": "manipulated/SD_00325_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00326",
+    "image": "manipulated/SD_00326_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00327",
+    "image": "manipulated/SD_00327_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00328",
+    "image": "manipulated/SD_00328_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00329",
+    "image": "manipulated/SD_00329_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00330",
+    "image": "manipulated/SD_00330_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00331",
+    "image": "manipulated/SD_00331_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00332",
+    "image": "manipulated/SD_00332_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00333",
+    "image": "manipulated/SD_00333_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00334",
+    "image": "manipulated/SD_00334_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00335",
+    "image": "manipulated/SD_00335_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00336",
+    "image": "manipulated/SD_00336_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00337",
+    "image": "manipulated/SD_00337_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00338",
+    "image": "manipulated/SD_00338_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00339",
+    "image": "manipulated/SD_00339_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00340",
+    "image": "manipulated/SD_00340_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00341",
+    "image": "manipulated/SD_00341_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00342",
+    "image": "manipulated/SD_00342_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00343",
+    "image": "manipulated/SD_00343_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00344",
+    "image": "manipulated/SD_00344_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00345",
+    "image": "manipulated/SD_00345_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00346",
+    "image": "manipulated/SD_00346_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00347",
+    "image": "manipulated/SD_00347_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00348",
+    "image": "manipulated/SD_00348_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00349",
+    "image": "manipulated/SD_00349_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00350",
+    "image": "manipulated/SD_00350_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00351",
+    "image": "manipulated/SD_00351_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00352",
+    "image": "manipulated/SD_00352_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00353",
+    "image": "manipulated/SD_00353_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00354",
+    "image": "manipulated/SD_00354_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00355",
+    "image": "manipulated/SD_00355_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00356",
+    "image": "manipulated/SD_00356_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00357",
+    "image": "manipulated/SD_00357_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00358",
+    "image": "manipulated/SD_00358_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00359",
+    "image": "manipulated/SD_00359_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00360",
+    "image": "manipulated/SD_00360_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00361",
+    "image": "manipulated/SD_00361_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00362",
+    "image": "manipulated/SD_00362_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00363",
+    "image": "manipulated/SD_00363_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00364",
+    "image": "manipulated/SD_00364_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00365",
+    "image": "manipulated/SD_00365_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00366",
+    "image": "manipulated/SD_00366_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00367",
+    "image": "manipulated/SD_00367_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00368",
+    "image": "manipulated/SD_00368_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00369",
+    "image": "manipulated/SD_00369_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00370",
+    "image": "manipulated/SD_00370_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00371",
+    "image": "manipulated/SD_00371_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00372",
+    "image": "manipulated/SD_00372_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00373",
+    "image": "manipulated/SD_00373_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00374",
+    "image": "manipulated/SD_00374_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00375",
+    "image": "manipulated/SD_00375_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00376",
+    "image": "manipulated/SD_00376_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00377",
+    "image": "manipulated/SD_00377_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00378",
+    "image": "manipulated/SD_00378_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00379",
+    "image": "manipulated/SD_00379_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00380",
+    "image": "manipulated/SD_00380_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00381",
+    "image": "manipulated/SD_00381_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00382",
+    "image": "manipulated/SD_00382_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00383",
+    "image": "manipulated/SD_00383_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00384",
+    "image": "manipulated/SD_00384_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00385",
+    "image": "manipulated/SD_00385_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00386",
+    "image": "manipulated/SD_00386_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00387",
+    "image": "manipulated/SD_00387_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00388",
+    "image": "manipulated/SD_00388_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00389",
+    "image": "manipulated/SD_00389_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00390",
+    "image": "manipulated/SD_00390_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00391",
+    "image": "manipulated/SD_00391_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00392",
+    "image": "manipulated/SD_00392_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00393",
+    "image": "manipulated/SD_00393_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00394",
+    "image": "manipulated/SD_00394_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00395",
+    "image": "manipulated/SD_00395_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00396",
+    "image": "manipulated/SD_00396_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00397",
+    "image": "manipulated/SD_00397_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00398",
+    "image": "manipulated/SD_00398_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00399",
+    "image": "manipulated/SD_00399_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00400",
+    "image": "manipulated/SD_00400_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00401",
+    "image": "manipulated/SD_00401_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00402",
+    "image": "manipulated/SD_00402_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00403",
+    "image": "manipulated/SD_00403_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00404",
+    "image": "manipulated/SD_00404_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00405",
+    "image": "manipulated/SD_00405_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00406",
+    "image": "manipulated/SD_00406_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00407",
+    "image": "manipulated/SD_00407_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00408",
+    "image": "manipulated/SD_00408_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00409",
+    "image": "manipulated/SD_00409_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00410",
+    "image": "manipulated/SD_00410_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00411",
+    "image": "manipulated/SD_00411_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00412",
+    "image": "manipulated/SD_00412_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00413",
+    "image": "manipulated/SD_00413_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00414",
+    "image": "manipulated/SD_00414_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00415",
+    "image": "manipulated/SD_00415_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00416",
+    "image": "manipulated/SD_00416_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00417",
+    "image": "manipulated/SD_00417_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00418",
+    "image": "manipulated/SD_00418_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00419",
+    "image": "manipulated/SD_00419_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00420",
+    "image": "manipulated/SD_00420_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00421",
+    "image": "manipulated/SD_00421_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00422",
+    "image": "manipulated/SD_00422_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00423",
+    "image": "manipulated/SD_00423_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00424",
+    "image": "manipulated/SD_00424_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00425",
+    "image": "manipulated/SD_00425_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00426",
+    "image": "manipulated/SD_00426_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00427",
+    "image": "manipulated/SD_00427_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00428",
+    "image": "manipulated/SD_00428_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00429",
+    "image": "manipulated/SD_00429_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00430",
+    "image": "manipulated/SD_00430_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00431",
+    "image": "manipulated/SD_00431_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00432",
+    "image": "manipulated/SD_00432_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00433",
+    "image": "manipulated/SD_00433_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00434",
+    "image": "manipulated/SD_00434_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00435",
+    "image": "manipulated/SD_00435_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00436",
+    "image": "manipulated/SD_00436_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00437",
+    "image": "manipulated/SD_00437_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00438",
+    "image": "manipulated/SD_00438_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00439",
+    "image": "manipulated/SD_00439_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00440",
+    "image": "manipulated/SD_00440_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00441",
+    "image": "manipulated/SD_00441_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00442",
+    "image": "manipulated/SD_00442_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00443",
+    "image": "manipulated/SD_00443_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00444",
+    "image": "manipulated/SD_00444_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00445",
+    "image": "manipulated/SD_00445_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00446",
+    "image": "manipulated/SD_00446_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00447",
+    "image": "manipulated/SD_00447_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00448",
+    "image": "manipulated/SD_00448_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00449",
+    "image": "manipulated/SD_00449_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00450",
+    "image": "manipulated/SD_00450_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00451",
+    "image": "manipulated/SD_00451_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00452",
+    "image": "manipulated/SD_00452_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00453",
+    "image": "manipulated/SD_00453_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00454",
+    "image": "manipulated/SD_00454_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00455",
+    "image": "manipulated/SD_00455_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00456",
+    "image": "manipulated/SD_00456_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00457",
+    "image": "manipulated/SD_00457_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00458",
+    "image": "manipulated/SD_00458_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00459",
+    "image": "manipulated/SD_00459_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00460",
+    "image": "manipulated/SD_00460_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00461",
+    "image": "manipulated/SD_00461_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00462",
+    "image": "manipulated/SD_00462_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00463",
+    "image": "manipulated/SD_00463_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00464",
+    "image": "manipulated/SD_00464_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00465",
+    "image": "manipulated/SD_00465_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00466",
+    "image": "manipulated/SD_00466_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00467",
+    "image": "manipulated/SD_00467_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00468",
+    "image": "manipulated/SD_00468_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00469",
+    "image": "manipulated/SD_00469_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00470",
+    "image": "manipulated/SD_00470_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00471",
+    "image": "manipulated/SD_00471_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00472",
+    "image": "manipulated/SD_00472_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00473",
+    "image": "manipulated/SD_00473_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00474",
+    "image": "manipulated/SD_00474_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00475",
+    "image": "manipulated/SD_00475_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00476",
+    "image": "manipulated/SD_00476_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00477",
+    "image": "manipulated/SD_00477_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00478",
+    "image": "manipulated/SD_00478_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00479",
+    "image": "manipulated/SD_00479_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00480",
+    "image": "manipulated/SD_00480_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00481",
+    "image": "manipulated/SD_00481_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00482",
+    "image": "manipulated/SD_00482_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00483",
+    "image": "manipulated/SD_00483_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00484",
+    "image": "manipulated/SD_00484_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00485",
+    "image": "manipulated/SD_00485_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00486",
+    "image": "manipulated/SD_00486_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00487",
+    "image": "manipulated/SD_00487_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00488",
+    "image": "manipulated/SD_00488_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00489",
+    "image": "manipulated/SD_00489_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00490",
+    "image": "manipulated/SD_00490_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00491",
+    "image": "manipulated/SD_00491_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00492",
+    "image": "manipulated/SD_00492_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00493",
+    "image": "manipulated/SD_00493_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00494",
+    "image": "manipulated/SD_00494_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00495",
+    "image": "manipulated/SD_00495_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00496",
+    "image": "manipulated/SD_00496_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00497",
+    "image": "manipulated/SD_00497_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00498",
+    "image": "manipulated/SD_00498_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00499",
+    "image": "manipulated/SD_00499_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00500",
+    "image": "manipulated/SD_00500_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00501",
+    "image": "manipulated/SD_00501_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00502",
+    "image": "manipulated/SD_00502_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00503",
+    "image": "manipulated/SD_00503_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00504",
+    "image": "manipulated/SD_00504_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00505",
+    "image": "manipulated/SD_00505_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00506",
+    "image": "manipulated/SD_00506_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00507",
+    "image": "manipulated/SD_00507_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00508",
+    "image": "manipulated/SD_00508_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00509",
+    "image": "manipulated/SD_00509_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00510",
+    "image": "manipulated/SD_00510_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00511",
+    "image": "manipulated/SD_00511_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00512",
+    "image": "manipulated/SD_00512_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00513",
+    "image": "manipulated/SD_00513_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00514",
+    "image": "manipulated/SD_00514_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00515",
+    "image": "manipulated/SD_00515_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00516",
+    "image": "manipulated/SD_00516_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00517",
+    "image": "manipulated/SD_00517_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00518",
+    "image": "manipulated/SD_00518_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00519",
+    "image": "manipulated/SD_00519_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00520",
+    "image": "manipulated/SD_00520_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00521",
+    "image": "manipulated/SD_00521_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00522",
+    "image": "manipulated/SD_00522_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00523",
+    "image": "manipulated/SD_00523_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00524",
+    "image": "manipulated/SD_00524_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00525",
+    "image": "manipulated/SD_00525_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00526",
+    "image": "manipulated/SD_00526_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00527",
+    "image": "manipulated/SD_00527_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00528",
+    "image": "manipulated/SD_00528_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00529",
+    "image": "manipulated/SD_00529_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00530",
+    "image": "manipulated/SD_00530_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00531",
+    "image": "manipulated/SD_00531_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00532",
+    "image": "manipulated/SD_00532_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00533",
+    "image": "manipulated/SD_00533_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00534",
+    "image": "manipulated/SD_00534_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00535",
+    "image": "manipulated/SD_00535_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00536",
+    "image": "manipulated/SD_00536_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00537",
+    "image": "manipulated/SD_00537_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00538",
+    "image": "manipulated/SD_00538_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00539",
+    "image": "manipulated/SD_00539_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00540",
+    "image": "manipulated/SD_00540_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00541",
+    "image": "manipulated/SD_00541_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00542",
+    "image": "manipulated/SD_00542_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00543",
+    "image": "manipulated/SD_00543_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00544",
+    "image": "manipulated/SD_00544_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00545",
+    "image": "manipulated/SD_00545_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00546",
+    "image": "manipulated/SD_00546_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00547",
+    "image": "manipulated/SD_00547_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00548",
+    "image": "manipulated/SD_00548_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00549",
+    "image": "manipulated/SD_00549_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00550",
+    "image": "manipulated/SD_00550_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00551",
+    "image": "manipulated/SD_00551_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00552",
+    "image": "manipulated/SD_00552_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00553",
+    "image": "manipulated/SD_00553_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00554",
+    "image": "manipulated/SD_00554_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00555",
+    "image": "manipulated/SD_00555_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00556",
+    "image": "manipulated/SD_00556_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00557",
+    "image": "manipulated/SD_00557_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00558",
+    "image": "manipulated/SD_00558_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00559",
+    "image": "manipulated/SD_00559_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00560",
+    "image": "manipulated/SD_00560_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00561",
+    "image": "manipulated/SD_00561_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00562",
+    "image": "manipulated/SD_00562_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00563",
+    "image": "manipulated/SD_00563_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00564",
+    "image": "manipulated/SD_00564_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00565",
+    "image": "manipulated/SD_00565_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00566",
+    "image": "manipulated/SD_00566_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00567",
+    "image": "manipulated/SD_00567_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00568",
+    "image": "manipulated/SD_00568_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00569",
+    "image": "manipulated/SD_00569_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00570",
+    "image": "manipulated/SD_00570_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00571",
+    "image": "manipulated/SD_00571_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00572",
+    "image": "manipulated/SD_00572_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00573",
+    "image": "manipulated/SD_00573_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00574",
+    "image": "manipulated/SD_00574_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00575",
+    "image": "manipulated/SD_00575_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00576",
+    "image": "manipulated/SD_00576_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00577",
+    "image": "manipulated/SD_00577_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00578",
+    "image": "manipulated/SD_00578_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00579",
+    "image": "manipulated/SD_00579_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00580",
+    "image": "manipulated/SD_00580_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00581",
+    "image": "manipulated/SD_00581_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00582",
+    "image": "manipulated/SD_00582_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00583",
+    "image": "manipulated/SD_00583_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00584",
+    "image": "manipulated/SD_00584_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00585",
+    "image": "manipulated/SD_00585_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00586",
+    "image": "manipulated/SD_00586_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00587",
+    "image": "manipulated/SD_00587_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00588",
+    "image": "manipulated/SD_00588_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00589",
+    "image": "manipulated/SD_00589_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00590",
+    "image": "manipulated/SD_00590_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00591",
+    "image": "manipulated/SD_00591_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00592",
+    "image": "manipulated/SD_00592_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00593",
+    "image": "manipulated/SD_00593_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00594",
+    "image": "manipulated/SD_00594_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00595",
+    "image": "manipulated/SD_00595_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00596",
+    "image": "manipulated/SD_00596_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00597",
+    "image": "manipulated/SD_00597_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00598",
+    "image": "manipulated/SD_00598_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00599",
+    "image": "manipulated/SD_00599_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00600",
+    "image": "manipulated/SD_00600_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00601",
+    "image": "manipulated/SD_00601_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00602",
+    "image": "manipulated/SD_00602_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00603",
+    "image": "manipulated/SD_00603_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00604",
+    "image": "manipulated/SD_00604_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00605",
+    "image": "manipulated/SD_00605_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00606",
+    "image": "manipulated/SD_00606_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00607",
+    "image": "manipulated/SD_00607_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00608",
+    "image": "manipulated/SD_00608_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00609",
+    "image": "manipulated/SD_00609_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00610",
+    "image": "manipulated/SD_00610_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00611",
+    "image": "manipulated/SD_00611_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00612",
+    "image": "manipulated/SD_00612_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00613",
+    "image": "manipulated/SD_00613_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00614",
+    "image": "manipulated/SD_00614_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00615",
+    "image": "manipulated/SD_00615_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00616",
+    "image": "manipulated/SD_00616_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00617",
+    "image": "manipulated/SD_00617_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00618",
+    "image": "manipulated/SD_00618_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00619",
+    "image": "manipulated/SD_00619_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00620",
+    "image": "manipulated/SD_00620_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00621",
+    "image": "manipulated/SD_00621_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00622",
+    "image": "manipulated/SD_00622_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00623",
+    "image": "manipulated/SD_00623_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00624",
+    "image": "manipulated/SD_00624_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00625",
+    "image": "manipulated/SD_00625_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00626",
+    "image": "manipulated/SD_00626_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00627",
+    "image": "manipulated/SD_00627_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00628",
+    "image": "manipulated/SD_00628_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00629",
+    "image": "manipulated/SD_00629_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00630",
+    "image": "manipulated/SD_00630_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00631",
+    "image": "manipulated/SD_00631_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00632",
+    "image": "manipulated/SD_00632_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00633",
+    "image": "manipulated/SD_00633_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00634",
+    "image": "manipulated/SD_00634_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00635",
+    "image": "manipulated/SD_00635_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00636",
+    "image": "manipulated/SD_00636_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00637",
+    "image": "manipulated/SD_00637_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00638",
+    "image": "manipulated/SD_00638_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00639",
+    "image": "manipulated/SD_00639_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00640",
+    "image": "manipulated/SD_00640_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00641",
+    "image": "manipulated/SD_00641_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00642",
+    "image": "manipulated/SD_00642_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00643",
+    "image": "manipulated/SD_00643_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00644",
+    "image": "manipulated/SD_00644_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00645",
+    "image": "manipulated/SD_00645_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00646",
+    "image": "manipulated/SD_00646_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00647",
+    "image": "manipulated/SD_00647_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00648",
+    "image": "manipulated/SD_00648_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00649",
+    "image": "manipulated/SD_00649_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00650",
+    "image": "manipulated/SD_00650_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00651",
+    "image": "manipulated/SD_00651_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00652",
+    "image": "manipulated/SD_00652_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00653",
+    "image": "manipulated/SD_00653_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00654",
+    "image": "manipulated/SD_00654_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00655",
+    "image": "manipulated/SD_00655_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00656",
+    "image": "manipulated/SD_00656_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00657",
+    "image": "manipulated/SD_00657_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00658",
+    "image": "manipulated/SD_00658_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00659",
+    "image": "manipulated/SD_00659_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00660",
+    "image": "manipulated/SD_00660_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00661",
+    "image": "manipulated/SD_00661_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00662",
+    "image": "manipulated/SD_00662_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00663",
+    "image": "manipulated/SD_00663_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00664",
+    "image": "manipulated/SD_00664_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00665",
+    "image": "manipulated/SD_00665_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00666",
+    "image": "manipulated/SD_00666_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00667",
+    "image": "manipulated/SD_00667_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00668",
+    "image": "manipulated/SD_00668_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00669",
+    "image": "manipulated/SD_00669_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00670",
+    "image": "manipulated/SD_00670_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00671",
+    "image": "manipulated/SD_00671_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00672",
+    "image": "manipulated/SD_00672_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00673",
+    "image": "manipulated/SD_00673_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00674",
+    "image": "manipulated/SD_00674_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00675",
+    "image": "manipulated/SD_00675_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00676",
+    "image": "manipulated/SD_00676_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00677",
+    "image": "manipulated/SD_00677_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00678",
+    "image": "manipulated/SD_00678_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00679",
+    "image": "manipulated/SD_00679_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00680",
+    "image": "manipulated/SD_00680_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00681",
+    "image": "manipulated/SD_00681_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00682",
+    "image": "manipulated/SD_00682_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00683",
+    "image": "manipulated/SD_00683_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00684",
+    "image": "manipulated/SD_00684_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00685",
+    "image": "manipulated/SD_00685_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00686",
+    "image": "manipulated/SD_00686_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00687",
+    "image": "manipulated/SD_00687_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00688",
+    "image": "manipulated/SD_00688_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00689",
+    "image": "manipulated/SD_00689_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00690",
+    "image": "manipulated/SD_00690_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00691",
+    "image": "manipulated/SD_00691_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00692",
+    "image": "manipulated/SD_00692_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00693",
+    "image": "manipulated/SD_00693_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00694",
+    "image": "manipulated/SD_00694_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00695",
+    "image": "manipulated/SD_00695_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00696",
+    "image": "manipulated/SD_00696_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00697",
+    "image": "manipulated/SD_00697_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00698",
+    "image": "manipulated/SD_00698_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00699",
+    "image": "manipulated/SD_00699_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00700",
+    "image": "manipulated/SD_00700_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00701",
+    "image": "manipulated/SD_00701_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00702",
+    "image": "manipulated/SD_00702_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00703",
+    "image": "manipulated/SD_00703_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00704",
+    "image": "manipulated/SD_00704_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00705",
+    "image": "manipulated/SD_00705_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00706",
+    "image": "manipulated/SD_00706_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00707",
+    "image": "manipulated/SD_00707_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00708",
+    "image": "manipulated/SD_00708_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00709",
+    "image": "manipulated/SD_00709_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00710",
+    "image": "manipulated/SD_00710_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00711",
+    "image": "manipulated/SD_00711_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00712",
+    "image": "manipulated/SD_00712_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00713",
+    "image": "manipulated/SD_00713_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00714",
+    "image": "manipulated/SD_00714_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00715",
+    "image": "manipulated/SD_00715_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00716",
+    "image": "manipulated/SD_00716_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00717",
+    "image": "manipulated/SD_00717_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00718",
+    "image": "manipulated/SD_00718_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00719",
+    "image": "manipulated/SD_00719_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00720",
+    "image": "manipulated/SD_00720_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00721",
+    "image": "manipulated/SD_00721_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00722",
+    "image": "manipulated/SD_00722_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00723",
+    "image": "manipulated/SD_00723_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00724",
+    "image": "manipulated/SD_00724_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00725",
+    "image": "manipulated/SD_00725_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00726",
+    "image": "manipulated/SD_00726_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00727",
+    "image": "manipulated/SD_00727_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00728",
+    "image": "manipulated/SD_00728_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00729",
+    "image": "manipulated/SD_00729_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00730",
+    "image": "manipulated/SD_00730_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00731",
+    "image": "manipulated/SD_00731_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00732",
+    "image": "manipulated/SD_00732_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00733",
+    "image": "manipulated/SD_00733_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00734",
+    "image": "manipulated/SD_00734_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00735",
+    "image": "manipulated/SD_00735_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00736",
+    "image": "manipulated/SD_00736_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00737",
+    "image": "manipulated/SD_00737_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00738",
+    "image": "manipulated/SD_00738_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00739",
+    "image": "manipulated/SD_00739_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00740",
+    "image": "manipulated/SD_00740_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00741",
+    "image": "manipulated/SD_00741_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00742",
+    "image": "manipulated/SD_00742_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00743",
+    "image": "manipulated/SD_00743_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00744",
+    "image": "manipulated/SD_00744_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00745",
+    "image": "manipulated/SD_00745_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00746",
+    "image": "manipulated/SD_00746_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00747",
+    "image": "manipulated/SD_00747_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00748",
+    "image": "manipulated/SD_00748_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00749",
+    "image": "manipulated/SD_00749_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00750",
+    "image": "manipulated/SD_00750_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00751",
+    "image": "manipulated/SD_00751_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00752",
+    "image": "manipulated/SD_00752_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00753",
+    "image": "manipulated/SD_00753_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00754",
+    "image": "manipulated/SD_00754_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00755",
+    "image": "manipulated/SD_00755_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00756",
+    "image": "manipulated/SD_00756_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00757",
+    "image": "manipulated/SD_00757_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00758",
+    "image": "manipulated/SD_00758_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00759",
+    "image": "manipulated/SD_00759_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00760",
+    "image": "manipulated/SD_00760_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00761",
+    "image": "manipulated/SD_00761_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00762",
+    "image": "manipulated/SD_00762_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00763",
+    "image": "manipulated/SD_00763_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00764",
+    "image": "manipulated/SD_00764_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00765",
+    "image": "manipulated/SD_00765_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00766",
+    "image": "manipulated/SD_00766_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00767",
+    "image": "manipulated/SD_00767_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00768",
+    "image": "manipulated/SD_00768_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00769",
+    "image": "manipulated/SD_00769_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00770",
+    "image": "manipulated/SD_00770_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00771",
+    "image": "manipulated/SD_00771_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00772",
+    "image": "manipulated/SD_00772_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00773",
+    "image": "manipulated/SD_00773_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00774",
+    "image": "manipulated/SD_00774_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00775",
+    "image": "manipulated/SD_00775_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00776",
+    "image": "manipulated/SD_00776_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00777",
+    "image": "manipulated/SD_00777_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00778",
+    "image": "manipulated/SD_00778_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00779",
+    "image": "manipulated/SD_00779_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00780",
+    "image": "manipulated/SD_00780_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00781",
+    "image": "manipulated/SD_00781_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00782",
+    "image": "manipulated/SD_00782_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00783",
+    "image": "manipulated/SD_00783_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00784",
+    "image": "manipulated/SD_00784_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00785",
+    "image": "manipulated/SD_00785_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00786",
+    "image": "manipulated/SD_00786_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00787",
+    "image": "manipulated/SD_00787_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00788",
+    "image": "manipulated/SD_00788_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00789",
+    "image": "manipulated/SD_00789_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00790",
+    "image": "manipulated/SD_00790_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00791",
+    "image": "manipulated/SD_00791_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00792",
+    "image": "manipulated/SD_00792_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00793",
+    "image": "manipulated/SD_00793_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00794",
+    "image": "manipulated/SD_00794_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00795",
+    "image": "manipulated/SD_00795_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00796",
+    "image": "manipulated/SD_00796_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00797",
+    "image": "manipulated/SD_00797_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00798",
+    "image": "manipulated/SD_00798_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00799",
+    "image": "manipulated/SD_00799_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00800",
+    "image": "manipulated/SD_00800_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00801",
+    "image": "manipulated/SD_00801_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00802",
+    "image": "manipulated/SD_00802_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00803",
+    "image": "manipulated/SD_00803_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00804",
+    "image": "manipulated/SD_00804_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00805",
+    "image": "manipulated/SD_00805_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00806",
+    "image": "manipulated/SD_00806_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00807",
+    "image": "manipulated/SD_00807_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00808",
+    "image": "manipulated/SD_00808_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00809",
+    "image": "manipulated/SD_00809_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00810",
+    "image": "manipulated/SD_00810_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00811",
+    "image": "manipulated/SD_00811_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00812",
+    "image": "manipulated/SD_00812_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00813",
+    "image": "manipulated/SD_00813_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00814",
+    "image": "manipulated/SD_00814_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00815",
+    "image": "manipulated/SD_00815_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00816",
+    "image": "manipulated/SD_00816_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00817",
+    "image": "manipulated/SD_00817_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00818",
+    "image": "manipulated/SD_00818_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00819",
+    "image": "manipulated/SD_00819_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00820",
+    "image": "manipulated/SD_00820_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00821",
+    "image": "manipulated/SD_00821_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00822",
+    "image": "manipulated/SD_00822_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00823",
+    "image": "manipulated/SD_00823_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00824",
+    "image": "manipulated/SD_00824_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00825",
+    "image": "manipulated/SD_00825_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00826",
+    "image": "manipulated/SD_00826_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00827",
+    "image": "manipulated/SD_00827_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00828",
+    "image": "manipulated/SD_00828_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00829",
+    "image": "manipulated/SD_00829_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00830",
+    "image": "manipulated/SD_00830_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00831",
+    "image": "manipulated/SD_00831_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00832",
+    "image": "manipulated/SD_00832_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00833",
+    "image": "manipulated/SD_00833_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00834",
+    "image": "manipulated/SD_00834_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00835",
+    "image": "manipulated/SD_00835_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00836",
+    "image": "manipulated/SD_00836_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00837",
+    "image": "manipulated/SD_00837_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00838",
+    "image": "manipulated/SD_00838_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00839",
+    "image": "manipulated/SD_00839_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00840",
+    "image": "manipulated/SD_00840_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00841",
+    "image": "manipulated/SD_00841_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00842",
+    "image": "manipulated/SD_00842_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00843",
+    "image": "manipulated/SD_00843_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00844",
+    "image": "manipulated/SD_00844_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00845",
+    "image": "manipulated/SD_00845_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00846",
+    "image": "manipulated/SD_00846_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00847",
+    "image": "manipulated/SD_00847_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00848",
+    "image": "manipulated/SD_00848_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00849",
+    "image": "manipulated/SD_00849_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00850",
+    "image": "manipulated/SD_00850_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00851",
+    "image": "manipulated/SD_00851_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00852",
+    "image": "manipulated/SD_00852_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00853",
+    "image": "manipulated/SD_00853_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00854",
+    "image": "manipulated/SD_00854_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00855",
+    "image": "manipulated/SD_00855_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00856",
+    "image": "manipulated/SD_00856_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00857",
+    "image": "manipulated/SD_00857_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00858",
+    "image": "manipulated/SD_00858_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00859",
+    "image": "manipulated/SD_00859_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00860",
+    "image": "manipulated/SD_00860_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00861",
+    "image": "manipulated/SD_00861_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00862",
+    "image": "manipulated/SD_00862_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00863",
+    "image": "manipulated/SD_00863_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00864",
+    "image": "manipulated/SD_00864_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00865",
+    "image": "manipulated/SD_00865_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00866",
+    "image": "manipulated/SD_00866_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00867",
+    "image": "manipulated/SD_00867_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00868",
+    "image": "manipulated/SD_00868_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00869",
+    "image": "manipulated/SD_00869_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00870",
+    "image": "manipulated/SD_00870_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00871",
+    "image": "manipulated/SD_00871_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00872",
+    "image": "manipulated/SD_00872_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00873",
+    "image": "manipulated/SD_00873_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00874",
+    "image": "manipulated/SD_00874_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00875",
+    "image": "manipulated/SD_00875_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00876",
+    "image": "manipulated/SD_00876_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00877",
+    "image": "manipulated/SD_00877_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00878",
+    "image": "manipulated/SD_00878_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00879",
+    "image": "manipulated/SD_00879_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00880",
+    "image": "manipulated/SD_00880_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00881",
+    "image": "manipulated/SD_00881_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00882",
+    "image": "manipulated/SD_00882_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00883",
+    "image": "manipulated/SD_00883_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00884",
+    "image": "manipulated/SD_00884_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00885",
+    "image": "manipulated/SD_00885_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00886",
+    "image": "manipulated/SD_00886_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00887",
+    "image": "manipulated/SD_00887_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00888",
+    "image": "manipulated/SD_00888_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00889",
+    "image": "manipulated/SD_00889_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00890",
+    "image": "manipulated/SD_00890_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00891",
+    "image": "manipulated/SD_00891_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00892",
+    "image": "manipulated/SD_00892_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00893",
+    "image": "manipulated/SD_00893_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00894",
+    "image": "manipulated/SD_00894_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00895",
+    "image": "manipulated/SD_00895_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00896",
+    "image": "manipulated/SD_00896_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00897",
+    "image": "manipulated/SD_00897_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00898",
+    "image": "manipulated/SD_00898_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00899",
+    "image": "manipulated/SD_00899_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00900",
+    "image": "manipulated/SD_00900_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00901",
+    "image": "manipulated/SD_00901_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00902",
+    "image": "manipulated/SD_00902_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00903",
+    "image": "manipulated/SD_00903_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00904",
+    "image": "manipulated/SD_00904_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00905",
+    "image": "manipulated/SD_00905_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00906",
+    "image": "manipulated/SD_00906_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00907",
+    "image": "manipulated/SD_00907_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00908",
+    "image": "manipulated/SD_00908_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00909",
+    "image": "manipulated/SD_00909_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00910",
+    "image": "manipulated/SD_00910_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00911",
+    "image": "manipulated/SD_00911_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00912",
+    "image": "manipulated/SD_00912_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00913",
+    "image": "manipulated/SD_00913_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00914",
+    "image": "manipulated/SD_00914_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00915",
+    "image": "manipulated/SD_00915_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00916",
+    "image": "manipulated/SD_00916_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00917",
+    "image": "manipulated/SD_00917_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00918",
+    "image": "manipulated/SD_00918_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00919",
+    "image": "manipulated/SD_00919_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00920",
+    "image": "manipulated/SD_00920_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00921",
+    "image": "manipulated/SD_00921_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00922",
+    "image": "manipulated/SD_00922_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00923",
+    "image": "manipulated/SD_00923_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00924",
+    "image": "manipulated/SD_00924_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00925",
+    "image": "manipulated/SD_00925_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00926",
+    "image": "manipulated/SD_00926_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00927",
+    "image": "manipulated/SD_00927_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00928",
+    "image": "manipulated/SD_00928_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00929",
+    "image": "manipulated/SD_00929_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00930",
+    "image": "manipulated/SD_00930_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00931",
+    "image": "manipulated/SD_00931_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00932",
+    "image": "manipulated/SD_00932_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00933",
+    "image": "manipulated/SD_00933_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00934",
+    "image": "manipulated/SD_00934_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00935",
+    "image": "manipulated/SD_00935_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00936",
+    "image": "manipulated/SD_00936_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00937",
+    "image": "manipulated/SD_00937_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00938",
+    "image": "manipulated/SD_00938_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00939",
+    "image": "manipulated/SD_00939_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00940",
+    "image": "manipulated/SD_00940_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00941",
+    "image": "manipulated/SD_00941_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00942",
+    "image": "manipulated/SD_00942_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00943",
+    "image": "manipulated/SD_00943_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00944",
+    "image": "manipulated/SD_00944_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00945",
+    "image": "manipulated/SD_00945_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00946",
+    "image": "manipulated/SD_00946_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00947",
+    "image": "manipulated/SD_00947_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00948",
+    "image": "manipulated/SD_00948_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00949",
+    "image": "manipulated/SD_00949_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00950",
+    "image": "manipulated/SD_00950_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00951",
+    "image": "manipulated/SD_00951_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00952",
+    "image": "manipulated/SD_00952_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00953",
+    "image": "manipulated/SD_00953_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00954",
+    "image": "manipulated/SD_00954_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00955",
+    "image": "manipulated/SD_00955_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00956",
+    "image": "manipulated/SD_00956_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00957",
+    "image": "manipulated/SD_00957_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00958",
+    "image": "manipulated/SD_00958_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00959",
+    "image": "manipulated/SD_00959_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00960",
+    "image": "manipulated/SD_00960_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00961",
+    "image": "manipulated/SD_00961_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00962",
+    "image": "manipulated/SD_00962_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00963",
+    "image": "manipulated/SD_00963_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00964",
+    "image": "manipulated/SD_00964_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00965",
+    "image": "manipulated/SD_00965_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00966",
+    "image": "manipulated/SD_00966_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00967",
+    "image": "manipulated/SD_00967_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00968",
+    "image": "manipulated/SD_00968_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00969",
+    "image": "manipulated/SD_00969_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00970",
+    "image": "manipulated/SD_00970_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00971",
+    "image": "manipulated/SD_00971_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00972",
+    "image": "manipulated/SD_00972_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00973",
+    "image": "manipulated/SD_00973_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00974",
+    "image": "manipulated/SD_00974_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00975",
+    "image": "manipulated/SD_00975_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00976",
+    "image": "manipulated/SD_00976_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00977",
+    "image": "manipulated/SD_00977_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00978",
+    "image": "manipulated/SD_00978_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00979",
+    "image": "manipulated/SD_00979_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00980",
+    "image": "manipulated/SD_00980_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00981",
+    "image": "manipulated/SD_00981_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00982",
+    "image": "manipulated/SD_00982_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00983",
+    "image": "manipulated/SD_00983_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00984",
+    "image": "manipulated/SD_00984_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00985",
+    "image": "manipulated/SD_00985_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00986",
+    "image": "manipulated/SD_00986_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00987",
+    "image": "manipulated/SD_00987_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00988",
+    "image": "manipulated/SD_00988_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00989",
+    "image": "manipulated/SD_00989_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00990",
+    "image": "manipulated/SD_00990_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00991",
+    "image": "manipulated/SD_00991_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00992",
+    "image": "manipulated/SD_00992_text_change.jpg",
+    "manipulation_type": "text_change",
+    "bbox": [
+      205,
+      150,
+      650,
+      173
+    ]
+  },
+  {
+    "case_id": "SD_00993",
+    "image": "manipulated/SD_00993_photo_change.jpg",
+    "manipulation_type": "photo_change",
+    "bbox": [
+      45,
+      100,
+      165,
+      250
+    ]
+  },
+  {
+    "case_id": "SD_00994",
+    "image": "manipulated/SD_00994_number_change.jpg",
+    "manipulation_type": "number_change",
+    "bbox": [
+      205,
+      188,
+      650,
+      211
+    ]
+  },
+  {
+    "case_id": "SD_00995",
+    "image": "manipulated/SD_00995_date_change.jpg",
+    "manipulation_type": "date_change",
+    "bbox": [
+      205,
+      264,
+      650,
+      287
+    ]
+  },
+  {
+    "case_id": "SD_00996",
+    "image": "manipulated/SD_00996_copy_paste.jpg",
+    "manipulation_type": "copy_paste",
+    "bbox": [
+      205,
+      140,
+      500,
+      175
+    ]
+  },
+  {
+    "case_id": "SD_00997",
+    "image": "manipulated/SD_00997_clone.jpg",
+    "manipulation_type": "clone",
+    "bbox": [
+      430,
+      270,
+      580,
+      305
+    ]
+  },
+  {
+    "case_id": "SD_00998",
+    "image": "manipulated/SD_00998_compression.jpg",
+    "manipulation_type": "compression",
+    "bbox": [
+      0,
+      0,
+      700,
+      455
+    ]
+  },
+  {
+    "case_id": "SD_00999",
+    "image": "manipulated/SD_00999_mixed.jpg",
+    "manipulation_type": "mixed",
+    "bbox": [
+      45,
+      100,
+      650,
+      250
+    ]
+  }
+]

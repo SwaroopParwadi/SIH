@@ -1,0 +1,51 @@
+# SecureDoc AI
+# Smart India Hackathon 2026
+
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Uploads / temp images
+uploads/
+temp/
+*.jpg
+*.png
+
+# ML artifacts
+ml/checkpoints/
+ml/logs/
+models/*.pt
+models/*.h5
+models/*.onnx
+
+# Test artifacts
+.coverage
+htmlcov/
+
+# Environment
+.env
