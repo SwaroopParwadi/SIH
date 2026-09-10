@@ -5,6 +5,8 @@ from app.routes.screening import router as screening_router
 from app.routes.documents import router as documents_router
 from app.routes.dashboard import router as dashboard_router
 from app.routes.model import router as model_router
+from app.routes.intelligence import router as intelligence_router
+from app.routes.demo import router as demo_router
 
 __all__ = [
     "cases_router",
@@ -14,4 +16,6 @@ __all__ = [
     "documents_router",
     "dashboard_router",
     "model_router",
+    "intelligence_router",
+    "demo_router",
 ]

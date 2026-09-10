@@ -5,7 +5,7 @@ from pymongo import MongoClient
 from pymongo.errors import ConnectionFailure
 import os
 
-from app.routes import cases, health, audit, screening, documents, model, dashboard
+from app.routes import cases, health, audit, screening, documents, model, dashboard, intelligence
 
 
 class Settings(BaseSettings):
@@ -42,6 +42,8 @@ app.include_router(screening.router, prefix="/api/screen", tags=["Screening"])
 app.include_router(documents.router, prefix="/api/documents", tags=["Documents"])
 app.include_router(dashboard.router, prefix="/api", tags=["Dashboard"])
 app.include_router(model.router, prefix="/api", tags=["Model"])
+app.include_router(intelligence.router, prefix="/api/intelligence", tags=["Document Intelligence"])
+app.include_router(demo_router, prefix="/api/demo", tags=["Demo"])
 
 
 @app.on_event("startup")

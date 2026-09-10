@@ -2,14 +2,35 @@
 GET /api/cases — paginated case history
 GET /api/cases/{case_id} — single case details
 """
-from fastapi import APIRouter, HTTPException, Query
-from pydantic import BaseModel, Field
+from __future__ import annotations
+
 from typing import Optional
-from datetime import datetime, timezone
-import random
+
+from fastapi import APIRouter, HTTPException, Query
+from pydantic import BaseModel
+
 import pymongo
 
 router = APIRouter()
+
+
+def get_db():
+    from app.main import app as main_app
+    return getattr(main_app.state, "mongodb_db", None)
+
+
+def _paginate(items: list, page: int, page_size: int) -> dict:
+    total = len(items)
+    start = (page - 1) * page_size
+    end = start + page_size
+    page_items = items[start:end] if start < total else []
+    return {
+        "items": page_items,
+        "total": total,
+        "page": page,
+        "page_size": page_size,
+        "pages": max(1, (total + page_size - 1) // page_size),
+    }
 
 
 class CaseListResponse(BaseModel):
@@ -18,11 +39,6 @@ class CaseListResponse(BaseModel):
     page: int
     page_size: int
     total_pages: int
-
-
-def get_db():
-    from app.main import app as main_app
-    return getattr(main_app.state, "mongodb_db", None)
 
 
 @router.get("/cases", response_model=CaseListResponse)
@@ -35,7 +51,7 @@ async def list_cases(
     search: Optional[str] = None,
 ):
     """
-    Get paginated list of cases from MongoDB Atlas.
+    Get paginated list of cases from MongoDB.
 
     Query params:
     - page: page number (default 1)
@@ -50,7 +66,7 @@ async def list_cases(
         raise HTTPException(status_code=503, detail="Database not available")
 
     collection = db.cases
-    query = {"screening_complete": True}
+    query: dict = {}
 
     if status:
         query["status"] = status
@@ -65,11 +81,7 @@ async def list_cases(
             {"document_number": {"$regex": search, "$options": "i"}},
         ]
 
-    # Count total matching documents
     total = collection.count_documents(query)
-    total_pages = (total + page_size - 1) // page_size
-
-    # Get paginated results
     skip = (page - 1) * page_size
     cases = list(
         collection.find(query)
@@ -97,7 +109,7 @@ async def list_cases(
         total=total,
         page=page,
         page_size=page_size,
-        total_pages=total_pages,
+        total_pages=max(1, (total + page_size - 1) // page_size),
     )
 
 
@@ -105,27 +117,24 @@ async def list_cases(
 async def get_case(case_id: str):
     """
     Get full details of a single case by case_id (SD-2026-NNNNNN format).
-    Returns case info, extracted data, verification results, and evidence.
+    Returns case info, extracted data, verification results, biometrics, evidence, audit chain status.
     """
     db = get_db()
     if not db:
         raise HTTPException(status_code=503, detail="Database not available")
 
-    # Get case
     case = db.cases.find_one({"case_id": case_id})
     if not case:
         raise HTTPException(status_code=404, detail=f"Case {case_id} not found")
 
-    # Get extracted data (if exists)
     extracted = db.extracted_data.find_one({"case_id": case_id})
-
-    # Get verification results (if exists)
     verification = db.verification_results.find_one({"case_id": case_id})
-
-    # Get evidence (if any)
     evidence = list(db.evidence.find({"case_id": case_id}))
 
-    # Build response
+    # Audit chain verification for this case
+    from app.services.audit import verify_audit_chain
+    audit_status = verify_audit_chain(db, case_id=case_id)
+
     return {
         "case_id": case.get("case_id"),
         "subject_name": case.get("subject_name", "Unknown"),
@@ -139,30 +148,74 @@ async def get_case(case_id: str):
         "created_at": case.get("created_at"),
         "updated_at": case.get("updated_at"),
         "processed_at": case.get("processed_at"),
-        "extracted_data": {
-            "name": extracted.get("name") if extracted else None,
-            "surname": extracted.get("surname") if extracted else None,
-            "given_names": extracted.get("given_names") if extracted else None,
-            "document_number": extracted.get("document_number") if extracted else None,
-            "nationality": extracted.get("nationality") if extracted else None,
-            "date_of_birth": extracted.get("date_of_birth") if extracted else None,
-            "sex": extracted.get("sex") if extracted else None,
-            "issue_date": extracted.get("issue_date") if extracted else None,
-            "expiry_date": extracted.get("expiry_date") if extracted else None,
-            "mrz": extracted.get("mrz") if extracted else None,
-            "ocr_confidence": extracted.get("ocr_confidence") if extracted else None,
-        } if extracted else None,
-        "verification_results": {
-            "image_quality_score": verification.get("image_quality_score") if verification else None,
-            "ocr_score": verification.get("ocr_score") if verification else None,
-            "mrz_score": verification.get("mrz_score") if verification else None,
-            "barcode_score": verification.get("barcode_score") if verification else None,
-            "forensic_score": verification.get("forensic_score") if verification else None,
-            "face_score": verification.get("face_score") if verification else None,
-            "liveness_score": verification.get("liveness_score") if verification else None,
-            "rule_score": verification.get("rule_score") if verification else None,
-            "overall_verdict": verification.get("overall_verdict") if verification else None,
-        } if verification else None,
+        "human_review_required": verification.get("human_review_required") if verification else None,
+        "review_recommendation": verification.get("review_recommendation") if verification else None,
+        "disclaimer": verification.get("disclaimer") if verification else None,
+        "extracted_data": (
+            {
+                "name": extracted.get("name"),
+                "surname": extracted.get("surname"),
+                "given_names": extracted.get("given_names"),
+                "document_number": extracted.get("document_number"),
+                "nationality": extracted.get("nationality"),
+                "date_of_birth": extracted.get("date_of_birth"),
+                "sex": extracted.get("sex"),
+                "issue_date": extracted.get("issue_date"),
+                "expiry_date": extracted.get("expiry_date"),
+                "mrz": extracted.get("mrz"),
+                "ocr_confidence": extracted.get("ocr_confidence"),
+                "ocr_status": extracted.get("ocr_status"),
+                "mrz_status": extracted.get("mrz_status"),
+                "ocr_name": extracted.get("ocr_name"),
+                "mrz_name": extracted.get("mrz_name"),
+                "ocr_document_number": extracted.get("ocr_document_number"),
+                "mrz_document_number": extracted.get("mrz_document_number"),
+                "ocr_nationality": extracted.get("ocr_nationality"),
+                "mrz_nationality": extracted.get("mrz_nationality"),
+                "ocr_sex": extracted.get("ocr_sex"),
+                "mrz_sex": extracted.get("mrz_sex"),
+                "ocr_date_of_birth": extracted.get("ocr_date_of_birth"),
+                "mrz_date_of_birth": extracted.get("mrz_date_of_birth"),
+                "ocr_expiry_date": extracted.get("ocr_expiry_date"),
+                "mrz_expiry_date": extracted.get("mrz_expiry_date"),
+                "cross_match_overall": extracted.get("cross_match_overall"),
+                "cross_match_details": extracted.get("cross_match_details"),
+                "barcode_comparison": extracted.get("barcode_comparison"),
+                "model_info": extracted.get("model_info"),
+                "biometrics": extracted.get("biometrics"),
+                "image_quality": extracted.get("image_quality"),
+            }
+            if extracted else None
+        ),
+        "verification_results": (
+            {
+                "image_quality_score": verification.get("image_quality_score"),
+                "ocr_score": verification.get("ocr_score"),
+                "mrz_score": verification.get("mrz_score"),
+                "barcode_score": verification.get("barcode_score"),
+                "forensic_score": verification.get("forensic_score"),
+                "face_score": verification.get("face_score"),
+                "liveness_score": verification.get("liveness_score"),
+                "rule_score": verification.get("rule_score"),
+                "ocr_mrz_consistency_score": verification.get("ocr_mrz_consistency_score"),
+                "barcode_consistency_score": verification.get("barcode_consistency_score"),
+                "overall_verdict": verification.get("overall_verdict"),
+                "model_status": verification.get("model_status"),
+                "model_label": verification.get("model_label"),
+                "model_authentic_probability": verification.get("model_authentic_probability"),
+                "model_manipulated_probability": verification.get("model_manipulated_probability"),
+                "face_verification_status": verification.get("face_verification_status"),
+                "face_similarity_score": verification.get("face_similarity_score"),
+                "face_match_status": verification.get("face_match_status"),
+                "face_confidence": verification.get("face_confidence"),
+                "liveness_status": verification.get("liveness_status"),
+                "liveness_score": verification.get("liveness_score"),
+                "liveness_challenge_passed": verification.get("liveness_challenge_passed"),
+                "liveness_notes": verification.get("liveness_notes"),
+                "liveness_prototype": verification.get("liveness_prototype"),
+            }
+            if verification else None
+        ),
         "evidence": [
             {
                 "type": e.get("type"),
@@ -174,4 +227,5 @@ async def get_case(case_id: str):
             }
             for e in evidence
         ],
+        "audit": audit_status,
     }

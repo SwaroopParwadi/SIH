@@ -4,3 +4,10 @@ pydantic==2.8.2
 pydantic-settings==2.2.1
 pymongo==4.10.1
 python-dotenv==1.0.1
+opencv-python-headless==4.10.0.84
+paddleocr==2.7.0
+paddlepaddle==2.5.2
+pyzbar==0.1.9
+Pillow==10.3.0
+numpy==1.26.4
+LCSV==0.1.0

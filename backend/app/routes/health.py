@@ -1,64 +1,131 @@
+"""
+GET /api/health/system
+
+Returns system health status per module:
+- MongoDB
+- OCR
+- MRZ
+- Barcode
+- AI
+- Face
+"""
+from __future__ import annotations
+
 from fastapi import APIRouter
-import time
+from pydantic import BaseModel
 
 router = APIRouter()
 
 
-@router.get("/health/system")
+class ModuleStatus(BaseModel):
+    status: str  # READY, NOT_AVAILABLE, ERROR
+    details: str = ""
+
+
+class SystemHealthResponse(BaseModel):
+    mongodb: ModuleStatus
+    ocr: ModuleStatus
+    mrz: ModuleStatus
+    barcode: ModuleStatus
+    ai: ModuleStatus
+    face: ModuleStatus
+    overall: str  # READY, DEGRADED, OFFLINE
+
+
+def _status_from_bool(available: bool, detail: str = "") -> ModuleStatus:
+    if available:
+        return ModuleStatus(status="READY", details=detail)
+    return ModuleStatus(status="NOT_AVAILABLE", details=detail)
+
+
+@router.get("/health/system", response_model=SystemHealthResponse)
 async def system_health():
     from app.main import app as main_app
-    has_mongo = getattr(main_app.state, "mongodb_client", None) is not None
-    services = {
-        "mongodb": {
-            "status": "connected" if has_mongo else "mock",
-            "latency_ms": 42 if has_mongo else 0,
-        },
-        "ocr": {"status": "operational", "latency_ms": 18},
-        "mrz": {"status": "operational", "latency_ms": 12},
-        "barcode": {"status": "operational", "latency_ms": 8},
-        "ai_model": {"status": "operational", "latency_ms": 340},
-        "face_verification": {"status": "standby", "latency_ms": None},
-    }
-    all_ok = all(s["status"] in ("connected", "operational") for s in services.values())
-    return {
-        "overall": "healthy" if all_ok else "degraded",
-        "services": services,
-        "timestamp": time.time(),
-    }
+    db = getattr(main_app.state, "mongodb_db", None)
+    mongodb_client = getattr(main_app.state, "mongodb_client", None)
 
+    mongodb_ok = db is not None and mongodb_client is not None
+    try:
+        if mongodb_ok:
+            mongodb_client.admin.command("ping")
+            mongodb_detail = "Connected"
+        else:
+            mongodb_detail = "Not connected"
+    except Exception as e:
+        mongodb_ok = False
+        mongodb_detail = f"Error: {e}"
 
-@router.get("/health/mongodb")
-async def mongodb_health():
-    from app.main import app as main_app
-    if getattr(main_app.state, "mongodb_client", None) is not None:
-        try:
-            main_app.state.mongodb_client.admin.command("ping")
-            return {"status": "connected", "latency_ms": 42}
-        except Exception:
-            return {"status": "disconnected", "latency_ms": None}
-    return {"status": "mock_mode", "latency_ms": None}
+    # OCR / MRZ / Barcode depend on OpenCV + pyzbar + PaddleOCR
+    try:
+        import cv2
+        import numpy as np
+        ocr_detail = "OpenCV available"
+        mrz_detail = "OpenCV available"
+        barcode_detail = "OpenCV available"
+    except Exception as e:
+        ocr_detail = f"OpenCV unavailable: {e}"
+        mrz_detail = f"OpenCV unavailable: {e}"
+        barcode_detail = f"OpenCV unavailable: {e}"
 
+    try:
+        from pyzbar import pyzbar
+        barcode_detail = "pyzbar available"
+    except Exception as e:
+        barcode_detail = f"pyzbar unavailable: {e}"
 
-@router.get("/health/ocr")
-async def ocr_health():
-    return {"status": "operational", "latency_ms": 18, "version": "2.1.0"}
+    try:
+        from paddleocr import PaddleOCR
+        ocr_detail = "PaddleOCR available"
+        mrz_detail = "PaddleOCR available"
+    except Exception as e:
+        ocr_detail = f"PaddleOCR unavailable: {e}"
+        mrz_detail = f"PaddleOCR unavailable: {e}"
 
+    # AI model
+    import os
+    from pathlib import Path
+    model_path = Path(__file__).resolve().parent.parent.parent / "models" / "best_model.pth"
+    ai_ok = model_path.is_file()
+    ai_detail = f"Model file present: {model_path}" if ai_ok else f"Model file not found: {model_path}"
 
-@router.get("/health/mrz")
-async def mrz_health():
-    return {"status": "operational", "latency_ms": 12, "version": "1.5.3"}
+    # Face biometrics
+    try:
+        import face_recognition
+        face_detail = "face_recognition available"
+        face_ok = True
+    except Exception as e:
+        face_ok = False
+        face_detail = f"face_recognition unavailable: {e}"
 
+    mongodb = ModuleStatus(status="READY" if mongodb_ok else "ERROR", details=mongodb_detail)
+    ocr_ready = "PaddleOCR available" in ocr_detail
+    mrz_ready = "PaddleOCR available" in mrz_detail
+    barcode_ready = "pyzbar available" in barcode_detail
 
-@router.get("/health/barcode")
-async def barcode_health():
-    return {"status": "operational", "latency_ms": 8, "version": "1.2.0"}
+    def _module_status(ready: bool, detail: str) -> ModuleStatus:
+        return ModuleStatus(status="READY" if ready else "NOT_AVAILABLE", details=detail)
 
+    ocr = _module_status(ocr_ready, ocr_detail)
+    mrz = _module_status(mrz_ready, mrz_detail)
+    barcode = _module_status(barcode_ready, barcode_detail)
+    ai = _module_status(ai_ok, ai_detail)
+    face = _module_status(face_ok, face_detail)
 
-@router.get("/health/ai-model")
-async def ai_model_health():
-    return {"status": "operational", "latency_ms": 340, "version": "DetectionNet-v2.1", "model_type": "binary_classification"}
+    modules = [mongodb, ocr, mrz, barcode, ai, face]
+    ready_count = sum(1 for m in modules if m.status == "READY")
+    if ready_count == len(modules):
+        overall = "READY"
+    elif ready_count > 0:
+        overall = "DEGRADED"
+    else:
+        overall = "OFFLINE"
 
-
-@router.get("/health/face-verification")
-async def face_verification_health():
-    return {"status": "standby", "latency_ms": None, "version": "1.0.0", "note": "Module not activated for this screening"}
+    return SystemHealthResponse(
+        mongodb=mongodb,
+        ocr=ocr,
+        mrz=mrz,
+        barcode=barcode,
+        ai=ai,
+        face=face,
+        overall=overall,
+    )
